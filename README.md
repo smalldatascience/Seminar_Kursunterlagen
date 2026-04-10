@@ -3,10 +3,10 @@
 
 📅 Termine & Übersicht
 
-| Datum | Zeit | Ort | Modul | Fokus |
+| Modul | Datum | Zeit | Fokus | Notebook |
 | :--- | :--- | :--- | :--- | :--- |
-| **08.04.2026** | 16:00 – 17:30 | MS Teams | **Modul I** | Reproduzierbarkeit & Versionierung |
-| **15.04.2026** | 16:00 – 17:30 | MS Teams | **Modul II** | Grundkonzepte der Programmierung I |
-| **22.04.2026** | 16:00 – 17:30 | MS Teams | **Modul III** | Grundkonzepte der Programmierung II |
-| **29.04.2026** | 16:00 – 17:30 | MS Teams | **Modul IV** | Datenvisualisierung in R |
-| **06.05.2026** | 16:00 – 17:30 | MS Teams | **Modul V** | Automatisierung |
+| **Modul I** | 08.04.2026 | 16:00 – 17:30 | Reproduzierbarkeit & Versionierung | [ ] |
+| **Modul II** | 15.04.2026 | 16:00 – 17:30 | Grundkonzepte der Programmierung I | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smalldatascience/Seminar_2026_tidyverse/HEAD?urlpath=%2Fdoc%2Ftree%2FDatenaufbereitung.ipynb) |
+| **Modul III** | 22.04.2026 | 16:00 – 17:30 | Grundkonzepte der Programmierung II | [ ] |
+| **Modul IV** | 29.04.2026 | 16:00 – 17:30 | Datenvisualisierung in R | [ ] |
+| **Modul V** | 06.05.2026 | 16:00 – 17:30 | Automatisierung & LLM-Einsatz | [ ] |
