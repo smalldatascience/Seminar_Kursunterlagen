@@ -4,7 +4,7 @@ In diesem Repository finden Sie alle Kursunterlagen und Materialien für unsere 
 
 ## Übersicht
 
-| Modul | Datum | Zeit | Fokus | Notebook | Notebook inkl. Lösung |
+| Modul | Datum | Zeit | Fokus | Notebook | Lösung |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Modul I** | 08.04.2026 | 16:00 – 17:30 | Reproduzierbarkeit & Versionierung | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smalldatascience/Seminar_2026_Reproduzierbarkeit/HEAD?urlpath=%2Fdoc%2Ftree%2FJupyter_intro.ipynb) | |
 | **Modul II** | 15.04.2026 | 16:00 – 17:30 | Grundkonzepte der Programmierung I | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smalldatascience/Seminar_2026_tidyverse/HEAD?urlpath=%2Fdoc%2Ftree%2FDatenaufbereitung.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smalldatascience/Seminar_2026_tidyverse_solved/HEAD?urlpath=%2Fdoc%2Ftree%2FDatenaufbereitung.ipynb) |
