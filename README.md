@@ -9,8 +9,7 @@ In diesem Repository finden Sie alle Kursunterlagen und Materialien für unsere 
 | **Modul I** | 08.04.2026 | 16:00 – 17:30 | Reproduzierbarkeit & Versionierung | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smalldatascience/Seminar_2026_Reproduzierbarkeit/HEAD?urlpath=%2Fdoc%2Ftree%2FJupyter_intro.ipynb) |
 | **Modul II** | 15.04.2026 | 16:00 – 17:30 | Grundkonzepte der Programmierung I | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smalldatascience/Seminar_2026_tidyverse/HEAD?urlpath=%2Fdoc%2Ftree%2FDatenaufbereitung.ipynb) |
 | **Modul III** | 22.04.2026 | 16:00 – 17:30 | Grundkonzepte der Programmierung II | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smalldatascience/Seminar_2026_data_table/HEAD?urlpath=%2Fdoc%2Ftree%2F2026_data_table.ipynb) |
-| **Modul IV** | 29.04.2026 | 16:00 – 17:30 | Datenvisualisierung in R | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smalldatascience/Seminar_2026_Visualisierungen/HEAD?urlpath=%2Fdoc%2Ftree%2FVisualisierung.ipynb)
- |
+| **Modul IV** | 29.04.2026 | 16:00 – 17:30 | Datenvisualisierung in R | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smalldatascience/Seminar_2026_Visualisierungen/HEAD?urlpath=%2Fdoc%2Ftree%2FVisualisierung.ipynb)|
 | **Modul V** | 06.05.2026 | 16:00 – 17:30 | Automatisierung & LLM-Einsatz | [ ] |
 
 
