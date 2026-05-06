@@ -1,0 +1,453 @@
+---
+title: "Testbericht (HTML + PDF)"            # Titel des Dokuments (erscheint im HTML und PDF)
+author: "Fabian und Dietmar"                 # Autor(en) des Dokuments
+date: "`r format(Sys.Date(), '%d.%m.%Y')`"   # Dynamisches Datum (heutiges Datum im Format TT.MM.JJJJ)
+output:                                      # Definiert die Ausgabeformate
+  html_document:                             # Einstellungen für HTML-Ausgabe
+    toc: true                                # Inhaltsverzeichnis anzeigen
+    toc_float: true                          # Inhaltsverzeichnis bleibt beim Scrollen sichtbar
+    toc_depth: 3                             # Tiefe des Inhaltsverzeichnisses (bis Überschrift Ebene 3)
+    number_sections: true                    # Kapitel nummerieren
+    theme: cosmo                             # Layout/Design (Bootstrap-Theme „Cosmo“)
+    highlight: tango                         # Farbschema für Codeblöcke
+    code_folding: show                       # Codeblöcke sind initial ausgeklappt
+    df_print: paged                          # Dataframes werden seitenweise dargestellt
+    fig_caption: true                        # Aktiviert Bildunterschriften für Grafiken
+  pdf_document:                              # Einstellungen für PDF-Ausgabe
+    toc: true                                # Inhaltsverzeichnis anzeigen
+    number_sections: true                    # Kapitel nummerieren
+    latex_engine: xelatex                    # Verwendeter LaTeX-Compiler (gut für Umlaute & Schriftarten)
+    keep_tex: true                           # Behalte die erzeugte .tex-Datei (für Analyse/Fehlersuche)
+    extra_dependencies: ["fvextra"]          # Zwingt den Code dazu, am rechten Rand abzubrechen und nicht weiter zu schreiben
+fontsize: 11pt                               # Schriftgröße im PDF-Dokument
+geometry: margin=2.5cm                       # Seitenränder im PDF (2,5 cm rundum)
+lang: de                                     # Sprache (wichtig für Silbentrennung und PDF-Einstellungen)
+---
+
+
+```{r setup, include=FALSE} 
+# Global: diese Optionen gelten für alle nachfolgenden Chunks.
+# include=FALSE: der Code wird ausgeführt aber nicht angezeigt.
+# Alle festgelegten Optionen können in den einzelnen Chunks überschrieben und neu definiert werden.
+knitr::opts_chunk$set(
+  echo = TRUE,          # Der Quellcode im Dokument (pdf und HTML) wird angezeigt
+  message = FALSE,      # Unterdrückt Meldungen beim Laden von Paketen
+  warning = FALSE,      # Verhindern Warnmeldungen im Dokument
+  fig.width = 15,       # Breite der Grafik
+  fig.height = 8        # Höhe der Grafik
+)
+options(width = 60)     # Allgemeine Einstellung in R (nach 60 Zeichen erfolgt ein Zeilenumbruch)
+```
+
+# Laden der benötigten Pakete
+
+In den nachfolgenden Analysen werden die folgenden Pakete verwendet:
+
+```{r}
+#| message=FALSE
+
+library(data.table)
+library(janitor)
+library(kableExtra)
+library(knitr)
+library(plotly)
+library(tidyverse)
+```
+
+
+**Wichtiger Hinweis:**
+
+Damit eine pdf-Datei mit R Markdown erzeugt werden kann, wird ein LaTeX-Compiler benötigt!
+Technisch erzeugt R Markdown eine *.tex*-Datei (LaTeX-Code), der anschließend mit einem Compiler eine pdf-Datei erzeugt.
+
+Empfohlen wird beispielsweise *XeLaTex* (ein moderner LaTeX-Compiler), da er Umlaute (ä, ö, ü) unterstütztund gleichzeitig wenig Konfigurationsaufwand erfordert. Die Installation erfolgt dabei über eine LaTeX-Distribution, die XeLaTeX enthält, wie z.B. *TinyTex* (ist eine minimalistische LaTeX-Distribution).
+
+```{r}
+#| eval=FALSE
+
+install.packages("tinytex")
+tinytex::install_tinytex()
+```
+
+Prüfen, ob eine XeLaTeX-Version vorhanden ist (funktioniert nur, wenn der R-Pfad korrekt konfiguriert ist.)
+
+```{r}
+#| eval=FALSE
+
+system("xelatex --version", intern = TRUE)[1]
+```
+
+
+# Daten einlesen
+
+Das Einlesen von Daten erfolgt durch die Angabe von relativen Pfaden in Bezug auf den Pfad, aus dem gerendert wird bzw. in dem der Code gespeichert ist. Zunächst werden alle benötigten Datensätze eingelesen und sind im Verzeichnis *data* in csv-Format verfügbar. In diesem Bericht werden dieselben Datensätze wie im 3. Seminarteil (**data.table**) verwendet.
+
+
+## Bilanzdaten
+
+```{r}
+df_bs <- readr::read_csv(file = file.path("data", "PF_A_BalanceSheet.csv"),
+                         name_repair = janitor::make_clean_names,
+                         show_col_types = FALSE) %>%
+  dplyr::mutate(dplyr::across(dplyr::where(is.numeric), ~replace_na(., 0)),
+                date_of_extraction_yyyymmdd = ymd(date_of_extraction_yyyymmdd)) %>%
+  dplyr::rename(doe_yyyymmdd = date_of_extraction_yyyymmdd)
+
+head(df_bs)
+```
+
+Der Datensatz könnte auch direkt von der EIOPA-Homepage heruntergeladen werden.
+
+```{r}
+#| eval=FALSE
+
+df_bs_2 <- readr::read_csv("https://register.eiopa.europa.eu/_layouts/15/download.aspx?SourceUrl=https://register.eiopa.europa.eu/Publications/Pensions%20Statistics/PF_A_BalanceSheet.csv",
+                            name_repair = janitor::make_clean_names,
+                            show_col_types = FALSE) %>%
+  dplyr::mutate(dplyr::across(dplyr::where(is.numeric), ~replace_na(., 0)),
+                date_of_extraction_yyyymmdd = ymd(date_of_extraction_yyyymmdd)) %>%
+  dplyr::rename(doe_yyyymmdd = date_of_extraction_yyyymmdd)
+```
+
+Der Bilanz-Datensatz hat `r format(nrow(df_bs), big.mark = ".", decimal.mark = ",", scientific = FALSE)` Zeilen und `r ncol(df_bs)` Spalten.
+
+## Kosten
+
+```{r}
+df_exp <- readr::read_csv(file = file.path("data", "PF_A_EXPENSES.csv"),
+                          name_repair = janitor::make_clean_names,
+                          show_col_types = FALSE) %>%
+  dplyr::mutate(dplyr::across(dplyr::where(is.numeric), ~replace_na(., 0)),
+                date_of_extraction_yyyymmdd = ymd(date_of_extraction_yyyymmdd)) %>%
+  dplyr::rename(doe_yyyymmdd = date_of_extraction_yyyymmdd)
+
+head(df_exp)
+```
+
+R Markdown bietet verschiedene zusätzliche Pakete zur Formatierung von Tabellen bei der Ausgabe.
+
+```{r}
+knitr::kable(head(df_exp), caption = "Formatierung mit dem Paket 'knitr'.")
+```
+
+Die Funktion `kable_styling()` aus dem Paket `kableExtra` bietet zahlreiche Formatierungsoptionen mit dem Parameter **bootstrap_options** (für HTML-Aufgabe) bzw. **latex_options** (für pdf-Ausgabe):
+
+Optionen für **bootstrap_options**:  
+- **basic** (Standard-Styling): Wendet das minimale Bootstrap-Design an (etwas Padding und eine horizontale Linie unter dem Header).  
+- **striped**	 (Zebra-Streifen): Fügt abwechselnde Hintergrundfarben zu den Zeilen hinzu (grau/weiß), was die Lesbarkeit bei breiten Tabellen erhöht.  
+- **bordered** (Umrandung): Zieht Rahmenlinien um alle Zellen und die gesamte Tabelle.  
+- **hover** (Hover-Effekt): Hebt die Zeile, über der sich der Mauszeiger gerade befindet, farblich hervor.  
+- **condensed** (Kompakt): Reduziert das Padding (den Innenabstand) innerhalb der Zellen, um die Tabelle platzsparender zu machen.  
+- **responsive** (Responsiv): Fügt einen horizontalen Scrollbalken hinzu, falls die Tabelle zu breit für den Bildschirm (z. B. auf Mobilgeräten) ist.  
+
+Optionen für **latex_options**:  
+- **striped**	 (Zebra-Streifen): Fügt abwechselnde Hintergrundfarben zu den Zeilen hinzu (grau/weiß), was die Lesbarkeit bei breiten Tabellen erhöht.  
+- **scale_down** (Skalierung): Verkleinert Tabelle, damit sie auf die Seite passt.  
+- **hold_position** (Positionierung): Verhindert „Floating“ (fixiert Position).  
+- **repeat_header** (Header): Die Kopfzeile wird bei langen Tabellen auf auf jeder Seite angezeigt.  
+
+```{r}
+head(df_exp) %>%
+  kableExtra::kbl() %>%    # Wrapper-Funktion für die oben verwendete Funktion "knitr::kable"
+  kableExtra::kable_styling(bootstrap_options = c("striped", "hover"), latex_options = c("scale_down"), full_width = FALSE)
+```
+
+Das Paket `gt` bietet ebenfalls Formatierungsmöglichkeiten:
+
+```{r}
+library(gt)
+
+head(df_exp) %>%
+  gt::gt() %>%
+  gt::tab_header(title = "Titel der Tabelle", subtitle = "Untertitel für die Tabelle") %>%
+  gt::fmt_number(columns = vars(value_euro_millions), decimals = 3)
+
+```
+
+Der Kosten-Datensatz hat `r format(nrow(df_exp), big.mark = ".", decimal.mark = ",", scientific = FALSE)` Zeilen und `r ncol(df_exp)` Spalten.
+
+Die obige Formatierung mittels `kable_styling()` soll im Folgenden für alle Tabellen verwendet werden. Dafür wird eine Funktion definiert, die eine Formatierung der numerischen Spalten (1.000er-Trennzeichen) durchführt und rechts ausrichtet bzw. die restlichen Spalten zentriert. Die Formatierung mit 1.000er-Trennzeichen soll allerdings nicht auf die Spalte **reference_period** angewendet werden, da sie eine Jahreszahl enthält.
+
+```{r}
+pretty_table <- function(data) {
+  
+  alignments <- ifelse(sapply(data, is.numeric), "r", "c")
+  align_string <- paste(alignments, collapse = "")
+
+    # Formatierung der numerischen Spalten
+  data_format <- data %>%
+    dplyr::mutate(dplyr::across(dplyr::where(is.numeric) & !dplyr::any_of("reference_period"), 
+                                ~ format(.x, big.mark = ".", decimal.mark = ",", scientific = FALSE)))
+  
+  
+  p <- data_format %>%
+    kableExtra::kbl(align = align_string) %>%   
+    kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "responsive"), latex_options = c("scale_down"), full_width = FALSE)
+  return(p)
+}
+
+num_format <-  function(value) {
+  return(format(value, big.mark = ".", decimal.mark = ",", scientific = FALSE))
+}
+```
+
+**Bemerkung**: Im endgültigen Bericht sollen Hilfsfunktionen, wie die oben definierte Plot-Funktion, natürlich nicht angezeigt werden. Mit der Chunk-Option `include=FALSE` wird der Code-Block ausgeführt, aber nicht angezeigt.
+
+## Mitglieder
+
+```{r}
+df_mem <- readr::read_csv(file = file.path("data", "PF_A_MEMBERSDATA.csv"),
+                          name_repair = janitor::make_clean_names,
+                          show_col_types = FALSE) %>%
+  dplyr::mutate(dplyr::across(dplyr::where(is.numeric), ~replace_na(., 0)),
+                date_of_extraction_yyyymmdd = ymd(date_of_extraction_yyyymmdd)) %>%
+  dplyr::rename(doe_yyyymmdd = date_of_extraction_yyyymmdd)
+
+pretty_table(head(df_mem))
+```
+
+Der Mitglieder-Datensatz hat `r num_format(nrow(df_mem))` Zeilen und `r ncol(df_mem)` Spalten.
+
+
+# Beispiel für kurzen Bericht mit Plot
+
+Die nachfolgende Datenaufbereitung könnte bereits außerhalb des Berichts in *R* gemacht werden, sodass der endgültige Bericht lediglich die aufbereiteten Daten darstellt. Der Vollständigkeit halber erfolgt die Aufbereitung jedoch direkt in diesem Bericht.
+
+Zunächst werden die Datenbestände wie im 3. Seminarteil gefiltert und anschließend zu einem Gesamtbestand kombiniert. Für die einzelnen Aufbereitungsschritte ist jeweils der Code aus dem 3. Seminarteil (`data.table`-Syntax) dargestellt, sowie die entsprechende Lösung mit `tidyverse`. Die Code-Teile für `data.table` sind mit der Chunk-Option `eval=FALSE` versehen, d.h. sie werden angezeigt, aber nicht ausgeführt.
+
+Filterung in **data.table**:
+
+```{r}
+#| eval=FALSE
+
+bs_filtered <- dt_bs[Item.code == "R0268", 
+                     .(Total_assets_mn = sum(Value..euro.millions., na.rm = TRUE)),
+                     by = .(Reporting.country, Reference.period)]
+```
+
+Filterung in **tidyverse**:
+
+```{r}
+bs_filtered <- df_bs %>%
+  dplyr::filter(item_code == "R0268") %>%
+  dplyr::group_by(reporting_country, reference_period) %>%
+  dplyr::reframe(total_assets_mn = sum(value_euro_millions, na.rm = TRUE))
+
+pretty_table(head(bs_filtered))
+```
+
+Filterung in **data.table**:
+
+```{r}
+#| eval=FALSE
+
+exp_filtered <- dt_exp[Item.code == "R0050", 
+                       .(Total_expenses_mn = sum(Value..euro.millions., na.rm = TRUE)),
+                       by = .(Reporting.country, Reference.period)]
+```
+
+Filterung in **tidyverse**:
+
+```{r}
+exp_filtered <- df_exp %>%
+  dplyr::filter(item_code == "R0050") %>%
+  dplyr::group_by(reporting_country, reference_period) %>%
+  dplyr::reframe(total_expenses_mn = sum(value_euro_millions, na.rm = TRUE))
+
+pretty_table(head(exp_filtered))
+```
+
+Filterung in **data.table**:
+
+```{r}
+#| eval=FALSE
+
+mem_filtered <- dt_mem[Item.code == "R0008", 
+                       .(Active_members = sum(Value, na.rm = TRUE)),
+                       by = .(Reporting.country, Reference.period)]
+```
+
+Filterung in **tidyverse**:
+
+```{r}
+mem_filtered <- df_mem %>%
+  dplyr::filter(item_code == "R0008") %>%
+  dplyr::group_by(reporting_country, reference_period) %>%
+  dplyr::reframe(active_members = sum(value, na.rm = TRUE))
+
+pretty_table(head(mem_filtered))
+```
+
+Die gefilterten Datenbestände werden zu einem Gesamtbestand kombiniert. 
+
+Join in **data.table**:
+
+```{r}
+#| eval=FALSE
+
+dt_overview <- 
+  bs_filtered |>
+  merge(x = _,     # Left join mit Kosten
+        y = exp_filtered,
+        by = c("Reporting.country", "Reference.period"),
+        all.x = TRUE) |>
+  merge(
+    x = _,      # Left join mit Mitgliedern
+    y = mem_filtered,
+    by = c("Reporting.country", "Reference.period"),
+    all.x = TRUE)
+```
+
+Join in **tidyverse**:
+
+```{r}
+df_overview <- bs_filtered %>%
+  dplyr::left_join(exp_filtered, by = c("reporting_country", "reference_period")) %>%
+  dplyr::left_join(mem_filtered, by = c("reporting_country", "reference_period"))
+
+pretty_table(head(df_overview))
+```
+
+Berechnung der durchschnittlichen Kosten pro Mitglied in **data.table**:
+
+```{r}
+#| eval=FALSE
+
+dt_overview[, `:=`(Avg_exp_pro_mem = Total_expenses_mn / Active_members * 1e6)]
+dt_overview
+```
+
+Berechnung der durchschnittlichen Assets und Kosten pro Mitglied in **tidyverse**:
+
+```{r}
+df_overview <- df_overview %>%
+  dplyr::mutate(avg_exp_pro_mem = total_expenses_mn / active_members)
+
+pretty_table(head(df_overview))
+```
+
+Berechnung des Lags der einzelnen Jahre in **data.table**:
+
+```{r}
+#| eval=FALSE
+
+dt_overview[,
+            prev_total_assets := shift(Total_assets_mn, 1, type = "lag")
+            ,by = .(Reporting.country)]
+dt_overview
+```
+
+Berechnung des Lags der einzelnen Jahre in **tidyverse**:
+
+```{r}
+df_overview <- df_overview %>%
+  dplyr::group_by(reporting_country) %>%
+  dplyr::mutate(prev_total_assets = dplyr::lag(total_assets_mn, 1)) %>%
+  dplyr::ungroup()
+
+pretty_table(head(df_overview))
+```
+
+Umwandlung in ein wide-Format in **data.table**:
+
+```{r}
+#| eval=FALSE
+
+dt_overview[, Reporting.country:Total_assets_mn] |>
+  dcast(
+    Reporting.country ~ Reference.period,
+    value.var = c("Total_assets_mn")
+  )
+```
+
+Umwandlung in ein wide-Format in **tidyverse**:
+
+```{r}
+df_overview_report <- df_overview %>%
+  dplyr::select(reporting_country:total_assets_mn) %>%
+  tidyr::pivot_wider(names_from = reference_period,
+                     values_from = total_assets_mn)
+
+pretty_table(head(df_overview_report))
+```
+
+## Automatisierte Analyse
+
+Die folgende Analyse zeigt, in welchem Land die Assets vom Jahr 2023 auf das Jahr 2024 den höchsten und den geringsten relativen Anstieg hatten.
+
+Zunächst wird der Datensatz entsprechend aufbereitet
+
+```{r}
+df_analyse <- df_overview %>%
+  dplyr::select(reporting_country, reference_period, total_assets_mn, prev_total_assets) %>%
+  dplyr::mutate(rel_diff = (total_assets_mn - prev_total_assets) / prev_total_assets)
+
+df_analyse_2024 <- df_analyse %>%
+  dplyr::filter(reference_period == 2024) %>%
+  tidyr::drop_na() %>%
+  dplyr::arrange(desc(rel_diff))
+
+pretty_table(df_analyse_2024)
+```
+
+Die größte relative Änderung gab es in `r df_analyse_2024$reporting_country[1]` mit `r paste0(ifelse(df_analyse_2024$rel_diff[1] > 0, " einer Steigerung ", " einem Rückgang "))` von `r round(df_analyse_2024$rel_diff[1]*100,2)`-Prozent-Punkten von `r num_format(df_analyse_2024$prev_total_assets[1])` auf `r num_format(df_analyse_2024$total_assets_mn[1])`.
+
+
+```{r} 
+#| include=FALSE
+
+num_rows <- nrow(df_analyse_2024)
+```
+
+
+Die geringste relative Änderung gab es in `r df_analyse_2024$reporting_country[num_rows]` mit `r paste0(ifelse(df_analyse_2024$rel_diff[num_rows] > 0, " einer Steigerung ", " einem Rückgang "))` von `r round(df_analyse_2024$rel_diff[num_rows]*100,2)`-Prozent-Punkten von `r num_format(df_analyse_2024$prev_total_assets[num_rows])` auf `r num_format(df_analyse_2024$total_assets_mn[num_rows])`.
+
+
+## Plots
+
+Plots können abhängig, ob in eine html-Datei oder in eine pdf-Datei geschrieben wird, unterschiedlich definiert werden.
+
+```{r}
+df_plot <- df_analyse %>%
+  tidyr::drop_na() %>%
+  dplyr::filter(reporting_country != "Other")
+```
+
+
+```{r, out.width="100%", fig.align="center"}
+p <- ggplot(df_plot, aes(x = reference_period, y = rel_diff, colour = reporting_country)) +
+  geom_line() +
+  labs(
+    title = "Entwicklung der relativen Änderungen der \nAssets pro Land",
+    x = "Referenzzeitraum",
+    y = "Relative Änderung"
+  ) +
+  theme_minimal()
+
+if (knitr::is_html_output()) {
+  plotly::ggplotly(p)
+} else if (knitr::is_latex_output()) {
+  p
+}
+```
+
+
+# Transformation zwischen den einzelnen Formaten R, R-Markdown und Jupyter
+
+| Von      | Nach     | Tool                                                                                                       |
+| :------: | :------: | ---------------------------------------------------------------------------------------------------------- |
+| `.Rmd`   | `.R`     | `knitr::purl("file.Rmd")` extrahiert R-Code aus Chunks.                                                    |
+| `.R`     | `.Rmd`   | `knitr::spin("file.R")`, wenn Kommentare im passenden Format stehen, z. B. `#'` für Text.                  |
+| `.ipynb` | `.Rmd`   | `rmarkdown::convert_ipynb("file.ipynb")`. Markdown-Zellen bleiben Markdown, Code-Zellen werden Rmd-Chunks. |
+| `.Rmd`   | `.ipynb` | Nicht sauber in `rmarkdown`; praktikabel mit **Jupytext**, **Quarto** oder `notedown` (Python-Tool).       |
+| `.R`     | `.ipynb` | Am besten über `.R → .Rmd → .ipynb`, oder direkt mit **Jupytext**, wenn Zellmarker verwendet werden.       |
+| `.ipynb` | `.R`     | Meist über `.ipynb → .Rmd → .R`, also `rmarkdown::convert_ipynb()` und danach `knitr::purl()`.             |
+
+
+# Übersicht: sessionInfo()
+
+Für die Nachvollziehbarkeit der Ergebnisse ist es sinnvoll, die sogenannte *sessionInfo* auszugeben. 
+
+```{r}
+sessionInfo()
+```

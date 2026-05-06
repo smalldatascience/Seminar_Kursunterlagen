@@ -1,0 +1,2461 @@
+Reporting country,Reference period,Item code,Item name,IORP type,Value,Date of extraction (yyyymmdd)
+AT,2020,R0008,Active members,DB,89837.0,20250716
+AT,2020,R0008,Active members,DC,694114.0,20250716
+AT,2020,R0009,Active members reported by exempted IORPs,DB,,20250716
+AT,2020,R0009,Active members reported by exempted IORPs,DC,,20250716
+AT,2020,R0010,Active members reported by non-exempted IORPs,DB,89837.0,20250716
+AT,2020,R0010,Active members reported by non-exempted IORPs,DC,694114.0,20250716
+AT,2020,R0018,Deferred members,DB,15023.0,20250716
+AT,2020,R0018,Deferred members,DC,77772.0,20250716
+AT,2020,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+AT,2020,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+AT,2020,R0020,Deferred members reported by non-exempted IORPs,DB,15023.0,20250716
+AT,2020,R0020,Deferred members reported by non-exempted IORPs,DC,77772.0,20250716
+AT,2020,R0028,Beneficiaries,DB,21847.0,20250716
+AT,2020,R0028,Beneficiaries,DC,97825.0,20250716
+AT,2020,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+AT,2020,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+AT,2020,R0030,Beneficiaries reported by non-exempted IORPs,DB,21847.0,20250716
+AT,2020,R0030,Beneficiaries reported by non-exempted IORPs,DC,97825.0,20250716
+AT,2020,R0040,New members,DB,7058.0,20250716
+AT,2020,R0040,New members,DC,51103.0,20250716
+AT,2020,R0050,Deaths,DB,560.0,20250716
+AT,2020,R0050,Deaths,DC,2752.0,20250716
+AT,2020,R0060,Commutations,DB,876.0,20250716
+AT,2020,R0060,Commutations,DC,13502.0,20250716
+AT,2020,R0070,Other exits,DB,2085.0,20250716
+AT,2020,R0070,Other exits,DC,18181.0,20250716
+AT,2020,R0080,New beneficiaries,DB,1266.0,20250716
+AT,2020,R0080,New beneficiaries,DC,15335.0,20250716
+AT,2020,R0090,of which new retired members,DB,1086.0,20250716
+AT,2020,R0090,of which new retired members,DC,5460.0,20250716
+AT,2021,R0008,Active members,DB,86902.0,20250716
+AT,2021,R0008,Active members,DC,699054.0,20250716
+AT,2021,R0009,Active members reported by exempted IORPs,DB,,20250716
+AT,2021,R0009,Active members reported by exempted IORPs,DC,,20250716
+AT,2021,R0010,Active members reported by non-exempted IORPs,DB,86902.0,20250716
+AT,2021,R0010,Active members reported by non-exempted IORPs,DC,699054.0,20250716
+AT,2021,R0018,Deferred members,DB,15629.0,20250716
+AT,2021,R0018,Deferred members,DC,86305.0,20250716
+AT,2021,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+AT,2021,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+AT,2021,R0020,Deferred members reported by non-exempted IORPs,DB,15629.0,20250716
+AT,2021,R0020,Deferred members reported by non-exempted IORPs,DC,86305.0,20250716
+AT,2021,R0028,Beneficiaries,DB,22411.0,20250716
+AT,2021,R0028,Beneficiaries,DC,106027.0,20250716
+AT,2021,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+AT,2021,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+AT,2021,R0030,Beneficiaries reported by non-exempted IORPs,DB,22411.0,20250716
+AT,2021,R0030,Beneficiaries reported by non-exempted IORPs,DC,106027.0,20250716
+AT,2021,R0040,New members,DB,7501.0,20250716
+AT,2021,R0040,New members,DC,56267.0,20250716
+AT,2021,R0050,Deaths,DB,598.0,20250716
+AT,2021,R0050,Deaths,DC,2943.0,20250716
+AT,2021,R0060,Commutations,DB,1086.0,20250716
+AT,2021,R0060,Commutations,DC,15757.0,20250716
+AT,2021,R0070,Other exits,DB,2699.0,20250716
+AT,2021,R0070,Other exits,DC,20499.0,20250716
+AT,2021,R0080,New beneficiaries,DB,1473.0,20250716
+AT,2021,R0080,New beneficiaries,DC,17649.0,20250716
+AT,2021,R0090,of which new retired members,DB,1186.0,20250716
+AT,2021,R0090,of which new retired members,DC,6578.0,20250716
+AT,2022,R0008,Active members,DB,88168.0,20250716
+AT,2022,R0008,Active members,DC,704667.0,20250716
+AT,2022,R0009,Active members reported by exempted IORPs,DB,,20250716
+AT,2022,R0009,Active members reported by exempted IORPs,DC,,20250716
+AT,2022,R0010,Active members reported by non-exempted IORPs,DB,88168.0,20250716
+AT,2022,R0010,Active members reported by non-exempted IORPs,DC,704667.0,20250716
+AT,2022,R0018,Deferred members,DB,16979.0,20250716
+AT,2022,R0018,Deferred members,DC,93599.0,20250716
+AT,2022,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+AT,2022,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+AT,2022,R0020,Deferred members reported by non-exempted IORPs,DB,16979.0,20250716
+AT,2022,R0020,Deferred members reported by non-exempted IORPs,DC,93599.0,20250716
+AT,2022,R0028,Beneficiaries,DB,23385.0,20250716
+AT,2022,R0028,Beneficiaries,DC,114143.0,20250716
+AT,2022,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+AT,2022,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+AT,2022,R0030,Beneficiaries reported by non-exempted IORPs,DB,23385.0,20250716
+AT,2022,R0030,Beneficiaries reported by non-exempted IORPs,DC,114143.0,20250716
+AT,2022,R0040,New members,DB,14054.0,20250716
+AT,2022,R0040,New members,DC,83994.0,20250716
+AT,2022,R0050,Deaths,DB,603.0,20250716
+AT,2022,R0050,Deaths,DC,3217.0,20250716
+AT,2022,R0060,Commutations,DB,1233.0,20250716
+AT,2022,R0060,Commutations,DC,16402.0,20250716
+AT,2022,R0070,Other exits,DB,6909.0,20250716
+AT,2022,R0070,Other exits,DC,33685.0,20250716
+AT,2022,R0080,New beneficiaries,DB,2477.0,20250716
+AT,2022,R0080,New beneficiaries,DC,22538.0,20250716
+AT,2022,R0090,of which new retired members,DB,1231.0,20250716
+AT,2022,R0090,of which new retired members,DC,6748.0,20250716
+AT,2023,R0008,Active members,DB,88187.0,20250716
+AT,2023,R0008,Active members,DC,713280.0,20250716
+AT,2023,R0009,Active members reported by exempted IORPs,DB,,20250716
+AT,2023,R0009,Active members reported by exempted IORPs,DC,,20250716
+AT,2023,R0010,Active members reported by non-exempted IORPs,DB,88187.0,20250716
+AT,2023,R0010,Active members reported by non-exempted IORPs,DC,713280.0,20250716
+AT,2023,R0018,Deferred members,DB,18540.0,20250716
+AT,2023,R0018,Deferred members,DC,102238.0,20250716
+AT,2023,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+AT,2023,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+AT,2023,R0020,Deferred members reported by non-exempted IORPs,DB,18540.0,20250716
+AT,2023,R0020,Deferred members reported by non-exempted IORPs,DC,102238.0,20250716
+AT,2023,R0028,Beneficiaries,DB,24435.0,20250716
+AT,2023,R0028,Beneficiaries,DC,121302.0,20250716
+AT,2023,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+AT,2023,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+AT,2023,R0030,Beneficiaries reported by non-exempted IORPs,DB,24435.0,20250716
+AT,2023,R0030,Beneficiaries reported by non-exempted IORPs,DC,121302.0,20250716
+AT,2023,R0040,New members,DB,7421.0,20250716
+AT,2023,R0040,New members,DC,61656.0,20250716
+AT,2023,R0050,Deaths,DB,631.0,20250716
+AT,2023,R0050,Deaths,DC,3412.0,20250716
+AT,2023,R0060,Commutations,DB,968.0,20250716
+AT,2023,R0060,Commutations,DC,15388.0,20250716
+AT,2023,R0070,Other exits,DB,2328.0,20250716
+AT,2023,R0070,Other exits,DC,22576.0,20250716
+AT,2023,R0080,New beneficiaries,DB,1342.0,20250716
+AT,2023,R0080,New beneficiaries,DC,16675.0,20250716
+AT,2023,R0090,of which new retired members,DB,1149.0,20250716
+AT,2023,R0090,of which new retired members,DC,6255.0,20250716
+AT,2024,R0008,Active members,DB,83678.0,20250716
+AT,2024,R0008,Active members,DC,734173.0,20250716
+AT,2024,R0009,Active members reported by exempted IORPs,DB,,20250716
+AT,2024,R0009,Active members reported by exempted IORPs,DC,,20250716
+AT,2024,R0010,Active members reported by non-exempted IORPs,DB,83678.0,20250716
+AT,2024,R0010,Active members reported by non-exempted IORPs,DC,734173.0,20250716
+AT,2024,R0018,Deferred members,DB,18559.0,20250716
+AT,2024,R0018,Deferred members,DC,111677.0,20250716
+AT,2024,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+AT,2024,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+AT,2024,R0020,Deferred members reported by non-exempted IORPs,DB,18559.0,20250716
+AT,2024,R0020,Deferred members reported by non-exempted IORPs,DC,111677.0,20250716
+AT,2024,R0028,Beneficiaries,DB,23915.0,20250716
+AT,2024,R0028,Beneficiaries,DC,128771.0,20250716
+AT,2024,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+AT,2024,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+AT,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,23915.0,20250716
+AT,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,128771.0,20250716
+AT,2024,R0040,New members,DB,7945.0,20250716
+AT,2024,R0040,New members,DC,66276.0,20250716
+AT,2024,R0050,Deaths,DB,589.0,20250716
+AT,2024,R0050,Deaths,DC,3444.0,20250716
+AT,2024,R0060,Commutations,DB,982.0,20250716
+AT,2024,R0060,Commutations,DC,15181.0,20250716
+AT,2024,R0070,Other exits,DB,2361.0,20250716
+AT,2024,R0070,Other exits,DC,21427.0,20250716
+AT,2024,R0080,New beneficiaries,DB,1164.0,20250716
+AT,2024,R0080,New beneficiaries,DC,15382.0,20250716
+AT,2024,R0090,of which new retired members,DB,990.0,20250716
+AT,2024,R0090,of which new retired members,DC,5774.0,20250716
+BE,2020,R0008,Active members,DB,1076452.0,20250716
+BE,2020,R0008,Active members,DC,5890.0,20250716
+BE,2020,R0009,Active members reported by exempted IORPs,DB,,20250716
+BE,2020,R0009,Active members reported by exempted IORPs,DC,,20250716
+BE,2020,R0010,Active members reported by non-exempted IORPs,DB,1076452.0,20250716
+BE,2020,R0010,Active members reported by non-exempted IORPs,DC,5890.0,20250716
+BE,2020,R0018,Deferred members,DB,900480.0,20250716
+BE,2020,R0018,Deferred members,DC,2014.0,20250716
+BE,2020,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+BE,2020,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+BE,2020,R0020,Deferred members reported by non-exempted IORPs,DB,900480.0,20250716
+BE,2020,R0020,Deferred members reported by non-exempted IORPs,DC,2014.0,20250716
+BE,2020,R0028,Beneficiaries,DB,47752.0,20250716
+BE,2020,R0028,Beneficiaries,DC,3.0,20250716
+BE,2020,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+BE,2020,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+BE,2020,R0030,Beneficiaries reported by non-exempted IORPs,DB,47752.0,20250716
+BE,2020,R0030,Beneficiaries reported by non-exempted IORPs,DC,3.0,20250716
+BE,2020,R0040,New members,DB,100716.0,20250716
+BE,2020,R0040,New members,DC,633.0,20250716
+BE,2020,R0050,Deaths,DB,4593.0,20250716
+BE,2020,R0050,Deaths,DC,0.0,20250716
+BE,2020,R0060,Commutations,DB,568.0,20250716
+BE,2020,R0060,Commutations,DC,67.0,20250716
+BE,2020,R0070,Other exits,DB,15789.0,20250716
+BE,2020,R0070,Other exits,DC,12.0,20250716
+BE,2020,R0080,New beneficiaries,DB,21474.0,20250716
+BE,2020,R0080,New beneficiaries,DC,6.0,20250716
+BE,2020,R0090,of which new retired members,DB,3717.0,20250716
+BE,2020,R0090,of which new retired members,DC,6.0,20250716
+BE,2021,R0008,Active members,DB,1278255.0,20250716
+BE,2021,R0008,Active members,DC,11092.0,20250716
+BE,2021,R0009,Active members reported by exempted IORPs,DB,,20250716
+BE,2021,R0009,Active members reported by exempted IORPs,DC,,20250716
+BE,2021,R0010,Active members reported by non-exempted IORPs,DB,1278255.0,20250716
+BE,2021,R0010,Active members reported by non-exempted IORPs,DC,11092.0,20250716
+BE,2021,R0018,Deferred members,DB,962578.0,20250716
+BE,2021,R0018,Deferred members,DC,4696.0,20250716
+BE,2021,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+BE,2021,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+BE,2021,R0020,Deferred members reported by non-exempted IORPs,DB,962578.0,20250716
+BE,2021,R0020,Deferred members reported by non-exempted IORPs,DC,4696.0,20250716
+BE,2021,R0028,Beneficiaries,DB,51826.0,20250716
+BE,2021,R0028,Beneficiaries,DC,3.0,20250716
+BE,2021,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+BE,2021,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+BE,2021,R0030,Beneficiaries reported by non-exempted IORPs,DB,51826.0,20250716
+BE,2021,R0030,Beneficiaries reported by non-exempted IORPs,DC,3.0,20250716
+BE,2021,R0040,New members,DB,125780.0,20250716
+BE,2021,R0040,New members,DC,905.0,20250716
+BE,2021,R0050,Deaths,DB,4029.0,20250716
+BE,2021,R0050,Deaths,DC,2.0,20250716
+BE,2021,R0060,Commutations,DB,473.0,20250716
+BE,2021,R0060,Commutations,DC,82.0,20250716
+BE,2021,R0070,Other exits,DB,18355.0,20250716
+BE,2021,R0070,Other exits,DC,158.0,20250716
+BE,2021,R0080,New beneficiaries,DB,24936.0,20250716
+BE,2021,R0080,New beneficiaries,DC,12.0,20250716
+BE,2021,R0090,of which new retired members,DB,3924.0,20250716
+BE,2021,R0090,of which new retired members,DC,9.0,20250716
+BE,2022,R0008,Active members,DB,1265563.0,20250716
+BE,2022,R0008,Active members,DC,18629.0,20250716
+BE,2022,R0009,Active members reported by exempted IORPs,DB,,20250716
+BE,2022,R0009,Active members reported by exempted IORPs,DC,,20250716
+BE,2022,R0010,Active members reported by non-exempted IORPs,DB,1265563.0,20250716
+BE,2022,R0010,Active members reported by non-exempted IORPs,DC,18629.0,20250716
+BE,2022,R0018,Deferred members,DB,890799.0,20250716
+BE,2022,R0018,Deferred members,DC,9323.0,20250716
+BE,2022,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+BE,2022,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+BE,2022,R0020,Deferred members reported by non-exempted IORPs,DB,890799.0,20250716
+BE,2022,R0020,Deferred members reported by non-exempted IORPs,DC,9323.0,20250716
+BE,2022,R0028,Beneficiaries,DB,223255.0,20250716
+BE,2022,R0028,Beneficiaries,DC,5.0,20250716
+BE,2022,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+BE,2022,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+BE,2022,R0030,Beneficiaries reported by non-exempted IORPs,DB,223255.0,20250716
+BE,2022,R0030,Beneficiaries reported by non-exempted IORPs,DC,5.0,20250716
+BE,2022,R0040,New members,DB,282675.0,20250716
+BE,2022,R0040,New members,DC,2264.0,20250716
+BE,2022,R0050,Deaths,DB,4273.0,20250716
+BE,2022,R0050,Deaths,DC,0.0,20250716
+BE,2022,R0060,Commutations,DB,1143.0,20250716
+BE,2022,R0060,Commutations,DC,106.0,20250716
+BE,2022,R0070,Other exits,DB,33454.0,20250716
+BE,2022,R0070,Other exits,DC,76.0,20250716
+BE,2022,R0080,New beneficiaries,DB,26448.0,20250716
+BE,2022,R0080,New beneficiaries,DC,5.0,20250716
+BE,2022,R0090,of which new retired members,DB,4614.0,20250716
+BE,2022,R0090,of which new retired members,DC,5.0,20250716
+BE,2023,R0008,Active members,DB,1298499.0,20250716
+BE,2023,R0008,Active members,DC,25094.0,20250716
+BE,2023,R0009,Active members reported by exempted IORPs,DB,,20250716
+BE,2023,R0009,Active members reported by exempted IORPs,DC,,20250716
+BE,2023,R0010,Active members reported by non-exempted IORPs,DB,1298499.0,20250716
+BE,2023,R0010,Active members reported by non-exempted IORPs,DC,25094.0,20250716
+BE,2023,R0018,Deferred members,DB,940948.0,20250716
+BE,2023,R0018,Deferred members,DC,12118.0,20250716
+BE,2023,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+BE,2023,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+BE,2023,R0020,Deferred members reported by non-exempted IORPs,DB,940948.0,20250716
+BE,2023,R0020,Deferred members reported by non-exempted IORPs,DC,12118.0,20250716
+BE,2023,R0028,Beneficiaries,DB,236104.0,20250716
+BE,2023,R0028,Beneficiaries,DC,22.0,20250716
+BE,2023,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+BE,2023,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+BE,2023,R0030,Beneficiaries reported by non-exempted IORPs,DB,236104.0,20250716
+BE,2023,R0030,Beneficiaries reported by non-exempted IORPs,DC,22.0,20250716
+BE,2023,R0040,New members,DB,155571.0,20250716
+BE,2023,R0040,New members,DC,5976.0,20250716
+BE,2023,R0050,Deaths,DB,3211.0,20250716
+BE,2023,R0050,Deaths,DC,3.0,20250716
+BE,2023,R0060,Commutations,DB,305.0,20250716
+BE,2023,R0060,Commutations,DC,85.0,20250716
+BE,2023,R0070,Other exits,DB,40447.0,20250716
+BE,2023,R0070,Other exits,DC,140.0,20250716
+BE,2023,R0080,New beneficiaries,DB,18314.0,20250716
+BE,2023,R0080,New beneficiaries,DC,15.0,20250716
+BE,2023,R0090,of which new retired members,DB,3761.0,20250716
+BE,2023,R0090,of which new retired members,DC,15.0,20250716
+BE,2024,R0008,Active members,DB,1325511.0,20250716
+BE,2024,R0008,Active members,DC,11871.0,20250716
+BE,2024,R0009,Active members reported by exempted IORPs,DB,,20250716
+BE,2024,R0009,Active members reported by exempted IORPs,DC,,20250716
+BE,2024,R0010,Active members reported by non-exempted IORPs,DB,1325511.0,20250716
+BE,2024,R0010,Active members reported by non-exempted IORPs,DC,11871.0,20250716
+BE,2024,R0018,Deferred members,DB,1033833.0,20250716
+BE,2024,R0018,Deferred members,DC,9097.0,20250716
+BE,2024,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+BE,2024,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+BE,2024,R0020,Deferred members reported by non-exempted IORPs,DB,1033833.0,20250716
+BE,2024,R0020,Deferred members reported by non-exempted IORPs,DC,9097.0,20250716
+BE,2024,R0028,Beneficiaries,DB,252529.0,20250716
+BE,2024,R0028,Beneficiaries,DC,33.0,20250716
+BE,2024,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+BE,2024,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+BE,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,252529.0,20250716
+BE,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,33.0,20250716
+BE,2024,R0040,New members,DB,100470.0,20250716
+BE,2024,R0040,New members,DC,3907.0,20250716
+BE,2024,R0050,Deaths,DB,2949.0,20250716
+BE,2024,R0050,Deaths,DC,8.0,20250716
+BE,2024,R0060,Commutations,DB,1163.0,20250716
+BE,2024,R0060,Commutations,DC,80.0,20250716
+BE,2024,R0070,Other exits,DB,39338.0,20250716
+BE,2024,R0070,Other exits,DC,92.0,20250716
+BE,2024,R0080,New beneficiaries,DB,19474.0,20250716
+BE,2024,R0080,New beneficiaries,DC,37.0,20250716
+BE,2024,R0090,of which new retired members,DB,3912.0,20250716
+BE,2024,R0090,of which new retired members,DC,19.0,20250716
+DE,2020,R0008,Active members,no split available,5811793.0,20250716
+DE,2020,R0009,Active members reported by exempted IORPs,no split available,,20250716
+DE,2020,R0010,Active members reported by non-exempted IORPs,no split available,5811793.0,20250716
+DE,2020,R0018,Deferred members,no split available,3517684.0,20250716
+DE,2020,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+DE,2020,R0020,Deferred members reported by non-exempted IORPs,no split available,3517684.0,20250716
+DE,2020,R0028,Beneficiaries,no split available,1784248.0,20250716
+DE,2020,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+DE,2020,R0030,Beneficiaries reported by non-exempted IORPs,no split available,1784248.0,20250716
+DE,2020,R0040,New members,no split available,447624.0,20250716
+DE,2020,R0050,Deaths,no split available,28326.0,20250716
+DE,2020,R0060,Commutations,no split available,60313.0,20250716
+DE,2020,R0070,Other exits,no split available,200248.0,20250716
+DE,2020,R0080,New beneficiaries,no split available,142163.0,20250716
+DE,2020,R0090,of which new retired members,no split available,109196.0,20250716
+DE,2021,R0008,Active members,no split available,5842160.0,20250716
+DE,2021,R0009,Active members reported by exempted IORPs,no split available,,20250716
+DE,2021,R0010,Active members reported by non-exempted IORPs,no split available,5842160.0,20250716
+DE,2021,R0018,Deferred members,no split available,3795654.0,20250716
+DE,2021,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+DE,2021,R0020,Deferred members reported by non-exempted IORPs,no split available,3795654.0,20250716
+DE,2021,R0028,Beneficiaries,no split available,1905085.0,20250716
+DE,2021,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+DE,2021,R0030,Beneficiaries reported by non-exempted IORPs,no split available,1905085.0,20250716
+DE,2021,R0040,New members,no split available,435529.0,20250716
+DE,2021,R0050,Deaths,no split available,29029.0,20250716
+DE,2021,R0060,Commutations,no split available,63281.0,20250716
+DE,2021,R0070,Other exits,no split available,199373.0,20250716
+DE,2021,R0080,New beneficiaries,no split available,151999.0,20250716
+DE,2021,R0090,of which new retired members,no split available,113821.0,20250716
+DE,2022,R0008,Active members,no split available,5582063.0,20250716
+DE,2022,R0009,Active members reported by exempted IORPs,no split available,,20250716
+DE,2022,R0010,Active members reported by non-exempted IORPs,no split available,5582063.0,20250716
+DE,2022,R0018,Deferred members,no split available,4040562.0,20250716
+DE,2022,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+DE,2022,R0020,Deferred members reported by non-exempted IORPs,no split available,4040562.0,20250716
+DE,2022,R0028,Beneficiaries,no split available,1868061.0,20250716
+DE,2022,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+DE,2022,R0030,Beneficiaries reported by non-exempted IORPs,no split available,1868061.0,20250716
+DE,2022,R0040,New members,no split available,462812.0,20250716
+DE,2022,R0050,Deaths,no split available,26626.0,20250716
+DE,2022,R0060,Commutations,no split available,71829.0,20250716
+DE,2022,R0070,Other exits,no split available,216544.0,20250716
+DE,2022,R0080,New beneficiaries,no split available,150947.0,20250716
+DE,2022,R0090,of which new retired members,no split available,117238.0,20250716
+DE,2023,R0008,Active members,no split available,5461244.0,20250716
+DE,2023,R0009,Active members reported by exempted IORPs,no split available,,20250716
+DE,2023,R0010,Active members reported by non-exempted IORPs,no split available,5461244.0,20250716
+DE,2023,R0018,Deferred members,no split available,4290429.0,20250716
+DE,2023,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+DE,2023,R0020,Deferred members reported by non-exempted IORPs,no split available,4290429.0,20250716
+DE,2023,R0028,Beneficiaries,no split available,1863031.0,20250716
+DE,2023,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+DE,2023,R0030,Beneficiaries reported by non-exempted IORPs,no split available,1863031.0,20250716
+DE,2023,R0040,New members,no split available,488857.0,20250716
+DE,2023,R0050,Deaths,no split available,27211.0,20250716
+DE,2023,R0060,Commutations,no split available,69731.0,20250716
+DE,2023,R0070,Other exits,no split available,224444.0,20250716
+DE,2023,R0080,New beneficiaries,no split available,153702.0,20250716
+DE,2023,R0090,of which new retired members,no split available,121860.0,20250716
+DE,2024,R0008,Active members,no split available,5425502.0,20250716
+DE,2024,R0009,Active members reported by exempted IORPs,no split available,,20250716
+DE,2024,R0010,Active members reported by non-exempted IORPs,no split available,5425502.0,20250716
+DE,2024,R0018,Deferred members,no split available,4522307.0,20250716
+DE,2024,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+DE,2024,R0020,Deferred members reported by non-exempted IORPs,no split available,4522307.0,20250716
+DE,2024,R0028,Beneficiaries,no split available,1865800.0,20250716
+DE,2024,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+DE,2024,R0030,Beneficiaries reported by non-exempted IORPs,no split available,1865800.0,20250716
+DE,2024,R0040,New members,no split available,404474.0,20250716
+DE,2024,R0050,Deaths,no split available,27501.0,20250716
+DE,2024,R0060,Commutations,no split available,72359.0,20250716
+DE,2024,R0070,Other exits,no split available,234999.0,20250716
+DE,2024,R0080,New beneficiaries,no split available,154962.0,20250716
+DE,2024,R0090,of which new retired members,no split available,129120.0,20250716
+DK,2020,R0008,Active members,no split available,1172.0,20250716
+DK,2020,R0009,Active members reported by exempted IORPs,no split available,179.0,20250716
+DK,2020,R0010,Active members reported by non-exempted IORPs,no split available,993.0,20250716
+DK,2020,R0018,Deferred members,no split available,1394.0,20250716
+DK,2020,R0019,Deferred members reported by exempted IORPs,no split available,46.0,20250716
+DK,2020,R0020,Deferred members reported by non-exempted IORPs,no split available,1348.0,20250716
+DK,2020,R0028,Beneficiaries,no split available,9363.0,20250716
+DK,2020,R0029,Beneficiaries reported by exempted IORPs,no split available,666.0,20250716
+DK,2020,R0030,Beneficiaries reported by non-exempted IORPs,no split available,8697.0,20250716
+DK,2020,R0040,New members,no split available,0.0,20250716
+DK,2020,R0050,Deaths,no split available,63.0,20250716
+DK,2020,R0060,Commutations,no split available,1.0,20250716
+DK,2020,R0070,Other exits,no split available,28.0,20250716
+DK,2020,R0080,New beneficiaries,no split available,316.0,20250716
+DK,2020,R0090,of which new retired members,no split available,195.0,20250716
+DK,2021,R0008,Active members,DB,988.0,20250716
+DK,2021,R0008,Active members,DC,0.0,20250716
+DK,2021,R0009,Active members reported by exempted IORPs,DB,173.0,20250716
+DK,2021,R0009,Active members reported by exempted IORPs,DC,0.0,20250716
+DK,2021,R0010,Active members reported by non-exempted IORPs,DB,815.0,20250716
+DK,2021,R0010,Active members reported by non-exempted IORPs,DC,0.0,20250716
+DK,2021,R0018,Deferred members,DB,557.0,20250716
+DK,2021,R0018,Deferred members,DC,0.0,20250716
+DK,2021,R0019,Deferred members reported by exempted IORPs,DB,28.0,20250716
+DK,2021,R0019,Deferred members reported by exempted IORPs,DC,0.0,20250716
+DK,2021,R0020,Deferred members reported by non-exempted IORPs,DB,529.0,20250716
+DK,2021,R0020,Deferred members reported by non-exempted IORPs,DC,0.0,20250716
+DK,2021,R0028,Beneficiaries,DB,9107.0,20250716
+DK,2021,R0028,Beneficiaries,DC,0.0,20250716
+DK,2021,R0029,Beneficiaries reported by exempted IORPs,DB,624.0,20250716
+DK,2021,R0029,Beneficiaries reported by exempted IORPs,DC,0.0,20250716
+DK,2021,R0030,Beneficiaries reported by non-exempted IORPs,DB,8483.0,20250716
+DK,2021,R0030,Beneficiaries reported by non-exempted IORPs,DC,0.0,20250716
+DK,2021,R0040,New members,DB,0.0,20250716
+DK,2021,R0040,New members,DC,0.0,20250716
+DK,2021,R0050,Deaths,DB,62.0,20250716
+DK,2021,R0050,Deaths,DC,0.0,20250716
+DK,2021,R0060,Commutations,DB,1.0,20250716
+DK,2021,R0060,Commutations,DC,0.0,20250716
+DK,2021,R0070,Other exits,DB,1.0,20250716
+DK,2021,R0070,Other exits,DC,0.0,20250716
+DK,2021,R0080,New beneficiaries,DB,336.0,20250716
+DK,2021,R0080,New beneficiaries,DC,0.0,20250716
+DK,2021,R0090,of which new retired members,DB,223.0,20250716
+DK,2021,R0090,of which new retired members,DC,0.0,20250716
+DK,2022,R0008,Active members,no split available,919.0,20250716
+DK,2022,R0009,Active members reported by exempted IORPs,no split available,196.0,20250716
+DK,2022,R0010,Active members reported by non-exempted IORPs,no split available,723.0,20250716
+DK,2022,R0018,Deferred members,no split available,1248.0,20250716
+DK,2022,R0019,Deferred members reported by exempted IORPs,no split available,24.0,20250716
+DK,2022,R0020,Deferred members reported by non-exempted IORPs,no split available,1224.0,20250716
+DK,2022,R0028,Beneficiaries,no split available,9099.0,20250716
+DK,2022,R0029,Beneficiaries reported by exempted IORPs,no split available,579.0,20250716
+DK,2022,R0030,Beneficiaries reported by non-exempted IORPs,no split available,8520.0,20250716
+DK,2022,R0040,New members,no split available,0.0,20250716
+DK,2022,R0050,Deaths,no split available,55.0,20250716
+DK,2022,R0060,Commutations,no split available,1.0,20250716
+DK,2022,R0070,Other exits,no split available,24.0,20250716
+DK,2022,R0080,New beneficiaries,no split available,275.0,20250716
+DK,2022,R0090,of which new retired members,no split available,164.0,20250716
+DK,2023,R0008,Active members,no split available,818.0,20250716
+DK,2023,R0009,Active members reported by exempted IORPs,no split available,186.0,20250716
+DK,2023,R0010,Active members reported by non-exempted IORPs,no split available,632.0,20250716
+DK,2023,R0018,Deferred members,no split available,1152.0,20250716
+DK,2023,R0019,Deferred members reported by exempted IORPs,no split available,19.0,20250716
+DK,2023,R0020,Deferred members reported by non-exempted IORPs,no split available,1133.0,20250716
+DK,2023,R0028,Beneficiaries,no split available,8963.0,20250716
+DK,2023,R0029,Beneficiaries reported by exempted IORPs,no split available,567.0,20250716
+DK,2023,R0030,Beneficiaries reported by non-exempted IORPs,no split available,8396.0,20250716
+DK,2023,R0040,New members,no split available,0.0,20250716
+DK,2023,R0050,Deaths,no split available,368.0,20250716
+DK,2023,R0060,Commutations,no split available,0.0,20250716
+DK,2023,R0070,Other exits,no split available,38.0,20250716
+DK,2023,R0080,New beneficiaries,no split available,282.0,20250716
+DK,2023,R0090,of which new retired members,no split available,178.0,20250716
+DK,2024,R0008,Active members,DB,680.0,20250716
+DK,2024,R0008,Active members,DC,0.0,20250716
+DK,2024,R0009,Active members reported by exempted IORPs,DB,174.0,20250716
+DK,2024,R0009,Active members reported by exempted IORPs,DC,0.0,20250716
+DK,2024,R0010,Active members reported by non-exempted IORPs,DB,506.0,20250716
+DK,2024,R0010,Active members reported by non-exempted IORPs,DC,,20250716
+DK,2024,R0018,Deferred members,DB,303.0,20250716
+DK,2024,R0018,Deferred members,DC,0.0,20250716
+DK,2024,R0019,Deferred members reported by exempted IORPs,DB,15.0,20250716
+DK,2024,R0019,Deferred members reported by exempted IORPs,DC,0.0,20250716
+DK,2024,R0020,Deferred members reported by non-exempted IORPs,DB,288.0,20250716
+DK,2024,R0020,Deferred members reported by non-exempted IORPs,DC,,20250716
+DK,2024,R0028,Beneficiaries,DB,7669.0,20250716
+DK,2024,R0028,Beneficiaries,DC,0.0,20250716
+DK,2024,R0029,Beneficiaries reported by exempted IORPs,DB,543.0,20250716
+DK,2024,R0029,Beneficiaries reported by exempted IORPs,DC,0.0,20250716
+DK,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,7126.0,20250716
+DK,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,,20250716
+DK,2024,R0040,New members,DB,0.0,20250716
+DK,2024,R0040,New members,DC,,20250716
+DK,2024,R0050,Deaths,DB,280.0,20250716
+DK,2024,R0050,Deaths,DC,,20250716
+DK,2024,R0060,Commutations,DB,1.0,20250716
+DK,2024,R0060,Commutations,DC,,20250716
+DK,2024,R0070,Other exits,DB,32.0,20250716
+DK,2024,R0070,Other exits,DC,,20250716
+DK,2024,R0080,New beneficiaries,DB,219.0,20250716
+DK,2024,R0080,New beneficiaries,DC,,20250716
+DK,2024,R0090,of which new retired members,DB,126.0,20250716
+DK,2024,R0090,of which new retired members,DC,,20250716
+EL,2024,R0008,Active members,DB,,20250716
+EL,2024,R0008,Active members,DC,49710.0,20250716
+EL,2024,R0009,Active members reported by exempted IORPs,DB,,20250716
+EL,2024,R0009,Active members reported by exempted IORPs,DC,,20250716
+EL,2024,R0010,Active members reported by non-exempted IORPs,DB,,20250716
+EL,2024,R0010,Active members reported by non-exempted IORPs,DC,49710.0,20250716
+EL,2024,R0018,Deferred members,DB,,20250716
+EL,2024,R0018,Deferred members,DC,6674.0,20250716
+EL,2024,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+EL,2024,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+EL,2024,R0020,Deferred members reported by non-exempted IORPs,DB,,20250716
+EL,2024,R0020,Deferred members reported by non-exempted IORPs,DC,6674.0,20250716
+EL,2024,R0028,Beneficiaries,DB,,20250716
+EL,2024,R0028,Beneficiaries,DC,7727.0,20250716
+EL,2024,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+EL,2024,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+EL,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,,20250716
+EL,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,7727.0,20250716
+EL,2024,R0040,New members,DB,,20250716
+EL,2024,R0040,New members,DC,2599.0,20250716
+EL,2024,R0050,Deaths,DB,,20250716
+EL,2024,R0050,Deaths,DC,36.0,20250716
+EL,2024,R0060,Commutations,DB,,20250716
+EL,2024,R0060,Commutations,DC,1570.0,20250716
+EL,2024,R0070,Other exits,DB,,20250716
+EL,2024,R0070,Other exits,DC,754.0,20250716
+EL,2024,R0080,New beneficiaries,DB,,20250716
+EL,2024,R0080,New beneficiaries,DC,591.0,20250716
+EL,2024,R0090,of which new retired members,DB,,20250716
+EL,2024,R0090,of which new retired members,DC,21.0,20250716
+ES,2020,R0008,Active members,DB,119502.0,20250716
+ES,2020,R0008,Active members,DC,2058285.0,20250716
+ES,2020,R0009,Active members reported by exempted IORPs,DB,,20250716
+ES,2020,R0009,Active members reported by exempted IORPs,DC,,20250716
+ES,2020,R0010,Active members reported by non-exempted IORPs,DB,119502.0,20250716
+ES,2020,R0010,Active members reported by non-exempted IORPs,DC,2058285.0,20250716
+ES,2020,R0018,Deferred members,DB,1524.0,20250716
+ES,2020,R0018,Deferred members,DC,46246.0,20250716
+ES,2020,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+ES,2020,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+ES,2020,R0020,Deferred members reported by non-exempted IORPs,DB,1524.0,20250716
+ES,2020,R0020,Deferred members reported by non-exempted IORPs,DC,46246.0,20250716
+ES,2020,R0028,Beneficiaries,DB,40033.0,20250716
+ES,2020,R0028,Beneficiaries,DC,140294.0,20250716
+ES,2020,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+ES,2020,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+ES,2020,R0030,Beneficiaries reported by non-exempted IORPs,DB,40033.0,20250716
+ES,2020,R0030,Beneficiaries reported by non-exempted IORPs,DC,140294.0,20250716
+ES,2020,R0040,New members,DB,3328.0,20250716
+ES,2020,R0040,New members,DC,69911.0,20250716
+ES,2020,R0050,Deaths,DB,206.0,20250716
+ES,2020,R0050,Deaths,DC,2436.0,20250716
+ES,2020,R0060,Commutations,DB,0.0,20250716
+ES,2020,R0060,Commutations,DC,0.0,20250716
+ES,2020,R0070,Other exits,DB,7606.0,20250716
+ES,2020,R0070,Other exits,DC,50713.0,20250716
+ES,2020,R0080,New beneficiaries,DB,7098.0,20250716
+ES,2020,R0080,New beneficiaries,DC,39260.0,20250716
+ES,2020,R0090,of which new retired members,DB,5628.0,20250716
+ES,2020,R0090,of which new retired members,DC,27479.0,20250716
+ES,2021,R0008,Active members,DB,112762.0,20250716
+ES,2021,R0008,Active members,DC,2053559.0,20250716
+ES,2021,R0009,Active members reported by exempted IORPs,DB,,20250716
+ES,2021,R0009,Active members reported by exempted IORPs,DC,,20250716
+ES,2021,R0010,Active members reported by non-exempted IORPs,DB,112762.0,20250716
+ES,2021,R0010,Active members reported by non-exempted IORPs,DC,2053559.0,20250716
+ES,2021,R0018,Deferred members,DB,3709.0,20250716
+ES,2021,R0018,Deferred members,DC,64394.0,20250716
+ES,2021,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+ES,2021,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+ES,2021,R0020,Deferred members reported by non-exempted IORPs,DB,3709.0,20250716
+ES,2021,R0020,Deferred members reported by non-exempted IORPs,DC,64394.0,20250716
+ES,2021,R0028,Beneficiaries,DB,42124.0,20250716
+ES,2021,R0028,Beneficiaries,DC,140151.0,20250716
+ES,2021,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+ES,2021,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+ES,2021,R0030,Beneficiaries reported by non-exempted IORPs,DB,42124.0,20250716
+ES,2021,R0030,Beneficiaries reported by non-exempted IORPs,DC,140151.0,20250716
+ES,2021,R0040,New members,DB,2899.0,20250716
+ES,2021,R0040,New members,DC,273357.0,20250716
+ES,2021,R0050,Deaths,DB,183.0,20250716
+ES,2021,R0050,Deaths,DC,2181.0,20250716
+ES,2021,R0060,Commutations,DB,0.0,20250716
+ES,2021,R0060,Commutations,DC,0.0,20250716
+ES,2021,R0070,Other exits,DB,6469.0,20250716
+ES,2021,R0070,Other exits,DC,88076.0,20250716
+ES,2021,R0080,New beneficiaries,DB,4387.0,20250716
+ES,2021,R0080,New beneficiaries,DC,46073.0,20250716
+ES,2021,R0090,of which new retired members,DB,3031.0,20250716
+ES,2021,R0090,of which new retired members,DC,28458.0,20250716
+ES,2022,R0008,Active members,DB,262966.0,20250716
+ES,2022,R0008,Active members,DC,2063141.0,20250716
+ES,2022,R0009,Active members reported by exempted IORPs,DB,,20250716
+ES,2022,R0009,Active members reported by exempted IORPs,DC,,20250716
+ES,2022,R0010,Active members reported by non-exempted IORPs,DB,262966.0,20250716
+ES,2022,R0010,Active members reported by non-exempted IORPs,DC,2063141.0,20250716
+ES,2022,R0018,Deferred members,DB,10826.0,20250716
+ES,2022,R0018,Deferred members,DC,67978.0,20250716
+ES,2022,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+ES,2022,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+ES,2022,R0020,Deferred members reported by non-exempted IORPs,DB,10826.0,20250716
+ES,2022,R0020,Deferred members reported by non-exempted IORPs,DC,67978.0,20250716
+ES,2022,R0028,Beneficiaries,DB,62275.0,20250716
+ES,2022,R0028,Beneficiaries,DC,143797.0,20250716
+ES,2022,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+ES,2022,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+ES,2022,R0030,Beneficiaries reported by non-exempted IORPs,DB,62275.0,20250716
+ES,2022,R0030,Beneficiaries reported by non-exempted IORPs,DC,143797.0,20250716
+ES,2022,R0040,New members,DB,30214.0,20250716
+ES,2022,R0040,New members,DC,178640.0,20250716
+ES,2022,R0050,Deaths,DB,384.0,20250716
+ES,2022,R0050,Deaths,DC,2426.0,20250716
+ES,2022,R0060,Commutations,DB,277.0,20250716
+ES,2022,R0060,Commutations,DC,0.0,20250716
+ES,2022,R0070,Other exits,DB,8723.0,20250716
+ES,2022,R0070,Other exits,DC,70262.0,20250716
+ES,2022,R0080,New beneficiaries,DB,12718.0,20250716
+ES,2022,R0080,New beneficiaries,DC,41683.0,20250716
+ES,2022,R0090,of which new retired members,DB,8114.0,20250716
+ES,2022,R0090,of which new retired members,DC,32879.0,20250716
+ES,2023,R0008,Active members,DB,115793.0,20250716
+ES,2023,R0008,Active members,DC,2113979.0,20250716
+ES,2023,R0009,Active members reported by exempted IORPs,DB,,20250716
+ES,2023,R0009,Active members reported by exempted IORPs,DC,,20250716
+ES,2023,R0010,Active members reported by non-exempted IORPs,DB,115793.0,20250716
+ES,2023,R0010,Active members reported by non-exempted IORPs,DC,2113979.0,20250716
+ES,2023,R0018,Deferred members,DB,3905.0,20250716
+ES,2023,R0018,Deferred members,DC,72634.0,20250716
+ES,2023,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+ES,2023,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+ES,2023,R0020,Deferred members reported by non-exempted IORPs,DB,3905.0,20250716
+ES,2023,R0020,Deferred members reported by non-exempted IORPs,DC,72634.0,20250716
+ES,2023,R0028,Beneficiaries,DB,40108.0,20250716
+ES,2023,R0028,Beneficiaries,DC,146780.0,20250716
+ES,2023,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+ES,2023,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+ES,2023,R0030,Beneficiaries reported by non-exempted IORPs,DB,40108.0,20250716
+ES,2023,R0030,Beneficiaries reported by non-exempted IORPs,DC,146780.0,20250716
+ES,2023,R0040,New members,DB,6590.0,20250716
+ES,2023,R0040,New members,DC,106821.0,20250716
+ES,2023,R0050,Deaths,DB,174.0,20250716
+ES,2023,R0050,Deaths,DC,2161.0,20250716
+ES,2023,R0060,Commutations,DB,0.0,20250716
+ES,2023,R0060,Commutations,DC,0.0,20250716
+ES,2023,R0070,Other exits,DB,5078.0,20250716
+ES,2023,R0070,Other exits,DC,51427.0,20250716
+ES,2023,R0080,New beneficiaries,DB,3802.0,20250716
+ES,2023,R0080,New beneficiaries,DC,37658.0,20250716
+ES,2023,R0090,of which new retired members,DB,2775.0,20250716
+ES,2023,R0090,of which new retired members,DC,32215.0,20250716
+ES,2024,R0008,Active members,DB,142412.0,20250716
+ES,2024,R0008,Active members,DC,2814683.0,20250716
+ES,2024,R0009,Active members reported by exempted IORPs,DB,,20250716
+ES,2024,R0009,Active members reported by exempted IORPs,DC,,20250716
+ES,2024,R0010,Active members reported by non-exempted IORPs,DB,142412.0,20250716
+ES,2024,R0010,Active members reported by non-exempted IORPs,DC,2814683.0,20250716
+ES,2024,R0018,Deferred members,DB,4527.0,20250716
+ES,2024,R0018,Deferred members,DC,89267.0,20250716
+ES,2024,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+ES,2024,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+ES,2024,R0020,Deferred members reported by non-exempted IORPs,DB,4527.0,20250716
+ES,2024,R0020,Deferred members reported by non-exempted IORPs,DC,89267.0,20250716
+ES,2024,R0028,Beneficiaries,DB,41161.0,20250716
+ES,2024,R0028,Beneficiaries,DC,214570.0,20250716
+ES,2024,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+ES,2024,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+ES,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,41161.0,20250716
+ES,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,214570.0,20250716
+ES,2024,R0040,New members,DB,11939.0,20250716
+ES,2024,R0040,New members,DC,781460.0,20250716
+ES,2024,R0050,Deaths,DB,168.0,20250716
+ES,2024,R0050,Deaths,DC,3399.0,20250716
+ES,2024,R0060,Commutations,DB,0.0,20250716
+ES,2024,R0060,Commutations,DC,0.0,20250716
+ES,2024,R0070,Other exits,DB,6395.0,20250716
+ES,2024,R0070,Other exits,DC,61264.0,20250716
+ES,2024,R0080,New beneficiaries,DB,3846.0,20250716
+ES,2024,R0080,New beneficiaries,DC,39218.0,20250716
+ES,2024,R0090,of which new retired members,DB,2826.0,20250716
+ES,2024,R0090,of which new retired members,DC,33155.0,20250716
+FI,2020,R0008,Active members,no split available,7084.0,20250716
+FI,2020,R0009,Active members reported by exempted IORPs,no split available,1020.0,20250716
+FI,2020,R0010,Active members reported by non-exempted IORPs,no split available,6064.0,20250716
+FI,2020,R0018,Deferred members,no split available,7245.0,20250716
+FI,2020,R0019,Deferred members reported by exempted IORPs,no split available,396.0,20250716
+FI,2020,R0020,Deferred members reported by non-exempted IORPs,no split available,6849.0,20250716
+FI,2020,R0028,Beneficiaries,no split available,44954.0,20250716
+FI,2020,R0029,Beneficiaries reported by exempted IORPs,no split available,6623.0,20250716
+FI,2020,R0030,Beneficiaries reported by non-exempted IORPs,no split available,38331.0,20250716
+FI,2020,R0040,New members,no split available,0.0,20250716
+FI,2020,R0050,Deaths,no split available,302.0,20250716
+FI,2020,R0060,Commutations,no split available,85.0,20250716
+FI,2020,R0070,Other exits,no split available,134.0,20250716
+FI,2020,R0080,New beneficiaries,no split available,1651.0,20250716
+FI,2020,R0090,of which new retired members,no split available,1511.0,20250716
+FI,2021,R0008,Active members,no split available,6051.0,20250716
+FI,2021,R0009,Active members reported by exempted IORPs,no split available,817.0,20250716
+FI,2021,R0010,Active members reported by non-exempted IORPs,no split available,5234.0,20250716
+FI,2021,R0018,Deferred members,no split available,5173.0,20250716
+FI,2021,R0019,Deferred members reported by exempted IORPs,no split available,365.0,20250716
+FI,2021,R0020,Deferred members reported by non-exempted IORPs,no split available,4808.0,20250716
+FI,2021,R0028,Beneficiaries,no split available,42309.0,20250716
+FI,2021,R0029,Beneficiaries reported by exempted IORPs,no split available,6204.0,20250716
+FI,2021,R0030,Beneficiaries reported by non-exempted IORPs,no split available,36105.0,20250716
+FI,2021,R0040,New members,no split available,0.0,20250716
+FI,2021,R0050,Deaths,no split available,309.0,20250716
+FI,2021,R0060,Commutations,no split available,23.0,20250716
+FI,2021,R0070,Other exits,no split available,45.0,20250716
+FI,2021,R0080,New beneficiaries,no split available,1198.0,20250716
+FI,2021,R0090,of which new retired members,no split available,1019.0,20250716
+FI,2022,R0008,Active members,no split available,5378.0,20250716
+FI,2022,R0009,Active members reported by exempted IORPs,no split available,712.0,20250716
+FI,2022,R0010,Active members reported by non-exempted IORPs,no split available,4666.0,20250716
+FI,2022,R0018,Deferred members,no split available,4626.0,20250716
+FI,2022,R0019,Deferred members reported by exempted IORPs,no split available,303.0,20250716
+FI,2022,R0020,Deferred members reported by non-exempted IORPs,no split available,4323.0,20250716
+FI,2022,R0028,Beneficiaries,no split available,41827.0,20250716
+FI,2022,R0029,Beneficiaries reported by exempted IORPs,no split available,6219.0,20250716
+FI,2022,R0030,Beneficiaries reported by non-exempted IORPs,no split available,35608.0,20250716
+FI,2022,R0040,New members,no split available,2.0,20250716
+FI,2022,R0050,Deaths,no split available,344.0,20250716
+FI,2022,R0060,Commutations,no split available,19.0,20250716
+FI,2022,R0070,Other exits,no split available,35.0,20250716
+FI,2022,R0080,New beneficiaries,no split available,1102.0,20250716
+FI,2022,R0090,of which new retired members,no split available,935.0,20250716
+FI,2023,R0008,Active members,no split available,4886.0,20250716
+FI,2023,R0009,Active members reported by exempted IORPs,no split available,635.0,20250716
+FI,2023,R0010,Active members reported by non-exempted IORPs,no split available,4251.0,20250716
+FI,2023,R0018,Deferred members,no split available,4136.0,20250716
+FI,2023,R0019,Deferred members reported by exempted IORPs,no split available,290.0,20250716
+FI,2023,R0020,Deferred members reported by non-exempted IORPs,no split available,3846.0,20250716
+FI,2023,R0028,Beneficiaries,no split available,40661.0,20250716
+FI,2023,R0029,Beneficiaries reported by exempted IORPs,no split available,6076.0,20250716
+FI,2023,R0030,Beneficiaries reported by non-exempted IORPs,no split available,34585.0,20250716
+FI,2023,R0040,New members,no split available,0.0,20250716
+FI,2023,R0050,Deaths,no split available,349.0,20250716
+FI,2023,R0060,Commutations,no split available,14.0,20250716
+FI,2023,R0070,Other exits,no split available,82.0,20250716
+FI,2023,R0080,New beneficiaries,no split available,1010.0,20250716
+FI,2023,R0090,of which new retired members,no split available,813.0,20250716
+FI,2024,R0008,Active members,no split available,4360.0,20250716
+FI,2024,R0009,Active members reported by exempted IORPs,no split available,539.0,20250716
+FI,2024,R0010,Active members reported by non-exempted IORPs,no split available,3821.0,20250716
+FI,2024,R0018,Deferred members,no split available,3931.0,20250716
+FI,2024,R0019,Deferred members reported by exempted IORPs,no split available,299.0,20250716
+FI,2024,R0020,Deferred members reported by non-exempted IORPs,no split available,3632.0,20250716
+FI,2024,R0028,Beneficiaries,no split available,40000.0,20250716
+FI,2024,R0029,Beneficiaries reported by exempted IORPs,no split available,6555.0,20250716
+FI,2024,R0030,Beneficiaries reported by non-exempted IORPs,no split available,33445.0,20250716
+FI,2024,R0040,New members,no split available,0.0,20250716
+FI,2024,R0050,Deaths,no split available,338.0,20250716
+FI,2024,R0060,Commutations,no split available,31.0,20250716
+FI,2024,R0070,Other exits,no split available,95.0,20250716
+FI,2024,R0080,New beneficiaries,no split available,987.0,20250716
+FI,2024,R0090,of which new retired members,no split available,794.0,20250716
+FR,2023,R0008,Active members,DB,95063.0,20250716
+FR,2023,R0008,Active members,DC,5658367.0,20250716
+FR,2023,R0009,Active members reported by exempted IORPs,DB,,20250716
+FR,2023,R0009,Active members reported by exempted IORPs,DC,,20250716
+FR,2023,R0010,Active members reported by non-exempted IORPs,DB,95063.0,20250716
+FR,2023,R0010,Active members reported by non-exempted IORPs,DC,5658367.0,20250716
+FR,2023,R0018,Deferred members,DB,70401.0,20250716
+FR,2023,R0018,Deferred members,DC,3802381.0,20250716
+FR,2023,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+FR,2023,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+FR,2023,R0020,Deferred members reported by non-exempted IORPs,DB,70401.0,20250716
+FR,2023,R0020,Deferred members reported by non-exempted IORPs,DC,3802381.0,20250716
+FR,2023,R0028,Beneficiaries,DB,124734.0,20250716
+FR,2023,R0028,Beneficiaries,DC,1733684.0,20250716
+FR,2023,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+FR,2023,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+FR,2023,R0030,Beneficiaries reported by non-exempted IORPs,DB,124734.0,20250716
+FR,2023,R0030,Beneficiaries reported by non-exempted IORPs,DC,1733684.0,20250716
+FR,2023,R0040,New members,DB,10623.0,20250716
+FR,2023,R0040,New members,DC,751912.0,20250716
+FR,2023,R0050,Deaths,DB,7181.0,20250716
+FR,2023,R0050,Deaths,DC,49004.0,20250716
+FR,2023,R0060,Commutations,DB,1501.0,20250716
+FR,2023,R0060,Commutations,DC,78737.0,20250716
+FR,2023,R0070,Other exits,DB,9077.0,20250716
+FR,2023,R0070,Other exits,DC,116908.0,20250716
+FR,2023,R0080,New beneficiaries,DB,4358.0,20250716
+FR,2023,R0080,New beneficiaries,DC,126456.0,20250716
+FR,2023,R0090,of which new retired members,DB,3405.0,20250716
+FR,2023,R0090,of which new retired members,DC,67900.0,20250716
+FR,2024,R0008,Active members,DB,89589.0,20250716
+FR,2024,R0008,Active members,DC,5592203.0,20250716
+FR,2024,R0009,Active members reported by exempted IORPs,DB,,20250716
+FR,2024,R0009,Active members reported by exempted IORPs,DC,,20250716
+FR,2024,R0010,Active members reported by non-exempted IORPs,DB,89589.0,20250716
+FR,2024,R0010,Active members reported by non-exempted IORPs,DC,5592203.0,20250716
+FR,2024,R0018,Deferred members,DB,75228.0,20250716
+FR,2024,R0018,Deferred members,DC,3679211.0,20250716
+FR,2024,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+FR,2024,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+FR,2024,R0020,Deferred members reported by non-exempted IORPs,DB,75228.0,20250716
+FR,2024,R0020,Deferred members reported by non-exempted IORPs,DC,3679211.0,20250716
+FR,2024,R0028,Beneficiaries,DB,123559.0,20250716
+FR,2024,R0028,Beneficiaries,DC,1782684.0,20250716
+FR,2024,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+FR,2024,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+FR,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,123559.0,20250716
+FR,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,1782684.0,20250716
+FR,2024,R0040,New members,DB,8558.0,20250716
+FR,2024,R0040,New members,DC,656277.0,20250716
+FR,2024,R0050,Deaths,DB,1754.0,20250716
+FR,2024,R0050,Deaths,DC,50306.0,20250716
+FR,2024,R0060,Commutations,DB,1404.0,20250716
+FR,2024,R0060,Commutations,DC,94767.0,20250716
+FR,2024,R0070,Other exits,DB,8399.0,20250716
+FR,2024,R0070,Other exits,DC,129785.0,20250716
+FR,2024,R0080,New beneficiaries,DB,2029.0,20250716
+FR,2024,R0080,New beneficiaries,DC,118374.0,20250716
+FR,2024,R0090,of which new retired members,DB,1369.0,20250716
+FR,2024,R0090,of which new retired members,DC,70258.0,20250716
+HR,2020,R0008,Active members,no split available,44120.0,20250716
+HR,2020,R0009,Active members reported by exempted IORPs,no split available,,20250716
+HR,2020,R0010,Active members reported by non-exempted IORPs,no split available,44120.0,20250716
+HR,2020,R0018,Deferred members,no split available,0.0,20250716
+HR,2020,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+HR,2020,R0020,Deferred members reported by non-exempted IORPs,no split available,0.0,20250716
+HR,2020,R0028,Beneficiaries,no split available,2556.0,20250716
+HR,2020,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+HR,2020,R0030,Beneficiaries reported by non-exempted IORPs,no split available,2556.0,20250716
+HR,2020,R0040,New members,no split available,1739.0,20250716
+HR,2020,R0050,Deaths,no split available,45.0,20250716
+HR,2020,R0060,Commutations,no split available,0.0,20250716
+HR,2020,R0070,Other exits,no split available,479.0,20250716
+HR,2020,R0080,New beneficiaries,no split available,886.0,20250716
+HR,2020,R0090,of which new retired members,no split available,863.0,20250716
+HR,2021,R0008,Active members,no split available,44761.0,20250716
+HR,2021,R0009,Active members reported by exempted IORPs,no split available,,20250716
+HR,2021,R0010,Active members reported by non-exempted IORPs,no split available,44761.0,20250716
+HR,2021,R0018,Deferred members,no split available,0.0,20250716
+HR,2021,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+HR,2021,R0020,Deferred members reported by non-exempted IORPs,no split available,0.0,20250716
+HR,2021,R0028,Beneficiaries,no split available,2496.0,20250716
+HR,2021,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+HR,2021,R0030,Beneficiaries reported by non-exempted IORPs,no split available,2496.0,20250716
+HR,2021,R0040,New members,no split available,2525.0,20250716
+HR,2021,R0050,Deaths,no split available,83.0,20250716
+HR,2021,R0060,Commutations,no split available,0.0,20250716
+HR,2021,R0070,Other exits,no split available,596.0,20250716
+HR,2021,R0080,New beneficiaries,no split available,905.0,20250716
+HR,2021,R0090,of which new retired members,no split available,889.0,20250716
+HR,2022,R0008,Active members,no split available,45863.0,20250716
+HR,2022,R0009,Active members reported by exempted IORPs,no split available,,20250716
+HR,2022,R0010,Active members reported by non-exempted IORPs,no split available,45863.0,20250716
+HR,2022,R0018,Deferred members,no split available,0.0,20250716
+HR,2022,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+HR,2022,R0020,Deferred members reported by non-exempted IORPs,no split available,0.0,20250716
+HR,2022,R0028,Beneficiaries,no split available,2771.0,20250716
+HR,2022,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+HR,2022,R0030,Beneficiaries reported by non-exempted IORPs,no split available,2771.0,20250716
+HR,2022,R0040,New members,no split available,2598.0,20250716
+HR,2022,R0050,Deaths,no split available,78.0,20250716
+HR,2022,R0060,Commutations,no split available,0.0,20250716
+HR,2022,R0070,Other exits,no split available,689.0,20250716
+HR,2022,R0080,New beneficiaries,no split available,1045.0,20250716
+HR,2022,R0090,of which new retired members,no split available,910.0,20250716
+HR,2023,R0008,Active members,no split available,47534.0,20250716
+HR,2023,R0009,Active members reported by exempted IORPs,no split available,,20250716
+HR,2023,R0010,Active members reported by non-exempted IORPs,no split available,47534.0,20250716
+HR,2023,R0018,Deferred members,no split available,0.0,20250716
+HR,2023,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+HR,2023,R0020,Deferred members reported by non-exempted IORPs,no split available,0.0,20250716
+HR,2023,R0028,Beneficiaries,no split available,2014.0,20250716
+HR,2023,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+HR,2023,R0030,Beneficiaries reported by non-exempted IORPs,no split available,2014.0,20250716
+HR,2023,R0040,New members,no split available,2192.0,20250716
+HR,2023,R0050,Deaths,no split available,96.0,20250716
+HR,2023,R0060,Commutations,no split available,0.0,20250716
+HR,2023,R0070,Other exits,no split available,589.0,20250716
+HR,2023,R0080,New beneficiaries,no split available,1026.0,20250716
+HR,2023,R0090,of which new retired members,no split available,878.0,20250716
+HR,2024,R0008,Active members,no split available,47539.0,20250716
+HR,2024,R0009,Active members reported by exempted IORPs,no split available,,20250716
+HR,2024,R0010,Active members reported by non-exempted IORPs,no split available,47539.0,20250716
+HR,2024,R0018,Deferred members,no split available,0.0,20250716
+HR,2024,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+HR,2024,R0020,Deferred members reported by non-exempted IORPs,no split available,0.0,20250716
+HR,2024,R0028,Beneficiaries,no split available,2870.0,20250716
+HR,2024,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+HR,2024,R0030,Beneficiaries reported by non-exempted IORPs,no split available,2870.0,20250716
+HR,2024,R0040,New members,no split available,2037.0,20250716
+HR,2024,R0050,Deaths,no split available,78.0,20250716
+HR,2024,R0060,Commutations,no split available,0.0,20250716
+HR,2024,R0070,Other exits,no split available,600.0,20250716
+HR,2024,R0080,New beneficiaries,no split available,860.0,20250716
+HR,2024,R0090,of which new retired members,no split available,779.0,20250716
+IT,2020,R0008,Active members,DB,34078.0,20250716
+IT,2020,R0008,Active members,DC,5505138.0,20250716
+IT,2020,R0009,Active members reported by exempted IORPs,DB,,20250716
+IT,2020,R0009,Active members reported by exempted IORPs,DC,,20250716
+IT,2020,R0010,Active members reported by non-exempted IORPs,DB,34078.0,20250716
+IT,2020,R0010,Active members reported by non-exempted IORPs,DC,5505138.0,20250716
+IT,2020,R0018,Deferred members,DB,4524.0,20250716
+IT,2020,R0018,Deferred members,DC,0.0,20250716
+IT,2020,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+IT,2020,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+IT,2020,R0020,Deferred members reported by non-exempted IORPs,DB,4524.0,20250716
+IT,2020,R0020,Deferred members reported by non-exempted IORPs,DC,0.0,20250716
+IT,2020,R0028,Beneficiaries,DB,66466.0,20250716
+IT,2020,R0028,Beneficiaries,DC,44785.0,20250716
+IT,2020,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+IT,2020,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+IT,2020,R0030,Beneficiaries reported by non-exempted IORPs,DB,66466.0,20250716
+IT,2020,R0030,Beneficiaries reported by non-exempted IORPs,DC,44785.0,20250716
+IT,2020,R0040,New members,DB,0.0,20250716
+IT,2020,R0040,New members,DC,0.0,20250716
+IT,2020,R0050,Deaths,DB,0.0,20250716
+IT,2020,R0050,Deaths,DC,0.0,20250716
+IT,2020,R0060,Commutations,DB,0.0,20250716
+IT,2020,R0060,Commutations,DC,0.0,20250716
+IT,2020,R0070,Other exits,DB,0.0,20250716
+IT,2020,R0070,Other exits,DC,0.0,20250716
+IT,2020,R0080,New beneficiaries,DB,0.0,20250716
+IT,2020,R0080,New beneficiaries,DC,0.0,20250716
+IT,2020,R0090,of which new retired members,DB,0.0,20250716
+IT,2020,R0090,of which new retired members,DC,0.0,20250716
+IT,2021,R0008,Active members,DB,29342.0,20250716
+IT,2021,R0008,Active members,DC,5814508.0,20250716
+IT,2021,R0009,Active members reported by exempted IORPs,DB,,20250716
+IT,2021,R0009,Active members reported by exempted IORPs,DC,,20250716
+IT,2021,R0010,Active members reported by non-exempted IORPs,DB,29342.0,20250716
+IT,2021,R0010,Active members reported by non-exempted IORPs,DC,5814508.0,20250716
+IT,2021,R0018,Deferred members,DB,4678.0,20250716
+IT,2021,R0018,Deferred members,DC,0.0,20250716
+IT,2021,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+IT,2021,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+IT,2021,R0020,Deferred members reported by non-exempted IORPs,DB,4678.0,20250716
+IT,2021,R0020,Deferred members reported by non-exempted IORPs,DC,0.0,20250716
+IT,2021,R0028,Beneficiaries,DB,60611.0,20250716
+IT,2021,R0028,Beneficiaries,DC,37898.0,20250716
+IT,2021,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+IT,2021,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+IT,2021,R0030,Beneficiaries reported by non-exempted IORPs,DB,60611.0,20250716
+IT,2021,R0030,Beneficiaries reported by non-exempted IORPs,DC,37898.0,20250716
+IT,2021,R0040,New members,DB,0.0,20250716
+IT,2021,R0040,New members,DC,0.0,20250716
+IT,2021,R0050,Deaths,DB,0.0,20250716
+IT,2021,R0050,Deaths,DC,0.0,20250716
+IT,2021,R0060,Commutations,DB,0.0,20250716
+IT,2021,R0060,Commutations,DC,0.0,20250716
+IT,2021,R0070,Other exits,DB,0.0,20250716
+IT,2021,R0070,Other exits,DC,0.0,20250716
+IT,2021,R0080,New beneficiaries,DB,0.0,20250716
+IT,2021,R0080,New beneficiaries,DC,0.0,20250716
+IT,2021,R0090,of which new retired members,DB,0.0,20250716
+IT,2021,R0090,of which new retired members,DC,0.0,20250716
+IT,2022,R0008,Active members,DB,30287.0,20250716
+IT,2022,R0008,Active members,DC,6297490.0,20250716
+IT,2022,R0009,Active members reported by exempted IORPs,DB,,20250716
+IT,2022,R0009,Active members reported by exempted IORPs,DC,,20250716
+IT,2022,R0010,Active members reported by non-exempted IORPs,DB,30287.0,20250716
+IT,2022,R0010,Active members reported by non-exempted IORPs,DC,6297490.0,20250716
+IT,2022,R0018,Deferred members,DB,4108.0,20250716
+IT,2022,R0018,Deferred members,DC,0.0,20250716
+IT,2022,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+IT,2022,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+IT,2022,R0020,Deferred members reported by non-exempted IORPs,DB,4108.0,20250716
+IT,2022,R0020,Deferred members reported by non-exempted IORPs,DC,0.0,20250716
+IT,2022,R0028,Beneficiaries,DB,56433.0,20250716
+IT,2022,R0028,Beneficiaries,DC,38272.0,20250716
+IT,2022,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+IT,2022,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+IT,2022,R0030,Beneficiaries reported by non-exempted IORPs,DB,56433.0,20250716
+IT,2022,R0030,Beneficiaries reported by non-exempted IORPs,DC,38272.0,20250716
+IT,2022,R0040,New members,DB,0.0,20250716
+IT,2022,R0040,New members,DC,0.0,20250716
+IT,2022,R0050,Deaths,DB,0.0,20250716
+IT,2022,R0050,Deaths,DC,0.0,20250716
+IT,2022,R0060,Commutations,DB,0.0,20250716
+IT,2022,R0060,Commutations,DC,0.0,20250716
+IT,2022,R0070,Other exits,DB,0.0,20250716
+IT,2022,R0070,Other exits,DC,0.0,20250716
+IT,2022,R0080,New beneficiaries,DB,0.0,20250716
+IT,2022,R0080,New beneficiaries,DC,0.0,20250716
+IT,2022,R0090,of which new retired members,DB,0.0,20250716
+IT,2022,R0090,of which new retired members,DC,0.0,20250716
+IT,2023,R0008,Active members,DB,29114.0,20250716
+IT,2023,R0008,Active members,DC,6621221.0,20250716
+IT,2023,R0009,Active members reported by exempted IORPs,DB,,20250716
+IT,2023,R0009,Active members reported by exempted IORPs,DC,,20250716
+IT,2023,R0010,Active members reported by non-exempted IORPs,DB,29114.0,20250716
+IT,2023,R0010,Active members reported by non-exempted IORPs,DC,6621221.0,20250716
+IT,2023,R0018,Deferred members,DB,4070.0,20250716
+IT,2023,R0018,Deferred members,DC,0.0,20250716
+IT,2023,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+IT,2023,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+IT,2023,R0020,Deferred members reported by non-exempted IORPs,DB,4070.0,20250716
+IT,2023,R0020,Deferred members reported by non-exempted IORPs,DC,0.0,20250716
+IT,2023,R0028,Beneficiaries,DB,56164.0,20250716
+IT,2023,R0028,Beneficiaries,DC,38845.0,20250716
+IT,2023,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+IT,2023,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+IT,2023,R0030,Beneficiaries reported by non-exempted IORPs,DB,56164.0,20250716
+IT,2023,R0030,Beneficiaries reported by non-exempted IORPs,DC,38845.0,20250716
+IT,2023,R0040,New members,DB,0.0,20250716
+IT,2023,R0040,New members,DC,0.0,20250716
+IT,2023,R0050,Deaths,DB,0.0,20250716
+IT,2023,R0050,Deaths,DC,0.0,20250716
+IT,2023,R0060,Commutations,DB,0.0,20250716
+IT,2023,R0060,Commutations,DC,0.0,20250716
+IT,2023,R0070,Other exits,DB,0.0,20250716
+IT,2023,R0070,Other exits,DC,0.0,20250716
+IT,2023,R0080,New beneficiaries,DB,0.0,20250716
+IT,2023,R0080,New beneficiaries,DC,0.0,20250716
+IT,2023,R0090,of which new retired members,DB,0.0,20250716
+IT,2023,R0090,of which new retired members,DC,0.0,20250716
+IT,2024,R0008,Active members,DB,25227.0,20250716
+IT,2024,R0008,Active members,DC,6995200.0,20250716
+IT,2024,R0009,Active members reported by exempted IORPs,DB,,20250716
+IT,2024,R0009,Active members reported by exempted IORPs,DC,,20250716
+IT,2024,R0010,Active members reported by non-exempted IORPs,DB,25227.0,20250716
+IT,2024,R0010,Active members reported by non-exempted IORPs,DC,6995200.0,20250716
+IT,2024,R0018,Deferred members,DB,3747.0,20250716
+IT,2024,R0018,Deferred members,DC,0.0,20250716
+IT,2024,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+IT,2024,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+IT,2024,R0020,Deferred members reported by non-exempted IORPs,DB,3747.0,20250716
+IT,2024,R0020,Deferred members reported by non-exempted IORPs,DC,0.0,20250716
+IT,2024,R0028,Beneficiaries,DB,40809.0,20250716
+IT,2024,R0028,Beneficiaries,DC,41381.0,20250716
+IT,2024,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+IT,2024,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+IT,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,40809.0,20250716
+IT,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,41381.0,20250716
+IT,2024,R0040,New members,DB,0.0,20250716
+IT,2024,R0040,New members,DC,0.0,20250716
+IT,2024,R0050,Deaths,DB,0.0,20250716
+IT,2024,R0050,Deaths,DC,0.0,20250716
+IT,2024,R0060,Commutations,DB,0.0,20250716
+IT,2024,R0060,Commutations,DC,0.0,20250716
+IT,2024,R0070,Other exits,DB,0.0,20250716
+IT,2024,R0070,Other exits,DC,0.0,20250716
+IT,2024,R0080,New beneficiaries,DB,0.0,20250716
+IT,2024,R0080,New beneficiaries,DC,0.0,20250716
+IT,2024,R0090,of which new retired members,DB,0.0,20250716
+IT,2024,R0090,of which new retired members,DC,0.0,20250716
+LI,2020,R0008,Active members,no split available,2091.0,20250716
+LI,2020,R0009,Active members reported by exempted IORPs,no split available,,20250716
+LI,2020,R0010,Active members reported by non-exempted IORPs,no split available,2091.0,20250716
+LI,2020,R0018,Deferred members,no split available,179.0,20250716
+LI,2020,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+LI,2020,R0020,Deferred members reported by non-exempted IORPs,no split available,179.0,20250716
+LI,2020,R0028,Beneficiaries,no split available,1431.0,20250716
+LI,2020,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+LI,2020,R0030,Beneficiaries reported by non-exempted IORPs,no split available,1431.0,20250716
+LI,2020,R0040,New members,no split available,176.0,20250716
+LI,2020,R0050,Deaths,no split available,63.0,20250716
+LI,2020,R0060,Commutations,no split available,30.0,20250716
+LI,2020,R0070,Other exits,no split available,115.0,20250716
+LI,2020,R0080,New beneficiaries,no split available,93.0,20250716
+LI,2020,R0090,of which new retired members,no split available,64.0,20250716
+LI,2021,R0008,Active members,no split available,3053.0,20250716
+LI,2021,R0009,Active members reported by exempted IORPs,no split available,,20250716
+LI,2021,R0010,Active members reported by non-exempted IORPs,no split available,3053.0,20250716
+LI,2021,R0018,Deferred members,no split available,10.0,20250716
+LI,2021,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+LI,2021,R0020,Deferred members reported by non-exempted IORPs,no split available,10.0,20250716
+LI,2021,R0028,Beneficiaries,no split available,1491.0,20250716
+LI,2021,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+LI,2021,R0030,Beneficiaries reported by non-exempted IORPs,no split available,1491.0,20250716
+LI,2021,R0040,New members,no split available,745.0,20250716
+LI,2021,R0050,Deaths,no split available,62.0,20250716
+LI,2021,R0060,Commutations,no split available,19.0,20250716
+LI,2021,R0070,Other exits,no split available,105.0,20250716
+LI,2021,R0080,New beneficiaries,no split available,131.0,20250716
+LI,2021,R0090,of which new retired members,no split available,83.0,20250716
+LI,2022,R0008,Active members,no split available,3192.0,20250716
+LI,2022,R0009,Active members reported by exempted IORPs,no split available,,20250716
+LI,2022,R0010,Active members reported by non-exempted IORPs,no split available,3192.0,20250716
+LI,2022,R0018,Deferred members,no split available,10.0,20250716
+LI,2022,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+LI,2022,R0020,Deferred members reported by non-exempted IORPs,no split available,10.0,20250716
+LI,2022,R0028,Beneficiaries,no split available,1731.0,20250716
+LI,2022,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+LI,2022,R0030,Beneficiaries reported by non-exempted IORPs,no split available,1731.0,20250716
+LI,2022,R0040,New members,no split available,367.0,20250716
+LI,2022,R0050,Deaths,no split available,63.0,20250716
+LI,2022,R0060,Commutations,no split available,29.0,20250716
+LI,2022,R0070,Other exits,no split available,56.0,20250716
+LI,2022,R0080,New beneficiaries,no split available,257.0,20250716
+LI,2022,R0090,of which new retired members,no split available,99.0,20250716
+LI,2023,R0008,Active members,no split available,3149.0,20250716
+LI,2023,R0009,Active members reported by exempted IORPs,no split available,,20250716
+LI,2023,R0010,Active members reported by non-exempted IORPs,no split available,3149.0,20250716
+LI,2023,R0018,Deferred members,no split available,18.0,20250716
+LI,2023,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+LI,2023,R0020,Deferred members reported by non-exempted IORPs,no split available,18.0,20250716
+LI,2023,R0028,Beneficiaries,no split available,1780.0,20250716
+LI,2023,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+LI,2023,R0030,Beneficiaries reported by non-exempted IORPs,no split available,1780.0,20250716
+LI,2023,R0040,New members,no split available,193.0,20250716
+LI,2023,R0050,Deaths,no split available,67.0,20250716
+LI,2023,R0060,Commutations,no split available,22.0,20250716
+LI,2023,R0070,Other exits,no split available,91.0,20250716
+LI,2023,R0080,New beneficiaries,no split available,257.0,20250716
+LI,2023,R0090,of which new retired members,no split available,96.0,20250716
+LI,2024,R0008,Active members,no split available,2980.0,20250716
+LI,2024,R0009,Active members reported by exempted IORPs,no split available,,20250716
+LI,2024,R0010,Active members reported by non-exempted IORPs,no split available,2980.0,20250716
+LI,2024,R0018,Deferred members,no split available,14.0,20250716
+LI,2024,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+LI,2024,R0020,Deferred members reported by non-exempted IORPs,no split available,14.0,20250716
+LI,2024,R0028,Beneficiaries,no split available,1902.0,20250716
+LI,2024,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+LI,2024,R0030,Beneficiaries reported by non-exempted IORPs,no split available,1902.0,20250716
+LI,2024,R0040,New members,no split available,147.0,20250716
+LI,2024,R0050,Deaths,no split available,70.0,20250716
+LI,2024,R0060,Commutations,no split available,21.0,20250716
+LI,2024,R0070,Other exits,no split available,157.0,20250716
+LI,2024,R0080,New beneficiaries,no split available,183.0,20250716
+LI,2024,R0090,of which new retired members,no split available,106.0,20250716
+LU,2020,R0008,Active members,DB,8130.0,20250716
+LU,2020,R0008,Active members,DC,12487.0,20250716
+LU,2020,R0009,Active members reported by exempted IORPs,DB,,20250716
+LU,2020,R0009,Active members reported by exempted IORPs,DC,,20250716
+LU,2020,R0010,Active members reported by non-exempted IORPs,DB,8130.0,20250716
+LU,2020,R0010,Active members reported by non-exempted IORPs,DC,12487.0,20250716
+LU,2020,R0018,Deferred members,DB,1297.0,20250716
+LU,2020,R0018,Deferred members,DC,2137.0,20250716
+LU,2020,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+LU,2020,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+LU,2020,R0020,Deferred members reported by non-exempted IORPs,DB,1297.0,20250716
+LU,2020,R0020,Deferred members reported by non-exempted IORPs,DC,2137.0,20250716
+LU,2020,R0028,Beneficiaries,DB,2172.0,20250716
+LU,2020,R0028,Beneficiaries,DC,9.0,20250716
+LU,2020,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+LU,2020,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+LU,2020,R0030,Beneficiaries reported by non-exempted IORPs,DB,2172.0,20250716
+LU,2020,R0030,Beneficiaries reported by non-exempted IORPs,DC,9.0,20250716
+LU,2020,R0040,New members,DB,112.0,20250716
+LU,2020,R0040,New members,DC,1694.0,20250716
+LU,2020,R0050,Deaths,DB,53.0,20250716
+LU,2020,R0050,Deaths,DC,54.0,20250716
+LU,2020,R0060,Commutations,DB,220.0,20250716
+LU,2020,R0060,Commutations,DC,884.0,20250716
+LU,2020,R0070,Other exits,DB,856.0,20250716
+LU,2020,R0070,Other exits,DC,234.0,20250716
+LU,2020,R0080,New beneficiaries,DB,87.0,20250716
+LU,2020,R0080,New beneficiaries,DC,20.0,20250716
+LU,2020,R0090,of which new retired members,DB,72.0,20250716
+LU,2020,R0090,of which new retired members,DC,20.0,20250716
+LU,2021,R0008,Active members,DB,7911.0,20250716
+LU,2021,R0008,Active members,DC,12970.0,20250716
+LU,2021,R0009,Active members reported by exempted IORPs,DB,,20250716
+LU,2021,R0009,Active members reported by exempted IORPs,DC,,20250716
+LU,2021,R0010,Active members reported by non-exempted IORPs,DB,7911.0,20250716
+LU,2021,R0010,Active members reported by non-exempted IORPs,DC,12970.0,20250716
+LU,2021,R0018,Deferred members,DB,2163.0,20250716
+LU,2021,R0018,Deferred members,DC,2430.0,20250716
+LU,2021,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+LU,2021,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+LU,2021,R0020,Deferred members reported by non-exempted IORPs,DB,2163.0,20250716
+LU,2021,R0020,Deferred members reported by non-exempted IORPs,DC,2430.0,20250716
+LU,2021,R0028,Beneficiaries,DB,2290.0,20250716
+LU,2021,R0028,Beneficiaries,DC,12.0,20250716
+LU,2021,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+LU,2021,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+LU,2021,R0030,Beneficiaries reported by non-exempted IORPs,DB,2290.0,20250716
+LU,2021,R0030,Beneficiaries reported by non-exempted IORPs,DC,12.0,20250716
+LU,2021,R0040,New members,DB,181.0,20250716
+LU,2021,R0040,New members,DC,1956.0,20250716
+LU,2021,R0050,Deaths,DB,76.0,20250716
+LU,2021,R0050,Deaths,DC,99.0,20250716
+LU,2021,R0060,Commutations,DB,181.0,20250716
+LU,2021,R0060,Commutations,DC,800.0,20250716
+LU,2021,R0070,Other exits,DB,151.0,20250716
+LU,2021,R0070,Other exits,DC,274.0,20250716
+LU,2021,R0080,New beneficiaries,DB,66.0,20250716
+LU,2021,R0080,New beneficiaries,DC,37.0,20250716
+LU,2021,R0090,of which new retired members,DB,63.0,20250716
+LU,2021,R0090,of which new retired members,DC,37.0,20250716
+LU,2022,R0008,Active members,DB,7478.0,20250716
+LU,2022,R0008,Active members,DC,10622.0,20250716
+LU,2022,R0009,Active members reported by exempted IORPs,DB,,20250716
+LU,2022,R0009,Active members reported by exempted IORPs,DC,,20250716
+LU,2022,R0010,Active members reported by non-exempted IORPs,DB,7478.0,20250716
+LU,2022,R0010,Active members reported by non-exempted IORPs,DC,10622.0,20250716
+LU,2022,R0018,Deferred members,DB,1419.0,20250716
+LU,2022,R0018,Deferred members,DC,2447.0,20250716
+LU,2022,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+LU,2022,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+LU,2022,R0020,Deferred members reported by non-exempted IORPs,DB,1419.0,20250716
+LU,2022,R0020,Deferred members reported by non-exempted IORPs,DC,2447.0,20250716
+LU,2022,R0028,Beneficiaries,DB,2156.0,20250716
+LU,2022,R0028,Beneficiaries,DC,14.0,20250716
+LU,2022,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+LU,2022,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+LU,2022,R0030,Beneficiaries reported by non-exempted IORPs,DB,2156.0,20250716
+LU,2022,R0030,Beneficiaries reported by non-exempted IORPs,DC,14.0,20250716
+LU,2022,R0040,New members,DB,188.0,20250716
+LU,2022,R0040,New members,DC,2225.0,20250716
+LU,2022,R0050,Deaths,DB,52.0,20250716
+LU,2022,R0050,Deaths,DC,5.0,20250716
+LU,2022,R0060,Commutations,DB,170.0,20250716
+LU,2022,R0060,Commutations,DC,737.0,20250716
+LU,2022,R0070,Other exits,DB,143.0,20250716
+LU,2022,R0070,Other exits,DC,285.0,20250716
+LU,2022,R0080,New beneficiaries,DB,68.0,20250716
+LU,2022,R0080,New beneficiaries,DC,27.0,20250716
+LU,2022,R0090,of which new retired members,DB,66.0,20250716
+LU,2022,R0090,of which new retired members,DC,25.0,20250716
+LU,2023,R0008,Active members,DB,7210.0,20250716
+LU,2023,R0008,Active members,DC,10172.0,20250716
+LU,2023,R0009,Active members reported by exempted IORPs,DB,,20250716
+LU,2023,R0009,Active members reported by exempted IORPs,DC,,20250716
+LU,2023,R0010,Active members reported by non-exempted IORPs,DB,7210.0,20250716
+LU,2023,R0010,Active members reported by non-exempted IORPs,DC,10172.0,20250716
+LU,2023,R0018,Deferred members,DB,836.0,20250716
+LU,2023,R0018,Deferred members,DC,2444.0,20250716
+LU,2023,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+LU,2023,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+LU,2023,R0020,Deferred members reported by non-exempted IORPs,DB,836.0,20250716
+LU,2023,R0020,Deferred members reported by non-exempted IORPs,DC,2444.0,20250716
+LU,2023,R0028,Beneficiaries,DB,1311.0,20250716
+LU,2023,R0028,Beneficiaries,DC,238.0,20250716
+LU,2023,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+LU,2023,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+LU,2023,R0030,Beneficiaries reported by non-exempted IORPs,DB,1311.0,20250716
+LU,2023,R0030,Beneficiaries reported by non-exempted IORPs,DC,238.0,20250716
+LU,2023,R0040,New members,DB,218.0,20250716
+LU,2023,R0040,New members,DC,1633.0,20250716
+LU,2023,R0050,Deaths,DB,11.0,20250716
+LU,2023,R0050,Deaths,DC,3.0,20250716
+LU,2023,R0060,Commutations,DB,240.0,20250716
+LU,2023,R0060,Commutations,DC,547.0,20250716
+LU,2023,R0070,Other exits,DB,45.0,20250716
+LU,2023,R0070,Other exits,DC,310.0,20250716
+LU,2023,R0080,New beneficiaries,DB,43.0,20250716
+LU,2023,R0080,New beneficiaries,DC,5.0,20250716
+LU,2023,R0090,of which new retired members,DB,43.0,20250716
+LU,2023,R0090,of which new retired members,DC,2.0,20250716
+LU,2024,R0008,Active members,DB,7112.0,20250716
+LU,2024,R0008,Active members,DC,9245.0,20250716
+LU,2024,R0009,Active members reported by exempted IORPs,DB,,20250716
+LU,2024,R0009,Active members reported by exempted IORPs,DC,,20250716
+LU,2024,R0010,Active members reported by non-exempted IORPs,DB,7112.0,20250716
+LU,2024,R0010,Active members reported by non-exempted IORPs,DC,9245.0,20250716
+LU,2024,R0018,Deferred members,DB,827.0,20250716
+LU,2024,R0018,Deferred members,DC,3166.0,20250716
+LU,2024,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+LU,2024,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+LU,2024,R0020,Deferred members reported by non-exempted IORPs,DB,827.0,20250716
+LU,2024,R0020,Deferred members reported by non-exempted IORPs,DC,3166.0,20250716
+LU,2024,R0028,Beneficiaries,DB,1345.0,20250716
+LU,2024,R0028,Beneficiaries,DC,24.0,20250716
+LU,2024,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+LU,2024,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+LU,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,1345.0,20250716
+LU,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,24.0,20250716
+LU,2024,R0040,New members,DB,219.0,20250716
+LU,2024,R0040,New members,DC,1063.0,20250716
+LU,2024,R0050,Deaths,DB,16.0,20250716
+LU,2024,R0050,Deaths,DC,10.0,20250716
+LU,2024,R0060,Commutations,DB,258.0,20250716
+LU,2024,R0060,Commutations,DC,555.0,20250716
+LU,2024,R0070,Other exits,DB,79.0,20250716
+LU,2024,R0070,Other exits,DC,240.0,20250716
+LU,2024,R0080,New beneficiaries,DB,76.0,20250716
+LU,2024,R0080,New beneficiaries,DC,8.0,20250716
+LU,2024,R0090,of which new retired members,DB,66.0,20250716
+LU,2024,R0090,of which new retired members,DC,6.0,20250716
+LV,2020,R0008,Active members,DB,,20250716
+LV,2020,R0008,Active members,DC,49505.0,20250716
+LV,2020,R0009,Active members reported by exempted IORPs,DB,,20250716
+LV,2020,R0009,Active members reported by exempted IORPs,DC,2841.0,20250716
+LV,2020,R0010,Active members reported by non-exempted IORPs,DB,,20250716
+LV,2020,R0010,Active members reported by non-exempted IORPs,DC,46664.0,20250716
+LV,2020,R0018,Deferred members,DB,,20250716
+LV,2020,R0018,Deferred members,DC,68768.0,20250716
+LV,2020,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+LV,2020,R0019,Deferred members reported by exempted IORPs,DC,14969.0,20250716
+LV,2020,R0020,Deferred members reported by non-exempted IORPs,DB,,20250716
+LV,2020,R0020,Deferred members reported by non-exempted IORPs,DC,53799.0,20250716
+LV,2020,R0028,Beneficiaries,DB,,20250716
+LV,2020,R0028,Beneficiaries,DC,41701.0,20250716
+LV,2020,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+LV,2020,R0029,Beneficiaries reported by exempted IORPs,DC,8739.0,20250716
+LV,2020,R0030,Beneficiaries reported by non-exempted IORPs,DB,,20250716
+LV,2020,R0030,Beneficiaries reported by non-exempted IORPs,DC,32962.0,20250716
+LV,2020,R0040,New members,DB,,20250716
+LV,2020,R0040,New members,DC,3593.0,20250716
+LV,2020,R0050,Deaths,DB,,20250716
+LV,2020,R0050,Deaths,DC,249.0,20250716
+LV,2020,R0060,Commutations,DB,,20250716
+LV,2020,R0060,Commutations,DC,0.0,20250716
+LV,2020,R0070,Other exits,DB,,20250716
+LV,2020,R0070,Other exits,DC,9480.0,20250716
+LV,2020,R0080,New beneficiaries,DB,,20250716
+LV,2020,R0080,New beneficiaries,DC,91.0,20250716
+LV,2020,R0090,of which new retired members,DB,,20250716
+LV,2020,R0090,of which new retired members,DC,91.0,20250716
+LV,2021,R0008,Active members,DB,,20250716
+LV,2021,R0008,Active members,DC,51151.0,20250716
+LV,2021,R0009,Active members reported by exempted IORPs,DB,,20250716
+LV,2021,R0009,Active members reported by exempted IORPs,DC,3559.0,20250716
+LV,2021,R0010,Active members reported by non-exempted IORPs,DB,,20250716
+LV,2021,R0010,Active members reported by non-exempted IORPs,DC,47592.0,20250716
+LV,2021,R0018,Deferred members,DB,,20250716
+LV,2021,R0018,Deferred members,DC,87817.0,20250716
+LV,2021,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+LV,2021,R0019,Deferred members reported by exempted IORPs,DC,33781.0,20250716
+LV,2021,R0020,Deferred members reported by non-exempted IORPs,DB,,20250716
+LV,2021,R0020,Deferred members reported by non-exempted IORPs,DC,54036.0,20250716
+LV,2021,R0028,Beneficiaries,DB,,20250716
+LV,2021,R0028,Beneficiaries,DC,43905.0,20250716
+LV,2021,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+LV,2021,R0029,Beneficiaries reported by exempted IORPs,DC,9471.0,20250716
+LV,2021,R0030,Beneficiaries reported by non-exempted IORPs,DB,,20250716
+LV,2021,R0030,Beneficiaries reported by non-exempted IORPs,DC,34434.0,20250716
+LV,2021,R0040,New members,DB,,20250716
+LV,2021,R0040,New members,DC,4646.0,20250716
+LV,2021,R0050,Deaths,DB,,20250716
+LV,2021,R0050,Deaths,DC,271.0,20250716
+LV,2021,R0060,Commutations,DB,,20250716
+LV,2021,R0060,Commutations,DC,0.0,20250716
+LV,2021,R0070,Other exits,DB,,20250716
+LV,2021,R0070,Other exits,DC,7104.0,20250716
+LV,2021,R0080,New beneficiaries,DB,,20250716
+LV,2021,R0080,New beneficiaries,DC,2000.0,20250716
+LV,2021,R0090,of which new retired members,DB,,20250716
+LV,2021,R0090,of which new retired members,DC,528.0,20250716
+LV,2022,R0008,Active members,DB,,20250716
+LV,2022,R0008,Active members,DC,50811.0,20250716
+LV,2022,R0009,Active members reported by exempted IORPs,DB,,20250716
+LV,2022,R0009,Active members reported by exempted IORPs,DC,3817.0,20250716
+LV,2022,R0010,Active members reported by non-exempted IORPs,DB,,20250716
+LV,2022,R0010,Active members reported by non-exempted IORPs,DC,46994.0,20250716
+LV,2022,R0018,Deferred members,DB,,20250716
+LV,2022,R0018,Deferred members,DC,74625.0,20250716
+LV,2022,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+LV,2022,R0019,Deferred members reported by exempted IORPs,DC,21177.0,20250716
+LV,2022,R0020,Deferred members reported by non-exempted IORPs,DB,,20250716
+LV,2022,R0020,Deferred members reported by non-exempted IORPs,DC,53448.0,20250716
+LV,2022,R0028,Beneficiaries,DB,,20250716
+LV,2022,R0028,Beneficiaries,DC,36144.0,20250716
+LV,2022,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+LV,2022,R0029,Beneficiaries reported by exempted IORPs,DC,1305.0,20250716
+LV,2022,R0030,Beneficiaries reported by non-exempted IORPs,DB,,20250716
+LV,2022,R0030,Beneficiaries reported by non-exempted IORPs,DC,34839.0,20250716
+LV,2022,R0040,New members,DB,,20250716
+LV,2022,R0040,New members,DC,4636.0,20250716
+LV,2022,R0050,Deaths,DB,,20250716
+LV,2022,R0050,Deaths,DC,302.0,20250716
+LV,2022,R0060,Commutations,DB,,20250716
+LV,2022,R0060,Commutations,DC,0.0,20250716
+LV,2022,R0070,Other exits,DB,,20250716
+LV,2022,R0070,Other exits,DC,9583.0,20250716
+LV,2022,R0080,New beneficiaries,DB,,20250716
+LV,2022,R0080,New beneficiaries,DC,2305.0,20250716
+LV,2022,R0090,of which new retired members,DB,,20250716
+LV,2022,R0090,of which new retired members,DC,1900.0,20250716
+LV,2023,R0008,Active members,DB,0.0,20250716
+LV,2023,R0008,Active members,DC,51777.0,20250716
+LV,2023,R0009,Active members reported by exempted IORPs,DB,0.0,20250716
+LV,2023,R0009,Active members reported by exempted IORPs,DC,4019.0,20250716
+LV,2023,R0010,Active members reported by non-exempted IORPs,DB,,20250716
+LV,2023,R0010,Active members reported by non-exempted IORPs,DC,47758.0,20250716
+LV,2023,R0018,Deferred members,DB,0.0,20250716
+LV,2023,R0018,Deferred members,DC,74776.0,20250716
+LV,2023,R0019,Deferred members reported by exempted IORPs,DB,0.0,20250716
+LV,2023,R0019,Deferred members reported by exempted IORPs,DC,21024.0,20250716
+LV,2023,R0020,Deferred members reported by non-exempted IORPs,DB,,20250716
+LV,2023,R0020,Deferred members reported by non-exempted IORPs,DC,53752.0,20250716
+LV,2023,R0028,Beneficiaries,DB,0.0,20250716
+LV,2023,R0028,Beneficiaries,DC,37784.0,20250716
+LV,2023,R0029,Beneficiaries reported by exempted IORPs,DB,0.0,20250716
+LV,2023,R0029,Beneficiaries reported by exempted IORPs,DC,1876.0,20250716
+LV,2023,R0030,Beneficiaries reported by non-exempted IORPs,DB,,20250716
+LV,2023,R0030,Beneficiaries reported by non-exempted IORPs,DC,35908.0,20250716
+LV,2023,R0040,New members,DB,,20250716
+LV,2023,R0040,New members,DC,5102.0,20250716
+LV,2023,R0050,Deaths,DB,,20250716
+LV,2023,R0050,Deaths,DC,302.0,20250716
+LV,2023,R0060,Commutations,DB,,20250716
+LV,2023,R0060,Commutations,DC,0.0,20250716
+LV,2023,R0070,Other exits,DB,,20250716
+LV,2023,R0070,Other exits,DC,8359.0,20250716
+LV,2023,R0080,New beneficiaries,DB,,20250716
+LV,2023,R0080,New beneficiaries,DC,2990.0,20250716
+LV,2023,R0090,of which new retired members,DB,,20250716
+LV,2023,R0090,of which new retired members,DC,1921.0,20250716
+LV,2024,R0008,Active members,DB,0.0,20250716
+LV,2024,R0008,Active members,DC,56330.0,20250716
+LV,2024,R0009,Active members reported by exempted IORPs,DB,0.0,20250716
+LV,2024,R0009,Active members reported by exempted IORPs,DC,4861.0,20250716
+LV,2024,R0010,Active members reported by non-exempted IORPs,DB,,20250716
+LV,2024,R0010,Active members reported by non-exempted IORPs,DC,51469.0,20250716
+LV,2024,R0018,Deferred members,DB,0.0,20250716
+LV,2024,R0018,Deferred members,DC,74239.0,20250716
+LV,2024,R0019,Deferred members reported by exempted IORPs,DB,0.0,20250716
+LV,2024,R0019,Deferred members reported by exempted IORPs,DC,19840.0,20250716
+LV,2024,R0020,Deferred members reported by non-exempted IORPs,DB,,20250716
+LV,2024,R0020,Deferred members reported by non-exempted IORPs,DC,54399.0,20250716
+LV,2024,R0028,Beneficiaries,DB,0.0,20250716
+LV,2024,R0028,Beneficiaries,DC,39846.0,20250716
+LV,2024,R0029,Beneficiaries reported by exempted IORPs,DB,0.0,20250716
+LV,2024,R0029,Beneficiaries reported by exempted IORPs,DC,2130.0,20250716
+LV,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,,20250716
+LV,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,37716.0,20250716
+LV,2024,R0040,New members,DB,,20250716
+LV,2024,R0040,New members,DC,7232.0,20250716
+LV,2024,R0050,Deaths,DB,,20250716
+LV,2024,R0050,Deaths,DC,309.0,20250716
+LV,2024,R0060,Commutations,DB,,20250716
+LV,2024,R0060,Commutations,DC,0.0,20250716
+LV,2024,R0070,Other exits,DB,,20250716
+LV,2024,R0070,Other exits,DC,8947.0,20250716
+LV,2024,R0080,New beneficiaries,DB,,20250716
+LV,2024,R0080,New beneficiaries,DC,3827.0,20250716
+LV,2024,R0090,of which new retired members,DB,,20250716
+LV,2024,R0090,of which new retired members,DC,2019.0,20250716
+MT,2020,R0008,Active members,DB,0.0,20250716
+MT,2020,R0008,Active members,DC,39.0,20250716
+MT,2020,R0009,Active members reported by exempted IORPs,DB,0.0,20250716
+MT,2020,R0009,Active members reported by exempted IORPs,DC,14.0,20250716
+MT,2020,R0010,Active members reported by non-exempted IORPs,DB,0.0,20250716
+MT,2020,R0010,Active members reported by non-exempted IORPs,DC,25.0,20250716
+MT,2020,R0018,Deferred members,DB,0.0,20250716
+MT,2020,R0018,Deferred members,DC,285.0,20250716
+MT,2020,R0019,Deferred members reported by exempted IORPs,DB,0.0,20250716
+MT,2020,R0019,Deferred members reported by exempted IORPs,DC,4.0,20250716
+MT,2020,R0020,Deferred members reported by non-exempted IORPs,DB,0.0,20250716
+MT,2020,R0020,Deferred members reported by non-exempted IORPs,DC,281.0,20250716
+MT,2020,R0028,Beneficiaries,DB,0.0,20250716
+MT,2020,R0028,Beneficiaries,DC,18.0,20250716
+MT,2020,R0029,Beneficiaries reported by exempted IORPs,DB,0.0,20250716
+MT,2020,R0029,Beneficiaries reported by exempted IORPs,DC,18.0,20250716
+MT,2020,R0030,Beneficiaries reported by non-exempted IORPs,DB,0.0,20250716
+MT,2020,R0030,Beneficiaries reported by non-exempted IORPs,DC,0.0,20250716
+MT,2020,R0040,New members,DB,0.0,20250716
+MT,2020,R0040,New members,DC,13.0,20250716
+MT,2020,R0050,Deaths,DB,0.0,20250716
+MT,2020,R0050,Deaths,DC,0.0,20250716
+MT,2020,R0060,Commutations,DB,0.0,20250716
+MT,2020,R0060,Commutations,DC,0.0,20250716
+MT,2020,R0070,Other exits,DB,0.0,20250716
+MT,2020,R0070,Other exits,DC,0.0,20250716
+MT,2020,R0080,New beneficiaries,DB,0.0,20250716
+MT,2020,R0080,New beneficiaries,DC,0.0,20250716
+MT,2020,R0090,of which new retired members,DB,0.0,20250716
+MT,2020,R0090,of which new retired members,DC,0.0,20250716
+MT,2021,R0008,Active members,DB,0.0,20250716
+MT,2021,R0008,Active members,DC,634.0,20250716
+MT,2021,R0009,Active members reported by exempted IORPs,DB,0.0,20250716
+MT,2021,R0009,Active members reported by exempted IORPs,DC,595.0,20250716
+MT,2021,R0010,Active members reported by non-exempted IORPs,DB,0.0,20250716
+MT,2021,R0010,Active members reported by non-exempted IORPs,DC,39.0,20250716
+MT,2021,R0018,Deferred members,DB,0.0,20250716
+MT,2021,R0018,Deferred members,DC,54.0,20250716
+MT,2021,R0019,Deferred members reported by exempted IORPs,DB,0.0,20250716
+MT,2021,R0019,Deferred members reported by exempted IORPs,DC,20.0,20250716
+MT,2021,R0020,Deferred members reported by non-exempted IORPs,DB,0.0,20250716
+MT,2021,R0020,Deferred members reported by non-exempted IORPs,DC,34.0,20250716
+MT,2021,R0028,Beneficiaries,DB,0.0,20250716
+MT,2021,R0028,Beneficiaries,DC,0.0,20250716
+MT,2021,R0029,Beneficiaries reported by exempted IORPs,DB,0.0,20250716
+MT,2021,R0029,Beneficiaries reported by exempted IORPs,DC,0.0,20250716
+MT,2021,R0030,Beneficiaries reported by non-exempted IORPs,DB,0.0,20250716
+MT,2021,R0030,Beneficiaries reported by non-exempted IORPs,DC,0.0,20250716
+MT,2021,R0040,New members,DB,0.0,20250716
+MT,2021,R0040,New members,DC,21.0,20250716
+MT,2021,R0050,Deaths,DB,0.0,20250716
+MT,2021,R0050,Deaths,DC,0.0,20250716
+MT,2021,R0060,Commutations,DB,0.0,20250716
+MT,2021,R0060,Commutations,DC,0.0,20250716
+MT,2021,R0070,Other exits,DB,0.0,20250716
+MT,2021,R0070,Other exits,DC,-1.0,20250716
+MT,2021,R0080,New beneficiaries,DB,0.0,20250716
+MT,2021,R0080,New beneficiaries,DC,0.0,20250716
+MT,2021,R0090,of which new retired members,DB,0.0,20250716
+MT,2021,R0090,of which new retired members,DC,0.0,20250716
+MT,2022,R0008,Active members,DB,0.0,20250716
+MT,2022,R0008,Active members,DC,979.0,20250716
+MT,2022,R0009,Active members reported by exempted IORPs,DB,0.0,20250716
+MT,2022,R0009,Active members reported by exempted IORPs,DC,924.0,20250716
+MT,2022,R0010,Active members reported by non-exempted IORPs,DB,0.0,20250716
+MT,2022,R0010,Active members reported by non-exempted IORPs,DC,55.0,20250716
+MT,2022,R0018,Deferred members,DB,0.0,20250716
+MT,2022,R0018,Deferred members,DC,43.0,20250716
+MT,2022,R0019,Deferred members reported by exempted IORPs,DB,0.0,20250716
+MT,2022,R0019,Deferred members reported by exempted IORPs,DC,0.0,20250716
+MT,2022,R0020,Deferred members reported by non-exempted IORPs,DB,0.0,20250716
+MT,2022,R0020,Deferred members reported by non-exempted IORPs,DC,43.0,20250716
+MT,2022,R0028,Beneficiaries,DB,0.0,20250716
+MT,2022,R0028,Beneficiaries,DC,0.0,20250716
+MT,2022,R0029,Beneficiaries reported by exempted IORPs,DB,0.0,20250716
+MT,2022,R0029,Beneficiaries reported by exempted IORPs,DC,0.0,20250716
+MT,2022,R0030,Beneficiaries reported by non-exempted IORPs,DB,0.0,20250716
+MT,2022,R0030,Beneficiaries reported by non-exempted IORPs,DC,0.0,20250716
+MT,2022,R0040,New members,DB,0.0,20250716
+MT,2022,R0040,New members,DC,25.0,20250716
+MT,2022,R0050,Deaths,DB,0.0,20250716
+MT,2022,R0050,Deaths,DC,0.0,20250716
+MT,2022,R0060,Commutations,DB,0.0,20250716
+MT,2022,R0060,Commutations,DC,0.0,20250716
+MT,2022,R0070,Other exits,DB,0.0,20250716
+MT,2022,R0070,Other exits,DC,0.0,20250716
+MT,2022,R0080,New beneficiaries,DB,0.0,20250716
+MT,2022,R0080,New beneficiaries,DC,0.0,20250716
+MT,2022,R0090,of which new retired members,DB,0.0,20250716
+MT,2022,R0090,of which new retired members,DC,0.0,20250716
+MT,2023,R0008,Active members,DB,0.0,20250716
+MT,2023,R0008,Active members,DC,1168.0,20250716
+MT,2023,R0009,Active members reported by exempted IORPs,DB,0.0,20250716
+MT,2023,R0009,Active members reported by exempted IORPs,DC,1100.0,20250716
+MT,2023,R0010,Active members reported by non-exempted IORPs,DB,0.0,20250716
+MT,2023,R0010,Active members reported by non-exempted IORPs,DC,68.0,20250716
+MT,2023,R0018,Deferred members,DB,0.0,20250716
+MT,2023,R0018,Deferred members,DC,75.0,20250716
+MT,2023,R0019,Deferred members reported by exempted IORPs,DB,0.0,20250716
+MT,2023,R0019,Deferred members reported by exempted IORPs,DC,33.0,20250716
+MT,2023,R0020,Deferred members reported by non-exempted IORPs,DB,0.0,20250716
+MT,2023,R0020,Deferred members reported by non-exempted IORPs,DC,42.0,20250716
+MT,2023,R0028,Beneficiaries,DB,0.0,20250716
+MT,2023,R0028,Beneficiaries,DC,0.0,20250716
+MT,2023,R0029,Beneficiaries reported by exempted IORPs,DB,0.0,20250716
+MT,2023,R0029,Beneficiaries reported by exempted IORPs,DC,0.0,20250716
+MT,2023,R0030,Beneficiaries reported by non-exempted IORPs,DB,0.0,20250716
+MT,2023,R0030,Beneficiaries reported by non-exempted IORPs,DC,0.0,20250716
+MT,2023,R0040,New members,DB,0.0,20250716
+MT,2023,R0040,New members,DC,16.0,20250716
+MT,2023,R0050,Deaths,DB,0.0,20250716
+MT,2023,R0050,Deaths,DC,0.0,20250716
+MT,2023,R0060,Commutations,DB,0.0,20250716
+MT,2023,R0060,Commutations,DC,0.0,20250716
+MT,2023,R0070,Other exits,DB,0.0,20250716
+MT,2023,R0070,Other exits,DC,0.0,20250716
+MT,2023,R0080,New beneficiaries,DB,0.0,20250716
+MT,2023,R0080,New beneficiaries,DC,0.0,20250716
+MT,2023,R0090,of which new retired members,DB,0.0,20250716
+MT,2023,R0090,of which new retired members,DC,0.0,20250716
+MT,2024,R0008,Active members,DB,0.0,20250716
+MT,2024,R0008,Active members,DC,1360.0,20250716
+MT,2024,R0009,Active members reported by exempted IORPs,DB,0.0,20250716
+MT,2024,R0009,Active members reported by exempted IORPs,DC,1288.0,20250716
+MT,2024,R0010,Active members reported by non-exempted IORPs,DB,0.0,20250716
+MT,2024,R0010,Active members reported by non-exempted IORPs,DC,72.0,20250716
+MT,2024,R0018,Deferred members,DB,0.0,20250716
+MT,2024,R0018,Deferred members,DC,40.0,20250716
+MT,2024,R0019,Deferred members reported by exempted IORPs,DB,0.0,20250716
+MT,2024,R0019,Deferred members reported by exempted IORPs,DC,5.0,20250716
+MT,2024,R0020,Deferred members reported by non-exempted IORPs,DB,0.0,20250716
+MT,2024,R0020,Deferred members reported by non-exempted IORPs,DC,35.0,20250716
+MT,2024,R0028,Beneficiaries,DB,0.0,20250716
+MT,2024,R0028,Beneficiaries,DC,0.0,20250716
+MT,2024,R0029,Beneficiaries reported by exempted IORPs,DB,0.0,20250716
+MT,2024,R0029,Beneficiaries reported by exempted IORPs,DC,0.0,20250716
+MT,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,0.0,20250716
+MT,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,0.0,20250716
+MT,2024,R0040,New members,DB,0.0,20250716
+MT,2024,R0040,New members,DC,16.0,20250716
+MT,2024,R0050,Deaths,DB,0.0,20250716
+MT,2024,R0050,Deaths,DC,1.0,20250716
+MT,2024,R0060,Commutations,DB,0.0,20250716
+MT,2024,R0060,Commutations,DC,0.0,20250716
+MT,2024,R0070,Other exits,DB,0.0,20250716
+MT,2024,R0070,Other exits,DC,0.0,20250716
+MT,2024,R0080,New beneficiaries,DB,0.0,20250716
+MT,2024,R0080,New beneficiaries,DC,0.0,20250716
+MT,2024,R0090,of which new retired members,DB,0.0,20250716
+MT,2024,R0090,of which new retired members,DC,0.0,20250716
+NL,2020,R0008,Active members,DB,5861382.0,20250716
+NL,2020,R0008,Active members,DC,532571.0,20250716
+NL,2020,R0009,Active members reported by exempted IORPs,DB,,20250716
+NL,2020,R0009,Active members reported by exempted IORPs,DC,,20250716
+NL,2020,R0010,Active members reported by non-exempted IORPs,DB,5861382.0,20250716
+NL,2020,R0010,Active members reported by non-exempted IORPs,DC,532571.0,20250716
+NL,2020,R0018,Deferred members,DB,9767998.0,20250716
+NL,2020,R0018,Deferred members,DC,469533.0,20250716
+NL,2020,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+NL,2020,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+NL,2020,R0020,Deferred members reported by non-exempted IORPs,DB,9767998.0,20250716
+NL,2020,R0020,Deferred members reported by non-exempted IORPs,DC,469533.0,20250716
+NL,2020,R0028,Beneficiaries,DB,3570687.0,20250716
+NL,2020,R0028,Beneficiaries,DC,,20250716
+NL,2020,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+NL,2020,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+NL,2020,R0030,Beneficiaries reported by non-exempted IORPs,DB,3570687.0,20250716
+NL,2020,R0030,Beneficiaries reported by non-exempted IORPs,DC,,20250716
+NL,2020,R0040,New members,DB,1159381.0,20250716
+NL,2020,R0040,New members,DC,103581.0,20250716
+NL,2020,R0050,Deaths,DB,34684.0,20250716
+NL,2020,R0050,Deaths,DC,1194.0,20250716
+NL,2020,R0060,Commutations,DB,5875.0,20250716
+NL,2020,R0060,Commutations,DC,5989.0,20250716
+NL,2020,R0070,Other exits,DB,2213803.0,20250716
+NL,2020,R0070,Other exits,DC,61114.0,20250716
+NL,2020,R0080,New beneficiaries,DB,336455.0,20250716
+NL,2020,R0080,New beneficiaries,DC,,20250716
+NL,2020,R0090,of which new retired members,DB,244786.0,20250716
+NL,2020,R0090,of which new retired members,DC,,20250716
+NL,2021,R0008,Active members,DB,5952400.0,20250716
+NL,2021,R0008,Active members,DC,618793.0,20250716
+NL,2021,R0009,Active members reported by exempted IORPs,DB,,20250716
+NL,2021,R0009,Active members reported by exempted IORPs,DC,,20250716
+NL,2021,R0010,Active members reported by non-exempted IORPs,DB,5952400.0,20250716
+NL,2021,R0010,Active members reported by non-exempted IORPs,DC,618793.0,20250716
+NL,2021,R0018,Deferred members,DB,9510704.0,20250716
+NL,2021,R0018,Deferred members,DC,576981.0,20250716
+NL,2021,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+NL,2021,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+NL,2021,R0020,Deferred members reported by non-exempted IORPs,DB,9510704.0,20250716
+NL,2021,R0020,Deferred members reported by non-exempted IORPs,DC,576981.0,20250716
+NL,2021,R0028,Beneficiaries,DB,3695871.0,20250716
+NL,2021,R0028,Beneficiaries,DC,,20250716
+NL,2021,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+NL,2021,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+NL,2021,R0030,Beneficiaries reported by non-exempted IORPs,DB,3695871.0,20250716
+NL,2021,R0030,Beneficiaries reported by non-exempted IORPs,DC,,20250716
+NL,2021,R0040,New members,DB,1258703.0,20250716
+NL,2021,R0040,New members,DC,151490.0,20250716
+NL,2021,R0050,Deaths,DB,39791.0,20250716
+NL,2021,R0050,Deaths,DC,2169.0,20250716
+NL,2021,R0060,Commutations,DB,17942.0,20250716
+NL,2021,R0060,Commutations,DC,766.0,20250716
+NL,2021,R0070,Other exits,DB,2415798.0,20250716
+NL,2021,R0070,Other exits,DC,77505.0,20250716
+NL,2021,R0080,New beneficiaries,DB,354116.0,20250716
+NL,2021,R0080,New beneficiaries,DC,,20250716
+NL,2021,R0090,of which new retired members,DB,257932.0,20250716
+NL,2021,R0090,of which new retired members,DC,,20250716
+NL,2022,R0008,Active members,DB,6215954.0,20250716
+NL,2022,R0008,Active members,DC,710406.0,20250716
+NL,2022,R0009,Active members reported by exempted IORPs,DB,,20250716
+NL,2022,R0009,Active members reported by exempted IORPs,DC,,20250716
+NL,2022,R0010,Active members reported by non-exempted IORPs,DB,6215954.0,20250716
+NL,2022,R0010,Active members reported by non-exempted IORPs,DC,710406.0,20250716
+NL,2022,R0018,Deferred members,DB,9072159.0,20250716
+NL,2022,R0018,Deferred members,DC,634156.0,20250716
+NL,2022,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+NL,2022,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+NL,2022,R0020,Deferred members reported by non-exempted IORPs,DB,9072159.0,20250716
+NL,2022,R0020,Deferred members reported by non-exempted IORPs,DC,634156.0,20250716
+NL,2022,R0028,Beneficiaries,DB,3788914.0,20250716
+NL,2022,R0028,Beneficiaries,DC,,20250716
+NL,2022,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+NL,2022,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+NL,2022,R0030,Beneficiaries reported by non-exempted IORPs,DB,3788914.0,20250716
+NL,2022,R0030,Beneficiaries reported by non-exempted IORPs,DC,,20250716
+NL,2022,R0040,New members,DB,1583003.0,20250716
+NL,2022,R0040,New members,DC,177279.0,20250716
+NL,2022,R0050,Deaths,DB,38924.0,20250716
+NL,2022,R0050,Deaths,DC,1916.0,20250716
+NL,2022,R0060,Commutations,DB,73549.0,20250716
+NL,2022,R0060,Commutations,DC,4561.0,20250716
+NL,2022,R0070,Other exits,DB,2888396.0,20250716
+NL,2022,R0070,Other exits,DC,125339.0,20250716
+NL,2022,R0080,New beneficiaries,DB,335302.0,20250716
+NL,2022,R0080,New beneficiaries,DC,,20250716
+NL,2022,R0090,of which new retired members,DB,243658.0,20250716
+NL,2022,R0090,of which new retired members,DC,,20250716
+NL,2023,R0008,Active members,DB,6400967.0,20250716
+NL,2023,R0008,Active members,DC,748152.0,20250716
+NL,2023,R0009,Active members reported by exempted IORPs,DB,,20250716
+NL,2023,R0009,Active members reported by exempted IORPs,DC,,20250716
+NL,2023,R0010,Active members reported by non-exempted IORPs,DB,6400967.0,20250716
+NL,2023,R0010,Active members reported by non-exempted IORPs,DC,748152.0,20250716
+NL,2023,R0018,Deferred members,DB,8363595.0,20250716
+NL,2023,R0018,Deferred members,DC,739044.0,20250716
+NL,2023,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+NL,2023,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+NL,2023,R0020,Deferred members reported by non-exempted IORPs,DB,8363595.0,20250716
+NL,2023,R0020,Deferred members reported by non-exempted IORPs,DC,739044.0,20250716
+NL,2023,R0028,Beneficiaries,DB,3883572.0,20250716
+NL,2023,R0028,Beneficiaries,DC,,20250716
+NL,2023,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+NL,2023,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+NL,2023,R0030,Beneficiaries reported by non-exempted IORPs,DB,3883572.0,20250716
+NL,2023,R0030,Beneficiaries reported by non-exempted IORPs,DC,,20250716
+NL,2023,R0040,New members,DB,1569460.0,20250716
+NL,2023,R0040,New members,DC,168229.0,20250716
+NL,2023,R0050,Deaths,DB,37872.0,20250716
+NL,2023,R0050,Deaths,DC,1906.0,20250716
+NL,2023,R0060,Commutations,DB,2888.0,20250716
+NL,2023,R0060,Commutations,DC,5347.0,20250716
+NL,2023,R0070,Other exits,DB,3353971.0,20250716
+NL,2023,R0070,Other exits,DC,183729.0,20250716
+NL,2023,R0080,New beneficiaries,DB,313225.0,20250716
+NL,2023,R0080,New beneficiaries,DC,,20250716
+NL,2023,R0090,of which new retired members,DB,224783.0,20250716
+NL,2023,R0090,of which new retired members,DC,,20250716
+NL,2024,R0008,Active members,DB,6723419.0,20250716
+NL,2024,R0008,Active members,DC,604118.0,20250716
+NL,2024,R0009,Active members reported by exempted IORPs,DB,,20250716
+NL,2024,R0009,Active members reported by exempted IORPs,DC,,20250716
+NL,2024,R0010,Active members reported by non-exempted IORPs,DB,6723419.0,20250716
+NL,2024,R0010,Active members reported by non-exempted IORPs,DC,604118.0,20250716
+NL,2024,R0018,Deferred members,DB,8622993.0,20250716
+NL,2024,R0018,Deferred members,DC,706543.0,20250716
+NL,2024,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+NL,2024,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+NL,2024,R0020,Deferred members reported by non-exempted IORPs,DB,8622993.0,20250716
+NL,2024,R0020,Deferred members reported by non-exempted IORPs,DC,706543.0,20250716
+NL,2024,R0028,Beneficiaries,DB,4000830.0,20250716
+NL,2024,R0028,Beneficiaries,DC,,20250716
+NL,2024,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+NL,2024,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+NL,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,4000830.0,20250716
+NL,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,,20250716
+NL,2024,R0040,New members,DB,1887834.0,20250716
+NL,2024,R0040,New members,DC,109352.0,20250716
+NL,2024,R0050,Deaths,DB,37584.0,20250716
+NL,2024,R0050,Deaths,DC,810.0,20250716
+NL,2024,R0060,Commutations,DB,3015.0,20250716
+NL,2024,R0060,Commutations,DC,823.0,20250716
+NL,2024,R0070,Other exits,DB,2701466.0,20250716
+NL,2024,R0070,Other exits,DC,69680.0,20250716
+NL,2024,R0080,New beneficiaries,DB,347218.0,20250716
+NL,2024,R0080,New beneficiaries,DC,,20250716
+NL,2024,R0090,of which new retired members,DB,256762.0,20250716
+NL,2024,R0090,of which new retired members,DC,,20250716
+NO,2020,R0008,Active members,no split available,215710.0,20250716
+NO,2020,R0009,Active members reported by exempted IORPs,no split available,,20250716
+NO,2020,R0010,Active members reported by non-exempted IORPs,no split available,215710.0,20250716
+NO,2020,R0018,Deferred members,no split available,202776.0,20250716
+NO,2020,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+NO,2020,R0020,Deferred members reported by non-exempted IORPs,no split available,202776.0,20250716
+NO,2020,R0028,Beneficiaries,no split available,104292.0,20250716
+NO,2020,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+NO,2020,R0030,Beneficiaries reported by non-exempted IORPs,no split available,104292.0,20250716
+NO,2020,R0040,New members,no split available,33748.0,20250716
+NO,2020,R0050,Deaths,no split available,4223.0,20250716
+NO,2020,R0060,Commutations,no split available,8235.0,20250716
+NO,2020,R0070,Other exits,no split available,13135.0,20250716
+NO,2020,R0080,New beneficiaries,no split available,10462.0,20250716
+NO,2020,R0090,of which new retired members,no split available,7187.0,20250716
+NO,2021,R0008,Active members,no split available,235922.0,20250716
+NO,2021,R0009,Active members reported by exempted IORPs,no split available,,20250716
+NO,2021,R0010,Active members reported by non-exempted IORPs,no split available,235922.0,20250716
+NO,2021,R0018,Deferred members,no split available,227535.0,20250716
+NO,2021,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+NO,2021,R0020,Deferred members reported by non-exempted IORPs,no split available,227535.0,20250716
+NO,2021,R0028,Beneficiaries,no split available,107515.0,20250716
+NO,2021,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+NO,2021,R0030,Beneficiaries reported by non-exempted IORPs,no split available,107515.0,20250716
+NO,2021,R0040,New members,no split available,42518.0,20250716
+NO,2021,R0050,Deaths,no split available,4289.0,20250716
+NO,2021,R0060,Commutations,no split available,9742.0,20250716
+NO,2021,R0070,Other exits,no split available,10076.0,20250716
+NO,2021,R0080,New beneficiaries,no split available,9004.0,20250716
+NO,2021,R0090,of which new retired members,no split available,5830.0,20250716
+NO,2022,R0008,Active members,no split available,273083.0,20250716
+NO,2022,R0009,Active members reported by exempted IORPs,no split available,,20250716
+NO,2022,R0010,Active members reported by non-exempted IORPs,no split available,273083.0,20250716
+NO,2022,R0018,Deferred members,no split available,276258.0,20250716
+NO,2022,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+NO,2022,R0020,Deferred members reported by non-exempted IORPs,no split available,276258.0,20250716
+NO,2022,R0028,Beneficiaries,no split available,111680.0,20250716
+NO,2022,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+NO,2022,R0030,Beneficiaries reported by non-exempted IORPs,no split available,111680.0,20250716
+NO,2022,R0040,New members,no split available,64891.0,20250716
+NO,2022,R0050,Deaths,no split available,5085.0,20250716
+NO,2022,R0060,Commutations,no split available,3654.0,20250716
+NO,2022,R0070,Other exits,no split available,10387.0,20250716
+NO,2022,R0080,New beneficiaries,no split available,10871.0,20250716
+NO,2022,R0090,of which new retired members,no split available,6572.0,20250716
+NO,2023,R0008,Active members,no split available,303261.0,20250716
+NO,2023,R0009,Active members reported by exempted IORPs,no split available,,20250716
+NO,2023,R0010,Active members reported by non-exempted IORPs,no split available,303261.0,20250716
+NO,2023,R0018,Deferred members,no split available,251476.0,20250716
+NO,2023,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+NO,2023,R0020,Deferred members reported by non-exempted IORPs,no split available,251476.0,20250716
+NO,2023,R0028,Beneficiaries,no split available,114398.0,20250716
+NO,2023,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+NO,2023,R0030,Beneficiaries reported by non-exempted IORPs,no split available,114398.0,20250716
+NO,2023,R0040,New members,no split available,54057.0,20250716
+NO,2023,R0050,Deaths,no split available,4979.0,20250716
+NO,2023,R0060,Commutations,no split available,4237.0,20250716
+NO,2023,R0070,Other exits,no split available,11311.0,20250716
+NO,2023,R0080,New beneficiaries,no split available,10869.0,20250716
+NO,2023,R0090,of which new retired members,no split available,6382.0,20250716
+NO,2024,R0008,Active members,DB,212057.0,20250716
+NO,2024,R0008,Active members,DC,,20250716
+NO,2024,R0009,Active members reported by exempted IORPs,DB,,20250716
+NO,2024,R0009,Active members reported by exempted IORPs,DC,,20250716
+NO,2024,R0010,Active members reported by non-exempted IORPs,DB,212057.0,20250716
+NO,2024,R0010,Active members reported by non-exempted IORPs,DC,,20250716
+NO,2024,R0018,Deferred members,DB,278830.0,20250716
+NO,2024,R0018,Deferred members,DC,,20250716
+NO,2024,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+NO,2024,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+NO,2024,R0020,Deferred members reported by non-exempted IORPs,DB,278830.0,20250716
+NO,2024,R0020,Deferred members reported by non-exempted IORPs,DC,,20250716
+NO,2024,R0028,Beneficiaries,DB,116942.0,20250716
+NO,2024,R0028,Beneficiaries,DC,,20250716
+NO,2024,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+NO,2024,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+NO,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,116942.0,20250716
+NO,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,,20250716
+NO,2024,R0040,New members,DB,28242.0,20250716
+NO,2024,R0040,New members,DC,,20250716
+NO,2024,R0050,Deaths,DB,5589.0,20250716
+NO,2024,R0050,Deaths,DC,,20250716
+NO,2024,R0060,Commutations,DB,1767.0,20250716
+NO,2024,R0060,Commutations,DC,,20250716
+NO,2024,R0070,Other exits,DB,10566.0,20250716
+NO,2024,R0070,Other exits,DC,,20250716
+NO,2024,R0080,New beneficiaries,DB,11619.0,20250716
+NO,2024,R0080,New beneficiaries,DC,,20250716
+NO,2024,R0090,of which new retired members,DB,5858.0,20250716
+NO,2024,R0090,of which new retired members,DC,,20250716
+Other,2020,R0008,Active members,no split available,514041.0,20250716
+Other,2020,R0009,Active members reported by exempted IORPs,no split available,292.0,20250716
+Other,2020,R0010,Active members reported by non-exempted IORPs,no split available,513749.0,20250716
+Other,2020,R0018,Deferred members,no split available,537214.0,20250716
+Other,2020,R0019,Deferred members reported by exempted IORPs,no split available,410.0,20250716
+Other,2020,R0020,Deferred members reported by non-exempted IORPs,no split available,536804.0,20250716
+Other,2020,R0028,Beneficiaries,no split available,714363.0,20250716
+Other,2020,R0029,Beneficiaries reported by exempted IORPs,no split available,0.0,20250716
+Other,2020,R0030,Beneficiaries reported by non-exempted IORPs,no split available,714363.0,20250716
+Other,2020,R0040,New members,no split available,113287.0,20250716
+Other,2020,R0050,Deaths,no split available,10162.0,20250716
+Other,2020,R0060,Commutations,no split available,10947.0,20250716
+Other,2020,R0070,Other exits,no split available,8967.0,20250716
+Other,2020,R0080,New beneficiaries,no split available,62576.0,20250716
+Other,2020,R0090,of which new retired members,no split available,19509.0,20250716
+Other,2021,R0008,Active members,no split available,818541.0,20250716
+Other,2021,R0009,Active members reported by exempted IORPs,no split available,264.0,20250716
+Other,2021,R0010,Active members reported by non-exempted IORPs,no split available,818277.0,20250716
+Other,2021,R0018,Deferred members,no split available,987596.0,20250716
+Other,2021,R0019,Deferred members reported by exempted IORPs,no split available,371.0,20250716
+Other,2021,R0020,Deferred members reported by non-exempted IORPs,no split available,987225.0,20250716
+Other,2021,R0028,Beneficiaries,no split available,928518.0,20250716
+Other,2021,R0029,Beneficiaries reported by exempted IORPs,no split available,0.0,20250716
+Other,2021,R0030,Beneficiaries reported by non-exempted IORPs,no split available,928518.0,20250716
+Other,2021,R0040,New members,no split available,160802.0,20250716
+Other,2021,R0050,Deaths,no split available,11559.0,20250716
+Other,2021,R0060,Commutations,no split available,20389.0,20250716
+Other,2021,R0070,Other exits,no split available,8744.0,20250716
+Other,2021,R0080,New beneficiaries,no split available,82116.0,20250716
+Other,2021,R0090,of which new retired members,no split available,18033.0,20250716
+Other,2022,R0008,Active members,no split available,5676625.0,20250716
+Other,2022,R0009,Active members reported by exempted IORPs,no split available,238.0,20250716
+Other,2022,R0010,Active members reported by non-exempted IORPs,no split available,5676387.0,20250716
+Other,2022,R0018,Deferred members,no split available,3793486.0,20250716
+Other,2022,R0019,Deferred members reported by exempted IORPs,no split available,385.0,20250716
+Other,2022,R0020,Deferred members reported by non-exempted IORPs,no split available,3793101.0,20250716
+Other,2022,R0028,Beneficiaries,no split available,1890618.0,20250716
+Other,2022,R0029,Beneficiaries reported by exempted IORPs,no split available,2.0,20250716
+Other,2022,R0030,Beneficiaries reported by non-exempted IORPs,no split available,1890616.0,20250716
+Other,2022,R0040,New members,no split available,1103047.0,20250716
+Other,2022,R0050,Deaths,no split available,52153.0,20250716
+Other,2022,R0060,Commutations,no split available,89717.0,20250716
+Other,2022,R0070,Other exits,no split available,421925.0,20250716
+Other,2022,R0080,New beneficiaries,no split available,155333.0,20250716
+Other,2022,R0090,of which new retired members,no split available,84739.0,20250716
+Other,2023,R0008,Active members,no split available,21563.0,20250716
+Other,2023,R0009,Active members reported by exempted IORPs,no split available,0.0,20250716
+Other,2023,R0010,Active members reported by non-exempted IORPs,no split available,21563.0,20250716
+Other,2023,R0018,Deferred members,no split available,16683.0,20250716
+Other,2023,R0019,Deferred members reported by exempted IORPs,no split available,0.0,20250716
+Other,2023,R0020,Deferred members reported by non-exempted IORPs,no split available,16683.0,20250716
+Other,2023,R0028,Beneficiaries,no split available,686.0,20250716
+Other,2023,R0029,Beneficiaries reported by exempted IORPs,no split available,571.0,20250716
+Other,2023,R0030,Beneficiaries reported by non-exempted IORPs,no split available,115.0,20250716
+Other,2023,R0040,New members,no split available,606.0,20250716
+Other,2023,R0050,Deaths,no split available,80.0,20250716
+Other,2023,R0060,Commutations,no split available,519.0,20250716
+Other,2023,R0070,Other exits,no split available,221.0,20250716
+Other,2023,R0080,New beneficiaries,no split available,1001.0,20250716
+Other,2023,R0090,of which new retired members,no split available,0.0,20250716
+Other,2024,R0008,Active members,no split available,21094.0,20250716
+Other,2024,R0009,Active members reported by exempted IORPs,no split available,,20250716
+Other,2024,R0010,Active members reported by non-exempted IORPs,no split available,21094.0,20250716
+Other,2024,R0018,Deferred members,no split available,16421.0,20250716
+Other,2024,R0019,Deferred members reported by exempted IORPs,no split available,,20250716
+Other,2024,R0020,Deferred members reported by non-exempted IORPs,no split available,16421.0,20250716
+Other,2024,R0028,Beneficiaries,no split available,1057.0,20250716
+Other,2024,R0029,Beneficiaries reported by exempted IORPs,no split available,,20250716
+Other,2024,R0030,Beneficiaries reported by non-exempted IORPs,no split available,1057.0,20250716
+Other,2024,R0040,New members,no split available,268.0,20250716
+Other,2024,R0050,Deaths,no split available,88.0,20250716
+Other,2024,R0060,Commutations,no split available,59.0,20250716
+Other,2024,R0070,Other exits,no split available,220.0,20250716
+Other,2024,R0080,New beneficiaries,no split available,953.0,20250716
+Other,2024,R0090,of which new retired members,no split available,848.0,20250716
+PT,2020,R0008,Active members,DB,63802.0,20250716
+PT,2020,R0008,Active members,DC,111908.0,20250716
+PT,2020,R0009,Active members reported by exempted IORPs,DB,,20250716
+PT,2020,R0009,Active members reported by exempted IORPs,DC,,20250716
+PT,2020,R0010,Active members reported by non-exempted IORPs,DB,63802.0,20250716
+PT,2020,R0010,Active members reported by non-exempted IORPs,DC,111908.0,20250716
+PT,2020,R0018,Deferred members,DB,11849.0,20250716
+PT,2020,R0018,Deferred members,DC,3642.0,20250716
+PT,2020,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+PT,2020,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+PT,2020,R0020,Deferred members reported by non-exempted IORPs,DB,11849.0,20250716
+PT,2020,R0020,Deferred members reported by non-exempted IORPs,DC,3642.0,20250716
+PT,2020,R0028,Beneficiaries,DB,131789.0,20250716
+PT,2020,R0028,Beneficiaries,DC,6648.0,20250716
+PT,2020,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+PT,2020,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+PT,2020,R0030,Beneficiaries reported by non-exempted IORPs,DB,131789.0,20250716
+PT,2020,R0030,Beneficiaries reported by non-exempted IORPs,DC,6648.0,20250716
+PT,2020,R0040,New members,DB,1399.0,20250716
+PT,2020,R0040,New members,DC,16393.0,20250716
+PT,2020,R0050,Deaths,DB,92.0,20250716
+PT,2020,R0050,Deaths,DC,66.0,20250716
+PT,2020,R0060,Commutations,DB,133.0,20250716
+PT,2020,R0060,Commutations,DC,1154.0,20250716
+PT,2020,R0070,Other exits,DB,4081.0,20250716
+PT,2020,R0070,Other exits,DC,6055.0,20250716
+PT,2020,R0080,New beneficiaries,DB,4171.0,20250716
+PT,2020,R0080,New beneficiaries,DC,705.0,20250716
+PT,2020,R0090,of which new retired members,DB,1974.0,20250716
+PT,2020,R0090,of which new retired members,DC,484.0,20250716
+PT,2021,R0008,Active members,DB,53626.0,20250716
+PT,2021,R0008,Active members,DC,121637.0,20250716
+PT,2021,R0009,Active members reported by exempted IORPs,DB,,20250716
+PT,2021,R0009,Active members reported by exempted IORPs,DC,,20250716
+PT,2021,R0010,Active members reported by non-exempted IORPs,DB,53626.0,20250716
+PT,2021,R0010,Active members reported by non-exempted IORPs,DC,121637.0,20250716
+PT,2021,R0018,Deferred members,DB,13559.0,20250716
+PT,2021,R0018,Deferred members,DC,4488.0,20250716
+PT,2021,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+PT,2021,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+PT,2021,R0020,Deferred members reported by non-exempted IORPs,DB,13559.0,20250716
+PT,2021,R0020,Deferred members reported by non-exempted IORPs,DC,4488.0,20250716
+PT,2021,R0028,Beneficiaries,DB,130778.0,20250716
+PT,2021,R0028,Beneficiaries,DC,4107.0,20250716
+PT,2021,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+PT,2021,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+PT,2021,R0030,Beneficiaries reported by non-exempted IORPs,DB,130778.0,20250716
+PT,2021,R0030,Beneficiaries reported by non-exempted IORPs,DC,4107.0,20250716
+PT,2021,R0040,New members,DB,918.0,20250716
+PT,2021,R0040,New members,DC,19615.0,20250716
+PT,2021,R0050,Deaths,DB,85.0,20250716
+PT,2021,R0050,Deaths,DC,56.0,20250716
+PT,2021,R0060,Commutations,DB,69.0,20250716
+PT,2021,R0060,Commutations,DC,963.0,20250716
+PT,2021,R0070,Other exits,DB,6049.0,20250716
+PT,2021,R0070,Other exits,DC,5980.0,20250716
+PT,2021,R0080,New beneficiaries,DB,4646.0,20250716
+PT,2021,R0080,New beneficiaries,DC,851.0,20250716
+PT,2021,R0090,of which new retired members,DB,1655.0,20250716
+PT,2021,R0090,of which new retired members,DC,391.0,20250716
+PT,2022,R0008,Active members,DB,50474.0,20250716
+PT,2022,R0008,Active members,DC,131253.0,20250716
+PT,2022,R0009,Active members reported by exempted IORPs,DB,,20250716
+PT,2022,R0009,Active members reported by exempted IORPs,DC,,20250716
+PT,2022,R0010,Active members reported by non-exempted IORPs,DB,50474.0,20250716
+PT,2022,R0010,Active members reported by non-exempted IORPs,DC,131253.0,20250716
+PT,2022,R0018,Deferred members,DB,13386.0,20250716
+PT,2022,R0018,Deferred members,DC,4552.0,20250716
+PT,2022,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+PT,2022,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+PT,2022,R0020,Deferred members reported by non-exempted IORPs,DB,13386.0,20250716
+PT,2022,R0020,Deferred members reported by non-exempted IORPs,DC,4552.0,20250716
+PT,2022,R0028,Beneficiaries,DB,122826.0,20250716
+PT,2022,R0028,Beneficiaries,DC,4808.0,20250716
+PT,2022,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+PT,2022,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+PT,2022,R0030,Beneficiaries reported by non-exempted IORPs,DB,122826.0,20250716
+PT,2022,R0030,Beneficiaries reported by non-exempted IORPs,DC,4808.0,20250716
+PT,2022,R0040,New members,DB,1795.0,20250716
+PT,2022,R0040,New members,DC,23367.0,20250716
+PT,2022,R0050,Deaths,DB,197.0,20250716
+PT,2022,R0050,Deaths,DC,89.0,20250716
+PT,2022,R0060,Commutations,DB,130.0,20250716
+PT,2022,R0060,Commutations,DC,1316.0,20250716
+PT,2022,R0070,Other exits,DB,3121.0,20250716
+PT,2022,R0070,Other exits,DC,10615.0,20250716
+PT,2022,R0080,New beneficiaries,DB,3280.0,20250716
+PT,2022,R0080,New beneficiaries,DC,766.0,20250716
+PT,2022,R0090,of which new retired members,DB,1418.0,20250716
+PT,2022,R0090,of which new retired members,DC,449.0,20250716
+PT,2023,R0008,Active members,DB,49745.0,20250716
+PT,2023,R0008,Active members,DC,138651.0,20250716
+PT,2023,R0009,Active members reported by exempted IORPs,DB,,20250716
+PT,2023,R0009,Active members reported by exempted IORPs,DC,,20250716
+PT,2023,R0010,Active members reported by non-exempted IORPs,DB,49745.0,20250716
+PT,2023,R0010,Active members reported by non-exempted IORPs,DC,138651.0,20250716
+PT,2023,R0018,Deferred members,DB,13530.0,20250716
+PT,2023,R0018,Deferred members,DC,4900.0,20250716
+PT,2023,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+PT,2023,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+PT,2023,R0020,Deferred members reported by non-exempted IORPs,DB,13530.0,20250716
+PT,2023,R0020,Deferred members reported by non-exempted IORPs,DC,4900.0,20250716
+PT,2023,R0028,Beneficiaries,DB,121897.0,20250716
+PT,2023,R0028,Beneficiaries,DC,12747.0,20250716
+PT,2023,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+PT,2023,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+PT,2023,R0030,Beneficiaries reported by non-exempted IORPs,DB,121897.0,20250716
+PT,2023,R0030,Beneficiaries reported by non-exempted IORPs,DC,12747.0,20250716
+PT,2023,R0040,New members,DB,3115.0,20250716
+PT,2023,R0040,New members,DC,23923.0,20250716
+PT,2023,R0050,Deaths,DB,78.0,20250716
+PT,2023,R0050,Deaths,DC,81.0,20250716
+PT,2023,R0060,Commutations,DB,165.0,20250716
+PT,2023,R0060,Commutations,DC,9272.0,20250716
+PT,2023,R0070,Other exits,DB,3013.0,20250716
+PT,2023,R0070,Other exits,DC,7192.0,20250716
+PT,2023,R0080,New beneficiaries,DB,4189.0,20250716
+PT,2023,R0080,New beneficiaries,DC,905.0,20250716
+PT,2023,R0090,of which new retired members,DB,1984.0,20250716
+PT,2023,R0090,of which new retired members,DC,661.0,20250716
+PT,2024,R0008,Active members,DB,45595.0,20250716
+PT,2024,R0008,Active members,DC,138106.0,20250716
+PT,2024,R0009,Active members reported by exempted IORPs,DB,,20250716
+PT,2024,R0009,Active members reported by exempted IORPs,DC,,20250716
+PT,2024,R0010,Active members reported by non-exempted IORPs,DB,45595.0,20250716
+PT,2024,R0010,Active members reported by non-exempted IORPs,DC,138106.0,20250716
+PT,2024,R0018,Deferred members,DB,13419.0,20250716
+PT,2024,R0018,Deferred members,DC,5732.0,20250716
+PT,2024,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+PT,2024,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+PT,2024,R0020,Deferred members reported by non-exempted IORPs,DB,13419.0,20250716
+PT,2024,R0020,Deferred members reported by non-exempted IORPs,DC,5732.0,20250716
+PT,2024,R0028,Beneficiaries,DB,101817.0,20250716
+PT,2024,R0028,Beneficiaries,DC,4213.0,20250716
+PT,2024,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+PT,2024,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+PT,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,101817.0,20250716
+PT,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,4213.0,20250716
+PT,2024,R0040,New members,DB,1559.0,20250716
+PT,2024,R0040,New members,DC,33759.0,20250716
+PT,2024,R0050,Deaths,DB,69.0,20250716
+PT,2024,R0050,Deaths,DC,45.0,20250716
+PT,2024,R0060,Commutations,DB,118.0,20250716
+PT,2024,R0060,Commutations,DC,1125.0,20250716
+PT,2024,R0070,Other exits,DB,3142.0,20250716
+PT,2024,R0070,Other exits,DC,8630.0,20250716
+PT,2024,R0080,New beneficiaries,DB,3547.0,20250716
+PT,2024,R0080,New beneficiaries,DC,615.0,20250716
+PT,2024,R0090,of which new retired members,DB,1559.0,20250716
+PT,2024,R0090,of which new retired members,DC,428.0,20250716
+SE,2020,R0008,Active members,DB,433809.0,20250716
+SE,2020,R0008,Active members,DC,1995720.0,20250716
+SE,2020,R0009,Active members reported by exempted IORPs,DB,,20250716
+SE,2020,R0009,Active members reported by exempted IORPs,DC,,20250716
+SE,2020,R0010,Active members reported by non-exempted IORPs,DB,433809.0,20250716
+SE,2020,R0010,Active members reported by non-exempted IORPs,DC,1995720.0,20250716
+SE,2020,R0018,Deferred members,DB,446592.0,20250716
+SE,2020,R0018,Deferred members,DC,3213337.0,20250716
+SE,2020,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SE,2020,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SE,2020,R0020,Deferred members reported by non-exempted IORPs,DB,446592.0,20250716
+SE,2020,R0020,Deferred members reported by non-exempted IORPs,DC,3213337.0,20250716
+SE,2020,R0028,Beneficiaries,DB,654687.0,20250716
+SE,2020,R0028,Beneficiaries,DC,910454.0,20250716
+SE,2020,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SE,2020,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SE,2020,R0030,Beneficiaries reported by non-exempted IORPs,DB,654687.0,20250716
+SE,2020,R0030,Beneficiaries reported by non-exempted IORPs,DC,910454.0,20250716
+SE,2020,R0040,New members,DB,50096.0,20250716
+SE,2020,R0040,New members,DC,214081.0,20250716
+SE,2020,R0050,Deaths,DB,29923.0,20250716
+SE,2020,R0050,Deaths,DC,28136.0,20250716
+SE,2020,R0060,Commutations,DB,0.0,20250716
+SE,2020,R0060,Commutations,DC,38005.0,20250716
+SE,2020,R0070,Other exits,DB,22249.0,20250716
+SE,2020,R0070,Other exits,DC,3700.0,20250716
+SE,2020,R0080,New beneficiaries,DB,31198.0,20250716
+SE,2020,R0080,New beneficiaries,DC,67766.0,20250716
+SE,2020,R0090,of which new retired members,DB,27821.0,20250716
+SE,2020,R0090,of which new retired members,DC,60406.0,20250716
+SE,2021,R0008,Active members,DB,1843547.0,20250716
+SE,2021,R0008,Active members,DC,2232087.0,20250716
+SE,2021,R0009,Active members reported by exempted IORPs,DB,,20250716
+SE,2021,R0009,Active members reported by exempted IORPs,DC,,20250716
+SE,2021,R0010,Active members reported by non-exempted IORPs,DB,1843547.0,20250716
+SE,2021,R0010,Active members reported by non-exempted IORPs,DC,2232087.0,20250716
+SE,2021,R0018,Deferred members,DB,590287.0,20250716
+SE,2021,R0018,Deferred members,DC,3717820.0,20250716
+SE,2021,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SE,2021,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SE,2021,R0020,Deferred members reported by non-exempted IORPs,DB,590287.0,20250716
+SE,2021,R0020,Deferred members reported by non-exempted IORPs,DC,3717820.0,20250716
+SE,2021,R0028,Beneficiaries,DB,665424.0,20250716
+SE,2021,R0028,Beneficiaries,DC,1165983.0,20250716
+SE,2021,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SE,2021,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SE,2021,R0030,Beneficiaries reported by non-exempted IORPs,DB,665424.0,20250716
+SE,2021,R0030,Beneficiaries reported by non-exempted IORPs,DC,1165983.0,20250716
+SE,2021,R0040,New members,DB,61799.0,20250716
+SE,2021,R0040,New members,DC,220984.0,20250716
+SE,2021,R0050,Deaths,DB,30438.0,20250716
+SE,2021,R0050,Deaths,DC,30274.0,20250716
+SE,2021,R0060,Commutations,DB,451.0,20250716
+SE,2021,R0060,Commutations,DC,49779.0,20250716
+SE,2021,R0070,Other exits,DB,20868.0,20250716
+SE,2021,R0070,Other exits,DC,14772.0,20250716
+SE,2021,R0080,New beneficiaries,DB,34100.0,20250716
+SE,2021,R0080,New beneficiaries,DC,74814.0,20250716
+SE,2021,R0090,of which new retired members,DB,30150.0,20250716
+SE,2021,R0090,of which new retired members,DC,63961.0,20250716
+SE,2022,R0008,Active members,DB,1148844.0,20250716
+SE,2022,R0008,Active members,DC,3642251.0,20250716
+SE,2022,R0009,Active members reported by exempted IORPs,DB,,20250716
+SE,2022,R0009,Active members reported by exempted IORPs,DC,,20250716
+SE,2022,R0010,Active members reported by non-exempted IORPs,DB,1148844.0,20250716
+SE,2022,R0010,Active members reported by non-exempted IORPs,DC,3642251.0,20250716
+SE,2022,R0018,Deferred members,DB,510707.0,20250716
+SE,2022,R0018,Deferred members,DC,5206972.0,20250716
+SE,2022,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SE,2022,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SE,2022,R0020,Deferred members reported by non-exempted IORPs,DB,510707.0,20250716
+SE,2022,R0020,Deferred members reported by non-exempted IORPs,DC,5206972.0,20250716
+SE,2022,R0028,Beneficiaries,DB,856192.0,20250716
+SE,2022,R0028,Beneficiaries,DC,1471485.0,20250716
+SE,2022,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SE,2022,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SE,2022,R0030,Beneficiaries reported by non-exempted IORPs,DB,856192.0,20250716
+SE,2022,R0030,Beneficiaries reported by non-exempted IORPs,DC,1471485.0,20250716
+SE,2022,R0040,New members,DB,76615.0,20250716
+SE,2022,R0040,New members,DC,419669.0,20250716
+SE,2022,R0050,Deaths,DB,31458.0,20250716
+SE,2022,R0050,Deaths,DC,39917.0,20250716
+SE,2022,R0060,Commutations,DB,2292.0,20250716
+SE,2022,R0060,Commutations,DC,45470.0,20250716
+SE,2022,R0070,Other exits,DB,23086.0,20250716
+SE,2022,R0070,Other exits,DC,16891.0,20250716
+SE,2022,R0080,New beneficiaries,DB,39902.0,20250716
+SE,2022,R0080,New beneficiaries,DC,111963.0,20250716
+SE,2022,R0090,of which new retired members,DB,35601.0,20250716
+SE,2022,R0090,of which new retired members,DC,95365.0,20250716
+SE,2023,R0008,Active members,DB,447156.0,20250716
+SE,2023,R0008,Active members,DC,4009436.0,20250716
+SE,2023,R0009,Active members reported by exempted IORPs,DB,,20250716
+SE,2023,R0009,Active members reported by exempted IORPs,DC,,20250716
+SE,2023,R0010,Active members reported by non-exempted IORPs,DB,447156.0,20250716
+SE,2023,R0010,Active members reported by non-exempted IORPs,DC,4009436.0,20250716
+SE,2023,R0018,Deferred members,DB,513572.0,20250716
+SE,2023,R0018,Deferred members,DC,5503895.0,20250716
+SE,2023,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SE,2023,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SE,2023,R0020,Deferred members reported by non-exempted IORPs,DB,513572.0,20250716
+SE,2023,R0020,Deferred members reported by non-exempted IORPs,DC,5503895.0,20250716
+SE,2023,R0028,Beneficiaries,DB,811303.0,20250716
+SE,2023,R0028,Beneficiaries,DC,1639009.0,20250716
+SE,2023,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SE,2023,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SE,2023,R0030,Beneficiaries reported by non-exempted IORPs,DB,811303.0,20250716
+SE,2023,R0030,Beneficiaries reported by non-exempted IORPs,DC,1639009.0,20250716
+SE,2023,R0040,New members,DB,59818.0,20250716
+SE,2023,R0040,New members,DC,573349.0,20250716
+SE,2023,R0050,Deaths,DB,31818.0,20250716
+SE,2023,R0050,Deaths,DC,45276.0,20250716
+SE,2023,R0060,Commutations,DB,147.0,20250716
+SE,2023,R0060,Commutations,DC,84807.0,20250716
+SE,2023,R0070,Other exits,DB,32494.0,20250716
+SE,2023,R0070,Other exits,DC,45745.0,20250716
+SE,2023,R0080,New beneficiaries,DB,35312.0,20250716
+SE,2023,R0080,New beneficiaries,DC,107882.0,20250716
+SE,2023,R0090,of which new retired members,DB,30435.0,20250716
+SE,2023,R0090,of which new retired members,DC,89197.0,20250716
+SE,2024,R0008,Active members,DB,433827.0,20250716
+SE,2024,R0008,Active members,DC,3775691.0,20250716
+SE,2024,R0009,Active members reported by exempted IORPs,DB,,20250716
+SE,2024,R0009,Active members reported by exempted IORPs,DC,,20250716
+SE,2024,R0010,Active members reported by non-exempted IORPs,DB,433827.0,20250716
+SE,2024,R0010,Active members reported by non-exempted IORPs,DC,3775691.0,20250716
+SE,2024,R0018,Deferred members,DB,502653.0,20250716
+SE,2024,R0018,Deferred members,DC,5892007.0,20250716
+SE,2024,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SE,2024,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SE,2024,R0020,Deferred members reported by non-exempted IORPs,DB,502653.0,20250716
+SE,2024,R0020,Deferred members reported by non-exempted IORPs,DC,5892007.0,20250716
+SE,2024,R0028,Beneficiaries,DB,807225.0,20250716
+SE,2024,R0028,Beneficiaries,DC,1687575.0,20250716
+SE,2024,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SE,2024,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SE,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,807225.0,20250716
+SE,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,1687575.0,20250716
+SE,2024,R0040,New members,DB,46633.0,20250716
+SE,2024,R0040,New members,DC,519321.0,20250716
+SE,2024,R0050,Deaths,DB,30325.0,20250716
+SE,2024,R0050,Deaths,DC,45134.0,20250716
+SE,2024,R0060,Commutations,DB,95.0,20250716
+SE,2024,R0060,Commutations,DC,118736.0,20250716
+SE,2024,R0070,Other exits,DB,21485.0,20250716
+SE,2024,R0070,Other exits,DC,53919.0,20250716
+SE,2024,R0080,New beneficiaries,DB,36701.0,20250716
+SE,2024,R0080,New beneficiaries,DC,116389.0,20250716
+SE,2024,R0090,of which new retired members,DB,32348.0,20250716
+SE,2024,R0090,of which new retired members,DC,98360.0,20250716
+SI,2020,R0008,Active members,DB,97296.0,20250716
+SI,2020,R0008,Active members,DC,0.0,20250716
+SI,2020,R0009,Active members reported by exempted IORPs,DB,,20250716
+SI,2020,R0009,Active members reported by exempted IORPs,DC,,20250716
+SI,2020,R0010,Active members reported by non-exempted IORPs,DB,97296.0,20250716
+SI,2020,R0010,Active members reported by non-exempted IORPs,DC,0.0,20250716
+SI,2020,R0018,Deferred members,DB,48865.0,20250716
+SI,2020,R0018,Deferred members,DC,0.0,20250716
+SI,2020,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SI,2020,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SI,2020,R0020,Deferred members reported by non-exempted IORPs,DB,48865.0,20250716
+SI,2020,R0020,Deferred members reported by non-exempted IORPs,DC,0.0,20250716
+SI,2020,R0028,Beneficiaries,DB,4012.0,20250716
+SI,2020,R0028,Beneficiaries,DC,0.0,20250716
+SI,2020,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SI,2020,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SI,2020,R0030,Beneficiaries reported by non-exempted IORPs,DB,4012.0,20250716
+SI,2020,R0030,Beneficiaries reported by non-exempted IORPs,DC,0.0,20250716
+SI,2020,R0040,New members,DB,7966.0,20250716
+SI,2020,R0040,New members,DC,0.0,20250716
+SI,2020,R0050,Deaths,DB,167.0,20250716
+SI,2020,R0050,Deaths,DC,0.0,20250716
+SI,2020,R0060,Commutations,DB,936.0,20250716
+SI,2020,R0060,Commutations,DC,0.0,20250716
+SI,2020,R0070,Other exits,DB,2708.0,20250716
+SI,2020,R0070,Other exits,DC,0.0,20250716
+SI,2020,R0080,New beneficiaries,DB,284.0,20250716
+SI,2020,R0080,New beneficiaries,DC,0.0,20250716
+SI,2020,R0090,of which new retired members,DB,210.0,20250716
+SI,2020,R0090,of which new retired members,DC,0.0,20250716
+SI,2021,R0008,Active members,DB,146809.0,20250716
+SI,2021,R0008,Active members,DC,0.0,20250716
+SI,2021,R0009,Active members reported by exempted IORPs,DB,,20250716
+SI,2021,R0009,Active members reported by exempted IORPs,DC,,20250716
+SI,2021,R0010,Active members reported by non-exempted IORPs,DB,146809.0,20250716
+SI,2021,R0010,Active members reported by non-exempted IORPs,DC,0.0,20250716
+SI,2021,R0018,Deferred members,DB,95160.0,20250716
+SI,2021,R0018,Deferred members,DC,0.0,20250716
+SI,2021,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SI,2021,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SI,2021,R0020,Deferred members reported by non-exempted IORPs,DB,95160.0,20250716
+SI,2021,R0020,Deferred members reported by non-exempted IORPs,DC,0.0,20250716
+SI,2021,R0028,Beneficiaries,DB,4629.0,20250716
+SI,2021,R0028,Beneficiaries,DC,0.0,20250716
+SI,2021,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SI,2021,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SI,2021,R0030,Beneficiaries reported by non-exempted IORPs,DB,4629.0,20250716
+SI,2021,R0030,Beneficiaries reported by non-exempted IORPs,DC,0.0,20250716
+SI,2021,R0040,New members,DB,12029.0,20250716
+SI,2021,R0040,New members,DC,0.0,20250716
+SI,2021,R0050,Deaths,DB,470.0,20250716
+SI,2021,R0050,Deaths,DC,0.0,20250716
+SI,2021,R0060,Commutations,DB,1335.0,20250716
+SI,2021,R0060,Commutations,DC,0.0,20250716
+SI,2021,R0070,Other exits,DB,5126.0,20250716
+SI,2021,R0070,Other exits,DC,0.0,20250716
+SI,2021,R0080,New beneficiaries,DB,1694.0,20250716
+SI,2021,R0080,New beneficiaries,DC,0.0,20250716
+SI,2021,R0090,of which new retired members,DB,1694.0,20250716
+SI,2021,R0090,of which new retired members,DC,0.0,20250716
+SI,2022,R0008,Active members,DB,149537.0,20250716
+SI,2022,R0008,Active members,DC,0.0,20250716
+SI,2022,R0009,Active members reported by exempted IORPs,DB,,20250716
+SI,2022,R0009,Active members reported by exempted IORPs,DC,,20250716
+SI,2022,R0010,Active members reported by non-exempted IORPs,DB,149537.0,20250716
+SI,2022,R0010,Active members reported by non-exempted IORPs,DC,0.0,20250716
+SI,2022,R0018,Deferred members,DB,94973.0,20250716
+SI,2022,R0018,Deferred members,DC,0.0,20250716
+SI,2022,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SI,2022,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SI,2022,R0020,Deferred members reported by non-exempted IORPs,DB,94973.0,20250716
+SI,2022,R0020,Deferred members reported by non-exempted IORPs,DC,0.0,20250716
+SI,2022,R0028,Beneficiaries,DB,9327.0,20250716
+SI,2022,R0028,Beneficiaries,DC,0.0,20250716
+SI,2022,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SI,2022,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SI,2022,R0030,Beneficiaries reported by non-exempted IORPs,DB,9327.0,20250716
+SI,2022,R0030,Beneficiaries reported by non-exempted IORPs,DC,0.0,20250716
+SI,2022,R0040,New members,DB,14783.0,20250716
+SI,2022,R0040,New members,DC,0.0,20250716
+SI,2022,R0050,Deaths,DB,384.0,20250716
+SI,2022,R0050,Deaths,DC,0.0,20250716
+SI,2022,R0060,Commutations,DB,1243.0,20250716
+SI,2022,R0060,Commutations,DC,0.0,20250716
+SI,2022,R0070,Other exits,DB,6225.0,20250716
+SI,2022,R0070,Other exits,DC,0.0,20250716
+SI,2022,R0080,New beneficiaries,DB,1372.0,20250716
+SI,2022,R0080,New beneficiaries,DC,0.0,20250716
+SI,2022,R0090,of which new retired members,DB,1286.0,20250716
+SI,2022,R0090,of which new retired members,DC,0.0,20250716
+SI,2023,R0008,Active members,DB,149040.0,20250716
+SI,2023,R0008,Active members,DC,0.0,20250716
+SI,2023,R0009,Active members reported by exempted IORPs,DB,,20250716
+SI,2023,R0009,Active members reported by exempted IORPs,DC,,20250716
+SI,2023,R0010,Active members reported by non-exempted IORPs,DB,149040.0,20250716
+SI,2023,R0010,Active members reported by non-exempted IORPs,DC,0.0,20250716
+SI,2023,R0018,Deferred members,DB,101959.0,20250716
+SI,2023,R0018,Deferred members,DC,0.0,20250716
+SI,2023,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SI,2023,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SI,2023,R0020,Deferred members reported by non-exempted IORPs,DB,101959.0,20250716
+SI,2023,R0020,Deferred members reported by non-exempted IORPs,DC,0.0,20250716
+SI,2023,R0028,Beneficiaries,DB,10673.0,20250716
+SI,2023,R0028,Beneficiaries,DC,0.0,20250716
+SI,2023,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SI,2023,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SI,2023,R0030,Beneficiaries reported by non-exempted IORPs,DB,10673.0,20250716
+SI,2023,R0030,Beneficiaries reported by non-exempted IORPs,DC,0.0,20250716
+SI,2023,R0040,New members,DB,13782.0,20250716
+SI,2023,R0040,New members,DC,0.0,20250716
+SI,2023,R0050,Deaths,DB,400.0,20250716
+SI,2023,R0050,Deaths,DC,0.0,20250716
+SI,2023,R0060,Commutations,DB,1263.0,20250716
+SI,2023,R0060,Commutations,DC,0.0,20250716
+SI,2023,R0070,Other exits,DB,4646.0,20250716
+SI,2023,R0070,Other exits,DC,0.0,20250716
+SI,2023,R0080,New beneficiaries,DB,1383.0,20250716
+SI,2023,R0080,New beneficiaries,DC,0.0,20250716
+SI,2023,R0090,of which new retired members,DB,1325.0,20250716
+SI,2023,R0090,of which new retired members,DC,0.0,20250716
+SI,2024,R0008,Active members,DB,148380.0,20250716
+SI,2024,R0008,Active members,DC,0.0,20250716
+SI,2024,R0009,Active members reported by exempted IORPs,DB,,20250716
+SI,2024,R0009,Active members reported by exempted IORPs,DC,,20250716
+SI,2024,R0010,Active members reported by non-exempted IORPs,DB,148380.0,20250716
+SI,2024,R0010,Active members reported by non-exempted IORPs,DC,0.0,20250716
+SI,2024,R0018,Deferred members,DB,106111.0,20250716
+SI,2024,R0018,Deferred members,DC,0.0,20250716
+SI,2024,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SI,2024,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SI,2024,R0020,Deferred members reported by non-exempted IORPs,DB,106111.0,20250716
+SI,2024,R0020,Deferred members reported by non-exempted IORPs,DC,0.0,20250716
+SI,2024,R0028,Beneficiaries,DB,12092.0,20250716
+SI,2024,R0028,Beneficiaries,DC,0.0,20250716
+SI,2024,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SI,2024,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SI,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,12092.0,20250716
+SI,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,0.0,20250716
+SI,2024,R0040,New members,DB,14319.0,20250716
+SI,2024,R0040,New members,DC,0.0,20250716
+SI,2024,R0050,Deaths,DB,434.0,20250716
+SI,2024,R0050,Deaths,DC,0.0,20250716
+SI,2024,R0060,Commutations,DB,1326.0,20250716
+SI,2024,R0060,Commutations,DC,0.0,20250716
+SI,2024,R0070,Other exits,DB,4416.0,20250716
+SI,2024,R0070,Other exits,DC,0.0,20250716
+SI,2024,R0080,New beneficiaries,DB,1398.0,20250716
+SI,2024,R0080,New beneficiaries,DC,0.0,20250716
+SI,2024,R0090,of which new retired members,DB,1340.0,20250716
+SI,2024,R0090,of which new retired members,DC,0.0,20250716
+SK,2020,R0008,Active members,DB,0.0,20250716
+SK,2020,R0008,Active members,DC,729301.0,20250716
+SK,2020,R0009,Active members reported by exempted IORPs,DB,,20250716
+SK,2020,R0009,Active members reported by exempted IORPs,DC,,20250716
+SK,2020,R0010,Active members reported by non-exempted IORPs,DB,0.0,20250716
+SK,2020,R0010,Active members reported by non-exempted IORPs,DC,729301.0,20250716
+SK,2020,R0018,Deferred members,DB,0.0,20250716
+SK,2020,R0018,Deferred members,DC,202461.0,20250716
+SK,2020,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SK,2020,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SK,2020,R0020,Deferred members reported by non-exempted IORPs,DB,0.0,20250716
+SK,2020,R0020,Deferred members reported by non-exempted IORPs,DC,202461.0,20250716
+SK,2020,R0028,Beneficiaries,DB,0.0,20250716
+SK,2020,R0028,Beneficiaries,DC,49680.0,20250716
+SK,2020,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SK,2020,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SK,2020,R0030,Beneficiaries reported by non-exempted IORPs,DB,0.0,20250716
+SK,2020,R0030,Beneficiaries reported by non-exempted IORPs,DC,49680.0,20250716
+SK,2020,R0040,New members,DB,0.0,20250716
+SK,2020,R0040,New members,DC,65160.0,20250716
+SK,2020,R0050,Deaths,DB,0.0,20250716
+SK,2020,R0050,Deaths,DC,1698.0,20250716
+SK,2020,R0060,Commutations,DB,0.0,20250716
+SK,2020,R0060,Commutations,DC,15408.0,20250716
+SK,2020,R0070,Other exits,DB,0.0,20250716
+SK,2020,R0070,Other exits,DC,11670.0,20250716
+SK,2020,R0080,New beneficiaries,DB,0.0,20250716
+SK,2020,R0080,New beneficiaries,DC,11252.0,20250716
+SK,2020,R0090,of which new retired members,DB,0.0,20250716
+SK,2020,R0090,of which new retired members,DC,11252.0,20250716
+SK,2021,R0008,Active members,DB,0.0,20250716
+SK,2021,R0008,Active members,DC,768220.0,20250716
+SK,2021,R0009,Active members reported by exempted IORPs,DB,,20250716
+SK,2021,R0009,Active members reported by exempted IORPs,DC,,20250716
+SK,2021,R0010,Active members reported by non-exempted IORPs,DB,0.0,20250716
+SK,2021,R0010,Active members reported by non-exempted IORPs,DC,768220.0,20250716
+SK,2021,R0018,Deferred members,DB,0.0,20250716
+SK,2021,R0018,Deferred members,DC,214590.0,20250716
+SK,2021,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SK,2021,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SK,2021,R0020,Deferred members reported by non-exempted IORPs,DB,0.0,20250716
+SK,2021,R0020,Deferred members reported by non-exempted IORPs,DC,214590.0,20250716
+SK,2021,R0028,Beneficiaries,DB,0.0,20250716
+SK,2021,R0028,Beneficiaries,DC,52723.0,20250716
+SK,2021,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SK,2021,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SK,2021,R0030,Beneficiaries reported by non-exempted IORPs,DB,0.0,20250716
+SK,2021,R0030,Beneficiaries reported by non-exempted IORPs,DC,52723.0,20250716
+SK,2021,R0040,New members,DB,0.0,20250716
+SK,2021,R0040,New members,DC,74155.0,20250716
+SK,2021,R0050,Deaths,DB,0.0,20250716
+SK,2021,R0050,Deaths,DC,2477.0,20250716
+SK,2021,R0060,Commutations,DB,0.0,20250716
+SK,2021,R0060,Commutations,DC,16180.0,20250716
+SK,2021,R0070,Other exits,DB,0.0,20250716
+SK,2021,R0070,Other exits,DC,15130.0,20250716
+SK,2021,R0080,New beneficiaries,DB,0.0,20250716
+SK,2021,R0080,New beneficiaries,DC,13375.0,20250716
+SK,2021,R0090,of which new retired members,DB,0.0,20250716
+SK,2021,R0090,of which new retired members,DC,13375.0,20250716
+SK,2022,R0008,Active members,DB,0.0,20250716
+SK,2022,R0008,Active members,DC,811546.0,20250716
+SK,2022,R0009,Active members reported by exempted IORPs,DB,,20250716
+SK,2022,R0009,Active members reported by exempted IORPs,DC,,20250716
+SK,2022,R0010,Active members reported by non-exempted IORPs,DB,0.0,20250716
+SK,2022,R0010,Active members reported by non-exempted IORPs,DC,811546.0,20250716
+SK,2022,R0018,Deferred members,DB,0.0,20250716
+SK,2022,R0018,Deferred members,DC,226625.0,20250716
+SK,2022,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SK,2022,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SK,2022,R0020,Deferred members reported by non-exempted IORPs,DB,0.0,20250716
+SK,2022,R0020,Deferred members reported by non-exempted IORPs,DC,226625.0,20250716
+SK,2022,R0028,Beneficiaries,DB,0.0,20250716
+SK,2022,R0028,Beneficiaries,DC,53337.0,20250716
+SK,2022,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SK,2022,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SK,2022,R0030,Beneficiaries reported by non-exempted IORPs,DB,0.0,20250716
+SK,2022,R0030,Beneficiaries reported by non-exempted IORPs,DC,53337.0,20250716
+SK,2022,R0040,New members,DB,0.0,20250716
+SK,2022,R0040,New members,DC,84609.0,20250716
+SK,2022,R0050,Deaths,DB,0.0,20250716
+SK,2022,R0050,Deaths,DC,2082.0,20250716
+SK,2022,R0060,Commutations,DB,0.0,20250716
+SK,2022,R0060,Commutations,DC,17403.0,20250716
+SK,2022,R0070,Other exits,DB,0.0,20250716
+SK,2022,R0070,Other exits,DC,12325.0,20250716
+SK,2022,R0080,New beneficiaries,DB,0.0,20250716
+SK,2022,R0080,New beneficiaries,DC,15525.0,20250716
+SK,2022,R0090,of which new retired members,DB,0.0,20250716
+SK,2022,R0090,of which new retired members,DC,15525.0,20250716
+SK,2023,R0008,Active members,DB,0.0,20250716
+SK,2023,R0008,Active members,DC,847982.0,20250716
+SK,2023,R0009,Active members reported by exempted IORPs,DB,,20250716
+SK,2023,R0009,Active members reported by exempted IORPs,DC,,20250716
+SK,2023,R0010,Active members reported by non-exempted IORPs,DB,0.0,20250716
+SK,2023,R0010,Active members reported by non-exempted IORPs,DC,847982.0,20250716
+SK,2023,R0018,Deferred members,DB,0.0,20250716
+SK,2023,R0018,Deferred members,DC,241284.0,20250716
+SK,2023,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SK,2023,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SK,2023,R0020,Deferred members reported by non-exempted IORPs,DB,0.0,20250716
+SK,2023,R0020,Deferred members reported by non-exempted IORPs,DC,241284.0,20250716
+SK,2023,R0028,Beneficiaries,DB,0.0,20250716
+SK,2023,R0028,Beneficiaries,DC,64057.0,20250716
+SK,2023,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SK,2023,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SK,2023,R0030,Beneficiaries reported by non-exempted IORPs,DB,0.0,20250716
+SK,2023,R0030,Beneficiaries reported by non-exempted IORPs,DC,64057.0,20250716
+SK,2023,R0040,New members,DB,0.0,20250716
+SK,2023,R0040,New members,DC,87634.0,20250716
+SK,2023,R0050,Deaths,DB,0.0,20250716
+SK,2023,R0050,Deaths,DC,1962.0,20250716
+SK,2023,R0060,Commutations,DB,0.0,20250716
+SK,2023,R0060,Commutations,DC,21061.0,20250716
+SK,2023,R0070,Other exits,DB,0.0,20250716
+SK,2023,R0070,Other exits,DC,20458.0,20250716
+SK,2023,R0080,New beneficiaries,DB,0.0,20250716
+SK,2023,R0080,New beneficiaries,DC,15057.0,20250716
+SK,2023,R0090,of which new retired members,DB,0.0,20250716
+SK,2023,R0090,of which new retired members,DC,15057.0,20250716
+SK,2024,R0008,Active members,DB,0.0,20250716
+SK,2024,R0008,Active members,DC,1006117.0,20250716
+SK,2024,R0009,Active members reported by exempted IORPs,DB,,20250716
+SK,2024,R0009,Active members reported by exempted IORPs,DC,,20250716
+SK,2024,R0010,Active members reported by non-exempted IORPs,DB,0.0,20250716
+SK,2024,R0010,Active members reported by non-exempted IORPs,DC,1006117.0,20250716
+SK,2024,R0018,Deferred members,DB,0.0,20250716
+SK,2024,R0018,Deferred members,DC,322291.0,20250716
+SK,2024,R0019,Deferred members reported by exempted IORPs,DB,,20250716
+SK,2024,R0019,Deferred members reported by exempted IORPs,DC,,20250716
+SK,2024,R0020,Deferred members reported by non-exempted IORPs,DB,0.0,20250716
+SK,2024,R0020,Deferred members reported by non-exempted IORPs,DC,322291.0,20250716
+SK,2024,R0028,Beneficiaries,DB,0.0,20250716
+SK,2024,R0028,Beneficiaries,DC,86731.0,20250716
+SK,2024,R0029,Beneficiaries reported by exempted IORPs,DB,,20250716
+SK,2024,R0029,Beneficiaries reported by exempted IORPs,DC,,20250716
+SK,2024,R0030,Beneficiaries reported by non-exempted IORPs,DB,0.0,20250716
+SK,2024,R0030,Beneficiaries reported by non-exempted IORPs,DC,86731.0,20250716
+SK,2024,R0040,New members,DB,0.0,20250716
+SK,2024,R0040,New members,DC,94073.0,20250716
+SK,2024,R0050,Deaths,DB,0.0,20250716
+SK,2024,R0050,Deaths,DC,2155.0,20250716
+SK,2024,R0060,Commutations,DB,0.0,20250716
+SK,2024,R0060,Commutations,DC,28428.0,20250716
+SK,2024,R0070,Other exits,DB,0.0,20250716
+SK,2024,R0070,Other exits,DC,19978.0,20250716
+SK,2024,R0080,New beneficiaries,DB,0.0,20250716
+SK,2024,R0080,New beneficiaries,DC,19930.0,20250716
+SK,2024,R0090,of which new retired members,DB,0.0,20250716
+SK,2024,R0090,of which new retired members,DC,19930.0,20250716

@@ -1,0 +1,737 @@
+Reporting country,Reference period,Item code,Item name,IORP type,Value (euro millions),Date of extraction (yyyymmdd)
+AT,2020,R0010,Administrative expenses,DB,5.05983,20250716
+AT,2020,R0010,Administrative expenses,DC,23.580576,20250716
+AT,2020,R0020,Investment expenses,DB,4.18248,20250716
+AT,2020,R0020,Investment expenses,DC,21.953571,20250716
+AT,2020,R0050,Total expenses,DB,9.24231,20250716
+AT,2020,R0050,Total expenses,DC,45.534147,20250716
+AT,2021,R0010,Administrative expenses,DB,4.859845,20250716
+AT,2021,R0010,Administrative expenses,DC,22.994462,20250716
+AT,2021,R0020,Investment expenses,DB,4.636428,20250716
+AT,2021,R0020,Investment expenses,DC,23.957684,20250716
+AT,2021,R0050,Total expenses,DB,9.496273,20250716
+AT,2021,R0050,Total expenses,DC,46.952145,20250716
+AT,2022,R0010,Administrative expenses,DB,5.012204,20250716
+AT,2022,R0010,Administrative expenses,DC,23.681299,20250716
+AT,2022,R0020,Investment expenses,DB,4.802123,20250716
+AT,2022,R0020,Investment expenses,DC,24.344321,20250716
+AT,2022,R0050,Total expenses,DB,9.814327,20250716
+AT,2022,R0050,Total expenses,DC,48.025621,20250716
+AT,2023,R0010,Administrative expenses,DB,5.118538,20250716
+AT,2023,R0010,Administrative expenses,DC,26.397707,20250716
+AT,2023,R0020,Investment expenses,DB,5.052093,20250716
+AT,2023,R0020,Investment expenses,DC,25.178168,20250716
+AT,2023,R0050,Total expenses,DB,10.170631,20250716
+AT,2023,R0050,Total expenses,DC,51.575875,20250716
+AT,2024,R0010,Administrative expenses,DB,5.639888,20250716
+AT,2024,R0010,Administrative expenses,DC,29.410809,20250716
+AT,2024,R0020,Investment expenses,DB,5.025068,20250716
+AT,2024,R0020,Investment expenses,DC,27.580315,20250716
+AT,2024,R0050,Total expenses,DB,10.664957,20250716
+AT,2024,R0050,Total expenses,DC,56.991124,20250716
+BE,2020,R0010,Administrative expenses,DB,61.228568,20250716
+BE,2020,R0010,Administrative expenses,DC,0.684075,20250716
+BE,2020,R0020,Investment expenses,DB,31.005941,20250716
+BE,2020,R0020,Investment expenses,DC,0.201632,20250716
+BE,2020,R0030,Tax expenses,DB,7.785805,20250716
+BE,2020,R0030,Tax expenses,DC,0.017844,20250716
+BE,2020,R0040,Other expenses,DB,457.343153,20250716
+BE,2020,R0040,Other expenses,DC,0.026121,20250716
+BE,2020,R0050,Total expenses,DB,557.363467,20250716
+BE,2020,R0050,Total expenses,DC,0.929672,20250716
+BE,2021,R0010,Administrative expenses,DB,82.249354,20250716
+BE,2021,R0010,Administrative expenses,DC,1.017379,20250716
+BE,2021,R0020,Investment expenses,DB,31.229279,20250716
+BE,2021,R0020,Investment expenses,DC,0.700461,20250716
+BE,2021,R0030,Tax expenses,DB,5.328759,20250716
+BE,2021,R0030,Tax expenses,DC,0.021564,20250716
+BE,2021,R0040,Other expenses,DB,510.944985,20250716
+BE,2021,R0040,Other expenses,DC,0.062975,20250716
+BE,2021,R0050,Total expenses,DB,629.752377,20250716
+BE,2021,R0050,Total expenses,DC,1.802379,20250716
+BE,2022,R0010,Administrative expenses,DB,86.04798,20250716
+BE,2022,R0010,Administrative expenses,DC,1.540651,20250716
+BE,2022,R0020,Investment expenses,DB,33.32245,20250716
+BE,2022,R0020,Investment expenses,DC,1.463856,20250716
+BE,2022,R0030,Tax expenses,DB,11.71512,20250716
+BE,2022,R0030,Tax expenses,DC,0.032996,20250716
+BE,2022,R0040,Other expenses,DB,151.90407,20250716
+BE,2022,R0040,Other expenses,DC,1.388201,20250716
+BE,2022,R0050,Total expenses,DB,282.98962,20250716
+BE,2022,R0050,Total expenses,DC,4.425704,20250716
+BE,2023,R0010,Administrative expenses,DB,80.33416,20250716
+BE,2023,R0010,Administrative expenses,DC,3.085943,20250716
+BE,2023,R0020,Investment expenses,DB,35.527603,20250716
+BE,2023,R0020,Investment expenses,DC,3.865561,20250716
+BE,2023,R0030,Tax expenses,DB,15.711592,20250716
+BE,2023,R0030,Tax expenses,DC,0.042914,20250716
+BE,2023,R0040,Other expenses,DB,151.118052,20250716
+BE,2023,R0040,Other expenses,DC,0.102917,20250716
+BE,2023,R0050,Total expenses,DB,282.691407,20250716
+BE,2023,R0050,Total expenses,DC,7.097335,20250716
+BE,2024,R0010,Administrative expenses,DB,78.886121,20250716
+BE,2024,R0010,Administrative expenses,DC,3.888144,20250716
+BE,2024,R0020,Investment expenses,DB,44.353319,20250716
+BE,2024,R0020,Investment expenses,DC,2.970346,20250716
+BE,2024,R0030,Tax expenses,DB,20.293019,20250716
+BE,2024,R0030,Tax expenses,DC,0.094667,20250716
+BE,2024,R0040,Other expenses,DB,114.668216,20250716
+BE,2024,R0040,Other expenses,DC,0.260448,20250716
+BE,2024,R0050,Total expenses,DB,258.200675,20250716
+BE,2024,R0050,Total expenses,DC,7.213605,20250716
+DE,2020,R0010,Administrative expenses,no split available,239.036839,20250716
+DE,2020,R0020,Investment expenses,no split available,284.700298,20250716
+DE,2020,R0030,Tax expenses,no split available,34.157997,20250716
+DE,2020,R0040,Other expenses,no split available,139.352383,20250716
+DE,2020,R0050,Total expenses,no split available,697.247518,20250716
+DE,2021,R0010,Administrative expenses,no split available,254.776816,20250716
+DE,2021,R0020,Investment expenses,no split available,315.604785,20250716
+DE,2021,R0030,Tax expenses,no split available,94.267767,20250716
+DE,2021,R0040,Other expenses,no split available,160.123914,20250716
+DE,2021,R0050,Total expenses,no split available,824.773281,20250716
+DE,2022,R0010,Administrative expenses,no split available,266.501017,20250716
+DE,2022,R0020,Investment expenses,no split available,443.102537,20250716
+DE,2022,R0030,Tax expenses,no split available,10.141985,20250716
+DE,2022,R0040,Other expenses,no split available,146.190301,20250716
+DE,2022,R0050,Total expenses,no split available,865.935839,20250716
+DE,2023,R0010,Administrative expenses,no split available,274.012022,20250716
+DE,2023,R0020,Investment expenses,no split available,302.906444,20250716
+DE,2023,R0030,Tax expenses,no split available,69.603305,20250716
+DE,2023,R0040,Other expenses,no split available,159.527801,20250716
+DE,2023,R0050,Total expenses,no split available,806.049571,20250716
+DE,2024,R0010,Administrative expenses,no split available,300.067091,20250716
+DE,2024,R0020,Investment expenses,no split available,303.637931,20250716
+DE,2024,R0030,Tax expenses,no split available,66.007175,20250716
+DE,2024,R0040,Other expenses,no split available,166.924819,20250716
+DE,2024,R0050,Total expenses,no split available,836.637016,20250716
+DK,2020,R0010,Administrative expenses,no split available,2.918232,20250716
+DK,2020,R0020,Investment expenses,no split available,6.13253,20250716
+DK,2020,R0030,Tax expenses,no split available,58.747971,20250716
+DK,2020,R0040,Other expenses,no split available,0.059179,20250716
+DK,2020,R0050,Total expenses,no split available,67.857912,20250716
+DK,2021,R0010,Administrative expenses,DB,0.704004,20250716
+DK,2021,R0020,Investment expenses,DB,3.274142,20250716
+DK,2021,R0030,Tax expenses,DB,93.343917,20250716
+DK,2021,R0040,Other expenses,DB,0.037892,20250716
+DK,2021,R0050,Total expenses,DB,97.359956,20250716
+DK,2022,R0010,Administrative expenses,no split available,2.560957,20250716
+DK,2022,R0020,Investment expenses,no split available,7.484198,20250716
+DK,2022,R0030,Tax expenses,no split available,149.677073,20250716
+DK,2022,R0040,Other expenses,no split available,0.046896,20250716
+DK,2022,R0050,Total expenses,no split available,159.769123,20250716
+DK,2023,R0010,Administrative expenses,no split available,2.855999,20250716
+DK,2023,R0020,Investment expenses,no split available,7.988196,20250716
+DK,2023,R0030,Tax expenses,no split available,45.877869,20250716
+DK,2023,R0040,Other expenses,no split available,0.04378,20250716
+DK,2023,R0050,Total expenses,no split available,56.765844,20250716
+DK,2024,R0010,Administrative expenses,DB,2.400201,20250716
+DK,2024,R0020,Investment expenses,DB,6.532247,20250716
+DK,2024,R0030,Tax expenses,DB,17.414054,20250716
+DK,2024,R0040,Other expenses,DB,0.040495,20250716
+DK,2024,R0050,Total expenses,DB,26.386996,20250716
+EL,2024,R0010,Administrative expenses,DC,2.783436,20250716
+EL,2024,R0020,Investment expenses,DC,0.637417,20250716
+EL,2024,R0030,Tax expenses,DC,0.64699,20250716
+EL,2024,R0040,Other expenses,DC,0.121274,20250716
+EL,2024,R0050,Total expenses,DB,0.0,20250716
+EL,2024,R0050,Total expenses,DC,4.189116,20250716
+ES,2020,R0010,Administrative expenses,DB,3.51073,20250716
+ES,2020,R0010,Administrative expenses,DC,76.418931,20250716
+ES,2020,R0020,Investment expenses,DB,3.655624,20250716
+ES,2020,R0020,Investment expenses,DC,67.77752,20250716
+ES,2020,R0040,Other expenses,DB,0.02305,20250716
+ES,2020,R0040,Other expenses,DC,0.330015,20250716
+ES,2020,R0050,Total expenses,DB,7.189404,20250716
+ES,2020,R0050,Total expenses,DC,144.526466,20250716
+ES,2021,R0010,Administrative expenses,DB,3.334062,20250716
+ES,2021,R0010,Administrative expenses,DC,73.90006,20250716
+ES,2021,R0020,Investment expenses,DB,3.018918,20250716
+ES,2021,R0020,Investment expenses,DC,62.005499,20250716
+ES,2021,R0040,Other expenses,DB,0.028409,20250716
+ES,2021,R0040,Other expenses,DC,0.200937,20250716
+ES,2021,R0050,Total expenses,DB,6.381389,20250716
+ES,2021,R0050,Total expenses,DC,136.106496,20250716
+ES,2022,R0010,Administrative expenses,DB,2.915335,20250716
+ES,2022,R0010,Administrative expenses,DC,71.328548,20250716
+ES,2022,R0020,Investment expenses,DB,2.994065,20250716
+ES,2022,R0020,Investment expenses,DC,67.384277,20250716
+ES,2022,R0040,Other expenses,DB,0.023218,20250716
+ES,2022,R0040,Other expenses,DC,2.393697,20250716
+ES,2022,R0050,Total expenses,DB,5.932617,20250716
+ES,2022,R0050,Total expenses,DC,141.106522,20250716
+ES,2023,R0010,Administrative expenses,DB,2.605234,20250716
+ES,2023,R0010,Administrative expenses,DC,71.228256,20250716
+ES,2023,R0020,Investment expenses,DB,4.492589,20250716
+ES,2023,R0020,Investment expenses,DC,72.176926,20250716
+ES,2023,R0040,Other expenses,DB,0.537321,20250716
+ES,2023,R0040,Other expenses,DC,16.194772,20250716
+ES,2023,R0050,Total expenses,DB,7.635144,20250716
+ES,2023,R0050,Total expenses,DC,159.599953,20250716
+ES,2024,R0010,Administrative expenses,DB,1.815249,20250716
+ES,2024,R0010,Administrative expenses,DC,91.56359,20250716
+ES,2024,R0020,Investment expenses,DB,2.688753,20250716
+ES,2024,R0020,Investment expenses,DC,58.071521,20250716
+ES,2024,R0040,Other expenses,DB,0.431239,20250716
+ES,2024,R0040,Other expenses,DC,17.930752,20250716
+ES,2024,R0050,Total expenses,DB,4.935241,20250716
+ES,2024,R0050,Total expenses,DC,167.565864,20250716
+FI,2020,R0010,Administrative expenses,no split available,6.605235,20250716
+FI,2020,R0020,Investment expenses,no split available,44.484921,20250716
+FI,2020,R0030,Tax expenses,no split available,0.423232,20250716
+FI,2020,R0040,Other expenses,no split available,10.189678,20250716
+FI,2020,R0050,Total expenses,no split available,61.703065,20250716
+FI,2021,R0010,Administrative expenses,no split available,6.165699,20250716
+FI,2021,R0020,Investment expenses,no split available,23.57716,20250716
+FI,2021,R0030,Tax expenses,no split available,1.632651,20250716
+FI,2021,R0040,Other expenses,no split available,10.193687,20250716
+FI,2021,R0050,Total expenses,no split available,41.569197,20250716
+FI,2022,R0010,Administrative expenses,no split available,6.272755,20250716
+FI,2022,R0020,Investment expenses,no split available,106.90127,20250716
+FI,2022,R0030,Tax expenses,no split available,0.338395,20250716
+FI,2022,R0040,Other expenses,no split available,-3.602902,20250716
+FI,2022,R0050,Total expenses,no split available,109.909517,20250716
+FI,2023,R0010,Administrative expenses,no split available,6.036468,20250716
+FI,2023,R0020,Investment expenses,no split available,48.172,20250716
+FI,2023,R0030,Tax expenses,no split available,0.335169,20250716
+FI,2023,R0040,Other expenses,no split available,0.173068,20250716
+FI,2023,R0050,Total expenses,no split available,54.716736,20250716
+FI,2024,R0010,Administrative expenses,no split available,5.712366,20250716
+FI,2024,R0020,Investment expenses,no split available,51.053035,20250716
+FI,2024,R0030,Tax expenses,no split available,3.679976,20250716
+FI,2024,R0040,Other expenses,no split available,0.017719,20250716
+FI,2024,R0050,Total expenses,no split available,60.463096,20250716
+FR,2023,R0010,Administrative expenses,DB,127.113465,20250716
+FR,2023,R0010,Administrative expenses,DC,964.736578,20250716
+FR,2023,R0020,Investment expenses,DB,96.422085,20250716
+FR,2023,R0020,Investment expenses,DC,519.889547,20250716
+FR,2023,R0030,Tax expenses,DB,14.414251,20250716
+FR,2023,R0030,Tax expenses,DC,122.048065,20250716
+FR,2023,R0040,Other expenses,DB,37.412915,20250716
+FR,2023,R0040,Other expenses,DC,339.521359,20250716
+FR,2023,R0050,Total expenses,DB,275.362716,20250716
+FR,2023,R0050,Total expenses,DC,1946.19555,20250716
+FR,2024,R0010,Administrative expenses,DB,140.064339,20250716
+FR,2024,R0010,Administrative expenses,DC,1065.647173,20250716
+FR,2024,R0020,Investment expenses,DB,94.269865,20250716
+FR,2024,R0020,Investment expenses,DC,489.068025,20250716
+FR,2024,R0030,Tax expenses,DB,13.904441,20250716
+FR,2024,R0030,Tax expenses,DC,126.30526,20250716
+FR,2024,R0040,Other expenses,DB,31.339837,20250716
+FR,2024,R0040,Other expenses,DC,213.390917,20250716
+FR,2024,R0050,Total expenses,DB,279.578483,20250716
+FR,2024,R0050,Total expenses,DC,1894.411374,20250716
+HR,2020,R0010,Administrative expenses,no split available,0.025799,20250716
+HR,2020,R0020,Investment expenses,no split available,2.866288,20250716
+HR,2020,R0030,Tax expenses,no split available,0.039834,20250716
+HR,2020,R0040,Other expenses,no split available,0.069898,20250716
+HR,2020,R0050,Total expenses,no split available,3.001819,20250716
+HR,2021,R0010,Administrative expenses,no split available,0.05621,20250716
+HR,2021,R0020,Investment expenses,no split available,2.867056,20250716
+HR,2021,R0030,Tax expenses,no split available,0.013505,20250716
+HR,2021,R0040,Other expenses,no split available,0.246719,20250716
+HR,2021,R0050,Total expenses,no split available,3.18349,20250716
+HR,2022,R0010,Administrative expenses,no split available,0.05085,20250716
+HR,2022,R0020,Investment expenses,no split available,3.536176,20250716
+HR,2022,R0030,Tax expenses,no split available,0.005627,20250716
+HR,2022,R0040,Other expenses,no split available,0.005658,20250716
+HR,2022,R0050,Total expenses,no split available,3.598311,20250716
+HR,2023,R0010,Administrative expenses,no split available,0.049765,20250716
+HR,2023,R0020,Investment expenses,no split available,2.566327,20250716
+HR,2023,R0030,Tax expenses,no split available,0.0,20250716
+HR,2023,R0040,Other expenses,no split available,0.01566,20250716
+HR,2023,R0050,Total expenses,no split available,2.631752,20250716
+HR,2024,R0010,Administrative expenses,no split available,0.052294,20250716
+HR,2024,R0020,Investment expenses,no split available,2.94984,20250716
+HR,2024,R0030,Tax expenses,no split available,0.0,20250716
+HR,2024,R0040,Other expenses,no split available,0.020008,20250716
+HR,2024,R0050,Total expenses,no split available,3.022142,20250716
+IT,2020,R0010,Administrative expenses,DB,1.488,20250716
+IT,2020,R0010,Administrative expenses,DC,35.512,20250716
+IT,2020,R0020,Investment expenses,DB,12.685,20250716
+IT,2020,R0020,Investment expenses,DC,645.315,20250716
+IT,2020,R0030,Tax expenses,DB,26.393,20250716
+IT,2020,R0030,Tax expenses,DC,845.767,20250716
+IT,2020,R0040,Other expenses,DB,0.0,20250716
+IT,2020,R0040,Other expenses,DC,0.0,20250716
+IT,2020,R0050,Total expenses,DB,40.566,20250716
+IT,2020,R0050,Total expenses,DC,1526.594,20250716
+IT,2021,R0010,Administrative expenses,DB,9.793554,20250716
+IT,2021,R0010,Administrative expenses,DC,141.725031,20250716
+IT,2021,R0020,Investment expenses,DB,3.519994,20250716
+IT,2021,R0020,Investment expenses,DC,503.584918,20250716
+IT,2021,R0030,Tax expenses,DB,36.18742,20250716
+IT,2021,R0030,Tax expenses,DC,1343.628264,20250716
+IT,2021,R0040,Other expenses,DB,0.520703,20250716
+IT,2021,R0040,Other expenses,DC,373.370723,20250716
+IT,2021,R0050,Total expenses,DB,50.021671,20250716
+IT,2021,R0050,Total expenses,DC,2362.308936,20250716
+IT,2022,R0010,Administrative expenses,DB,6.757184,20250716
+IT,2022,R0010,Administrative expenses,DC,136.110586,20250716
+IT,2022,R0020,Investment expenses,DB,2.626744,20250716
+IT,2022,R0020,Investment expenses,DC,454.335449,20250716
+IT,2022,R0030,Tax expenses,DB,-43.181702,20250716
+IT,2022,R0030,Tax expenses,DC,-2530.488814,20250716
+IT,2022,R0040,Other expenses,DB,7.351943,20250716
+IT,2022,R0040,Other expenses,DC,103.234328,20250716
+IT,2022,R0050,Total expenses,DB,-26.445831,20250716
+IT,2022,R0050,Total expenses,DC,-1836.808451,20250716
+IT,2023,R0010,Administrative expenses,DB,6.29522,20250716
+IT,2023,R0010,Administrative expenses,DC,140.518306,20250716
+IT,2023,R0020,Investment expenses,DB,1.248017,20250716
+IT,2023,R0020,Investment expenses,DC,506.146951,20250716
+IT,2023,R0030,Tax expenses,DB,22.640102,20250716
+IT,2023,R0030,Tax expenses,DC,1798.958523,20250716
+IT,2023,R0040,Other expenses,DB,7.113234,20250716
+IT,2023,R0040,Other expenses,DC,99.849535,20250716
+IT,2023,R0050,Total expenses,DB,37.296573,20250716
+IT,2023,R0050,Total expenses,DC,2545.473315,20250716
+IT,2024,R0010,Administrative expenses,DB,6.193719,20250716
+IT,2024,R0010,Administrative expenses,DC,159.122221,20250716
+IT,2024,R0020,Investment expenses,DB,1.973783,20250716
+IT,2024,R0020,Investment expenses,DC,600.156472,20250716
+IT,2024,R0030,Tax expenses,DB,28.761007,20250716
+IT,2024,R0030,Tax expenses,DC,1792.866676,20250716
+IT,2024,R0040,Other expenses,DB,6.408935,20250716
+IT,2024,R0040,Other expenses,DC,84.576008,20250716
+IT,2024,R0050,Total expenses,DB,43.337444,20250716
+IT,2024,R0050,Total expenses,DC,2636.721377,20250716
+LI,2020,R0010,Administrative expenses,no split available,1.512518,20250716
+LI,2020,R0020,Investment expenses,no split available,0.662145,20250716
+LI,2020,R0030,Tax expenses,no split available,0.11068,20250716
+LI,2020,R0040,Other expenses,no split available,16.929741,20250716
+LI,2020,R0050,Total expenses,no split available,19.215084,20250716
+LI,2021,R0010,Administrative expenses,no split available,1.518724,20250716
+LI,2021,R0020,Investment expenses,no split available,0.666652,20250716
+LI,2021,R0030,Tax expenses,no split available,0.177509,20250716
+LI,2021,R0040,Other expenses,no split available,29.347895,20250716
+LI,2021,R0050,Total expenses,no split available,31.71078,20250716
+LI,2022,R0010,Administrative expenses,no split available,1.554545,20250716
+LI,2022,R0020,Investment expenses,no split available,2.153679,20250716
+LI,2022,R0030,Tax expenses,no split available,0.026047,20250716
+LI,2022,R0040,Other expenses,no split available,20.191539,20250716
+LI,2022,R0050,Total expenses,no split available,23.925811,20250716
+LI,2023,R0010,Administrative expenses,no split available,1.664724,20250716
+LI,2023,R0020,Investment expenses,no split available,1.457397,20250716
+LI,2023,R0030,Tax expenses,no split available,0.095319,20250716
+LI,2023,R0040,Other expenses,no split available,27.40228,20250716
+LI,2023,R0050,Total expenses,no split available,30.61972,20250716
+LI,2024,R0010,Administrative expenses,no split available,1.563862,20250716
+LI,2024,R0020,Investment expenses,no split available,1.08354,20250716
+LI,2024,R0030,Tax expenses,no split available,0.152552,20250716
+LI,2024,R0040,Other expenses,no split available,8.764157,20250716
+LI,2024,R0050,Total expenses,no split available,11.564112,20250716
+LU,2020,R0010,Administrative expenses,DB,1.684021,20250716
+LU,2020,R0010,Administrative expenses,DC,0.78667,20250716
+LU,2020,R0020,Investment expenses,DB,2.406982,20250716
+LU,2020,R0020,Investment expenses,DC,0.125623,20250716
+LU,2020,R0030,Tax expenses,DB,0.043111,20250716
+LU,2020,R0030,Tax expenses,DC,0.027206,20250716
+LU,2020,R0040,Other expenses,DB,1.623067,20250716
+LU,2020,R0040,Other expenses,DC,0.512607,20250716
+LU,2020,R0050,Total expenses,DB,5.757182,20250716
+LU,2020,R0050,Total expenses,DC,1.452106,20250716
+LU,2021,R0010,Administrative expenses,DB,1.493707,20250716
+LU,2021,R0010,Administrative expenses,DC,0.989551,20250716
+LU,2021,R0020,Investment expenses,DB,2.498526,20250716
+LU,2021,R0020,Investment expenses,DC,0.353376,20250716
+LU,2021,R0030,Tax expenses,DB,0.041625,20250716
+LU,2021,R0030,Tax expenses,DC,0.031114,20250716
+LU,2021,R0040,Other expenses,DB,0.987322,20250716
+LU,2021,R0040,Other expenses,DC,0.164091,20250716
+LU,2021,R0050,Total expenses,DB,5.021181,20250716
+LU,2021,R0050,Total expenses,DC,1.538131,20250716
+LU,2022,R0010,Administrative expenses,DB,1.56169,20250716
+LU,2022,R0010,Administrative expenses,DC,1.101205,20250716
+LU,2022,R0020,Investment expenses,DB,2.418884,20250716
+LU,2022,R0020,Investment expenses,DC,0.38031,20250716
+LU,2022,R0030,Tax expenses,DB,0.039795,20250716
+LU,2022,R0030,Tax expenses,DC,0.019971,20250716
+LU,2022,R0040,Other expenses,DB,0.965296,20250716
+LU,2022,R0040,Other expenses,DC,0.161751,20250716
+LU,2022,R0050,Total expenses,DB,4.985665,20250716
+LU,2022,R0050,Total expenses,DC,1.663237,20250716
+LU,2023,R0010,Administrative expenses,DB,1.293415,20250716
+LU,2023,R0010,Administrative expenses,DC,1.215981,20250716
+LU,2023,R0020,Investment expenses,DB,2.009791,20250716
+LU,2023,R0020,Investment expenses,DC,0.334114,20250716
+LU,2023,R0030,Tax expenses,DB,0.022795,20250716
+LU,2023,R0030,Tax expenses,DC,0.018351,20250716
+LU,2023,R0040,Other expenses,DB,0.37865,20250716
+LU,2023,R0040,Other expenses,DC,0.442869,20250716
+LU,2023,R0050,Total expenses,DB,3.70465,20250716
+LU,2023,R0050,Total expenses,DC,2.011315,20250716
+LU,2024,R0010,Administrative expenses,DB,1.364568,20250716
+LU,2024,R0010,Administrative expenses,DC,1.120455,20250716
+LU,2024,R0020,Investment expenses,DB,2.135827,20250716
+LU,2024,R0020,Investment expenses,DC,0.284535,20250716
+LU,2024,R0030,Tax expenses,DB,0.025248,20250716
+LU,2024,R0030,Tax expenses,DC,0.024652,20250716
+LU,2024,R0040,Other expenses,DB,1.022623,20250716
+LU,2024,R0040,Other expenses,DC,0.305172,20250716
+LU,2024,R0050,Total expenses,DB,4.548267,20250716
+LU,2024,R0050,Total expenses,DC,1.734814,20250716
+LV,2020,R0010,Administrative expenses,DC,1.148572,20250716
+LV,2020,R0020,Investment expenses,DC,1.050539,20250716
+LV,2020,R0030,Tax expenses,DC,0.0,20250716
+LV,2020,R0040,Other expenses,DC,0.052288,20250716
+LV,2020,R0050,Total expenses,DC,2.251399,20250716
+LV,2021,R0010,Administrative expenses,DC,1.159644,20250716
+LV,2021,R0020,Investment expenses,DC,1.192483,20250716
+LV,2021,R0030,Tax expenses,DC,0.0,20250716
+LV,2021,R0040,Other expenses,DC,0.106406,20250716
+LV,2021,R0050,Total expenses,DC,2.458533,20250716
+LV,2022,R0010,Administrative expenses,DC,1.063773,20250716
+LV,2022,R0020,Investment expenses,DC,1.135255,20250716
+LV,2022,R0030,Tax expenses,DC,0.0,20250716
+LV,2022,R0040,Other expenses,DC,0.027827,20250716
+LV,2022,R0050,Total expenses,DC,2.226856,20250716
+LV,2023,R0010,Administrative expenses,DC,0.843392,20250716
+LV,2023,R0020,Investment expenses,DC,1.151971,20250716
+LV,2023,R0030,Tax expenses,DC,0.0,20250716
+LV,2023,R0040,Other expenses,DC,2e-06,20250716
+LV,2023,R0050,Total expenses,DC,1.995364,20250716
+LV,2024,R0010,Administrative expenses,DC,0.928224,20250716
+LV,2024,R0020,Investment expenses,DC,1.380417,20250716
+LV,2024,R0030,Tax expenses,DC,0.0,20250716
+LV,2024,R0040,Other expenses,DC,0.0,20250716
+LV,2024,R0050,Total expenses,DC,2.308641,20250716
+MT,2020,R0010,Administrative expenses,DB,0.0,20250716
+MT,2020,R0010,Administrative expenses,DC,0.359801,20250716
+MT,2020,R0020,Investment expenses,DB,0.0,20250716
+MT,2020,R0020,Investment expenses,DC,0.185838,20250716
+MT,2020,R0030,Tax expenses,DB,0.0,20250716
+MT,2020,R0030,Tax expenses,DC,0.0,20250716
+MT,2020,R0040,Other expenses,DB,0.0,20250716
+MT,2020,R0040,Other expenses,DC,0.213512,20250716
+MT,2020,R0050,Total expenses,DB,0.0,20250716
+MT,2020,R0050,Total expenses,DC,0.759151,20250716
+MT,2021,R0010,Administrative expenses,DB,0.0,20250716
+MT,2021,R0010,Administrative expenses,DC,0.218454,20250716
+MT,2021,R0020,Investment expenses,DB,0.0,20250716
+MT,2021,R0020,Investment expenses,DC,0.373786,20250716
+MT,2021,R0030,Tax expenses,DB,0.0,20250716
+MT,2021,R0030,Tax expenses,DC,0.0,20250716
+MT,2021,R0040,Other expenses,DB,0.0,20250716
+MT,2021,R0040,Other expenses,DC,0.273587,20250716
+MT,2021,R0050,Total expenses,DB,0.0,20250716
+MT,2021,R0050,Total expenses,DC,0.865827,20250716
+MT,2022,R0010,Administrative expenses,DB,0.0,20250716
+MT,2022,R0010,Administrative expenses,DC,0.636509,20250716
+MT,2022,R0020,Investment expenses,DB,0.0,20250716
+MT,2022,R0020,Investment expenses,DC,0.058505,20250716
+MT,2022,R0030,Tax expenses,DB,0.0,20250716
+MT,2022,R0030,Tax expenses,DC,0.0,20250716
+MT,2022,R0040,Other expenses,DB,0.0,20250716
+MT,2022,R0040,Other expenses,DC,0.510245,20250716
+MT,2022,R0050,Total expenses,DB,0.0,20250716
+MT,2022,R0050,Total expenses,DC,1.205259,20250716
+MT,2023,R0010,Administrative expenses,DB,0.0,20250716
+MT,2023,R0010,Administrative expenses,DC,0.894229,20250716
+MT,2023,R0020,Investment expenses,DB,0.0,20250716
+MT,2023,R0020,Investment expenses,DC,0.0,20250716
+MT,2023,R0030,Tax expenses,DB,0.0,20250716
+MT,2023,R0030,Tax expenses,DC,0.0,20250716
+MT,2023,R0040,Other expenses,DB,0.0,20250716
+MT,2023,R0040,Other expenses,DC,0.5523,20250716
+MT,2023,R0050,Total expenses,DB,0.0,20250716
+MT,2023,R0050,Total expenses,DC,1.446529,20250716
+MT,2024,R0010,Administrative expenses,DB,0.0,20250716
+MT,2024,R0010,Administrative expenses,DC,1.083981,20250716
+MT,2024,R0020,Investment expenses,DB,0.0,20250716
+MT,2024,R0020,Investment expenses,DC,0.0,20250716
+MT,2024,R0030,Tax expenses,DB,0.0,20250716
+MT,2024,R0030,Tax expenses,DC,0.0,20250716
+MT,2024,R0040,Other expenses,DB,0.0,20250716
+MT,2024,R0040,Other expenses,DC,0.603813,20250716
+MT,2024,R0050,Total expenses,DB,0.0,20250716
+MT,2024,R0050,Total expenses,DC,1.687794,20250716
+NL,2020,R0010,Administrative expenses,DB,838.759439,20250716
+NL,2020,R0010,Administrative expenses,DC,54.335312,20250716
+NL,2020,R0020,Investment expenses,DB,9254.239328,20250716
+NL,2020,R0020,Investment expenses,DC,3.330426,20250716
+NL,2020,R0040,Other expenses,DB,211.500797,20250716
+NL,2020,R0040,Other expenses,DC,10.238566,20250716
+NL,2020,R0050,Total expenses,DB,10304.499564,20250716
+NL,2020,R0050,Total expenses,DC,67.904304,20250716
+NL,2021,R0010,Administrative expenses,DB,871.878212,20250716
+NL,2021,R0010,Administrative expenses,DC,57.265792,20250716
+NL,2021,R0020,Investment expenses,DB,13412.328645,20250716
+NL,2021,R0020,Investment expenses,DC,4.801936,20250716
+NL,2021,R0040,Other expenses,DB,188.940688,20250716
+NL,2021,R0040,Other expenses,DC,11.223181,20250716
+NL,2021,R0050,Total expenses,DB,14473.147545,20250716
+NL,2021,R0050,Total expenses,DC,73.290909,20250716
+NL,2022,R0010,Administrative expenses,DB,937.894746,20250716
+NL,2022,R0010,Administrative expenses,DC,58.001987,20250716
+NL,2022,R0020,Investment expenses,DB,8553.741693,20250716
+NL,2022,R0020,Investment expenses,DC,5.103641,20250716
+NL,2022,R0040,Other expenses,DB,210.231851,20250716
+NL,2022,R0040,Other expenses,DC,15.604156,20250716
+NL,2022,R0050,Total expenses,DB,9701.86829,20250716
+NL,2022,R0050,Total expenses,DC,78.709785,20250716
+NL,2023,R0010,Administrative expenses,DB,1043.558411,20250716
+NL,2023,R0010,Administrative expenses,DC,81.861943,20250716
+NL,2023,R0020,Investment expenses,DB,7162.302937,20250716
+NL,2023,R0020,Investment expenses,DC,3.145617,20250716
+NL,2023,R0040,Other expenses,DB,230.30841,20250716
+NL,2023,R0040,Other expenses,DC,6.325852,20250716
+NL,2023,R0050,Total expenses,DB,8436.169758,20250716
+NL,2023,R0050,Total expenses,DC,91.333412,20250716
+NL,2024,R0010,Administrative expenses,DB,1209.911504,20250716
+NL,2024,R0010,Administrative expenses,DC,73.685578,20250716
+NL,2024,R0020,Investment expenses,DB,7800.29171,20250716
+NL,2024,R0020,Investment expenses,DC,9.090146,20250716
+NL,2024,R0040,Other expenses,DB,277.790657,20250716
+NL,2024,R0040,Other expenses,DC,3.493188,20250716
+NL,2024,R0050,Total expenses,DB,9287.993871,20250716
+NL,2024,R0050,Total expenses,DC,86.268912,20250716
+NO,2020,R0010,Administrative expenses,no split available,66.923584,20250716
+NO,2020,R0020,Investment expenses,no split available,51.447427,20250716
+NO,2020,R0030,Tax expenses,no split available,35.384946,20250716
+NO,2020,R0040,Other expenses,no split available,5.074764,20250716
+NO,2020,R0050,Total expenses,no split available,158.830721,20250716
+NO,2021,R0010,Administrative expenses,no split available,56.347578,20250716
+NO,2021,R0020,Investment expenses,no split available,64.337649,20250716
+NO,2021,R0030,Tax expenses,no split available,50.290325,20250716
+NO,2021,R0040,Other expenses,no split available,7.033472,20250716
+NO,2021,R0050,Total expenses,no split available,178.009024,20250716
+NO,2022,R0010,Administrative expenses,no split available,69.155798,20250716
+NO,2022,R0020,Investment expenses,no split available,59.138957,20250716
+NO,2022,R0030,Tax expenses,no split available,11.383325,20250716
+NO,2022,R0040,Other expenses,no split available,6.184412,20250716
+NO,2022,R0050,Total expenses,no split available,145.862491,20250716
+NO,2023,R0010,Administrative expenses,no split available,44.899881,20250716
+NO,2023,R0020,Investment expenses,no split available,42.346495,20250716
+NO,2023,R0030,Tax expenses,no split available,65.800656,20250716
+NO,2023,R0040,Other expenses,no split available,9.346158,20250716
+NO,2023,R0050,Total expenses,no split available,162.39319,20250716
+NO,2024,R0010,Administrative expenses,DB,65.130273,20250716
+NO,2024,R0020,Investment expenses,DB,45.548844,20250716
+NO,2024,R0030,Tax expenses,DB,61.420108,20250716
+NO,2024,R0040,Other expenses,DB,10.714954,20250716
+NO,2024,R0050,Total expenses,DB,182.814179,20250716
+Other,2020,R0010,Administrative expenses,no split available,153.642551,20250716
+Other,2020,R0020,Investment expenses,no split available,85.130021,20250716
+Other,2020,R0030,Tax expenses,no split available,32.059395,20250716
+Other,2020,R0040,Other expenses,no split available,36.691129,20250716
+Other,2020,R0050,Total expenses,no split available,307.523096,20250716
+Other,2021,R0010,Administrative expenses,no split available,243.37959,20250716
+Other,2021,R0020,Investment expenses,no split available,148.306082,20250716
+Other,2021,R0030,Tax expenses,no split available,27.073028,20250716
+Other,2021,R0040,Other expenses,no split available,66.691562,20250716
+Other,2021,R0050,Total expenses,no split available,485.450261,20250716
+Other,2022,R0010,Administrative expenses,no split available,1039.163937,20250716
+Other,2022,R0020,Investment expenses,no split available,388.756128,20250716
+Other,2022,R0030,Tax expenses,no split available,174.829182,20250716
+Other,2022,R0040,Other expenses,no split available,210.942577,20250716
+Other,2022,R0050,Total expenses,no split available,1813.691824,20250716
+Other,2023,R0010,Administrative expenses,no split available,2.407221,20250716
+Other,2023,R0020,Investment expenses,no split available,0.082883,20250716
+Other,2023,R0030,Tax expenses,no split available,0.260045,20250716
+Other,2023,R0040,Other expenses,no split available,0.265878,20250716
+Other,2023,R0050,Total expenses,no split available,3.016026,20250716
+Other,2024,R0010,Administrative expenses,no split available,2.771383,20250716
+Other,2024,R0020,Investment expenses,no split available,0.060307,20250716
+Other,2024,R0030,Tax expenses,no split available,0.28978,20250716
+Other,2024,R0040,Other expenses,no split available,0.379317,20250716
+Other,2024,R0050,Total expenses,no split available,3.500788,20250716
+PT,2020,R0010,Administrative expenses,DB,1.336089,20250716
+PT,2020,R0010,Administrative expenses,DC,0.227249,20250716
+PT,2020,R0020,Investment expenses,DB,38.231669,20250716
+PT,2020,R0020,Investment expenses,DC,5.223437,20250716
+PT,2020,R0030,Tax expenses,DB,0.688203,20250716
+PT,2020,R0030,Tax expenses,DC,0.077331,20250716
+PT,2020,R0040,Other expenses,DB,6.002614,20250716
+PT,2020,R0040,Other expenses,DC,0.302878,20250716
+PT,2020,R0050,Total expenses,DB,46.258575,20250716
+PT,2020,R0050,Total expenses,DC,5.830896,20250716
+PT,2021,R0010,Administrative expenses,DB,1.24232,20250716
+PT,2021,R0010,Administrative expenses,DC,0.19954,20250716
+PT,2021,R0020,Investment expenses,DB,42.695043,20250716
+PT,2021,R0020,Investment expenses,DC,6.216998,20250716
+PT,2021,R0030,Tax expenses,DB,2.573143,20250716
+PT,2021,R0030,Tax expenses,DC,0.29802,20250716
+PT,2021,R0040,Other expenses,DB,7.263687,20250716
+PT,2021,R0040,Other expenses,DC,0.555166,20250716
+PT,2021,R0050,Total expenses,DB,53.774193,20250716
+PT,2021,R0050,Total expenses,DC,7.269723,20250716
+PT,2022,R0010,Administrative expenses,DB,1.381589,20250716
+PT,2022,R0010,Administrative expenses,DC,0.202131,20250716
+PT,2022,R0020,Investment expenses,DB,29.438385,20250716
+PT,2022,R0020,Investment expenses,DC,6.168148,20250716
+PT,2022,R0030,Tax expenses,DB,1.656111,20250716
+PT,2022,R0030,Tax expenses,DC,0.287576,20250716
+PT,2022,R0040,Other expenses,DB,5.878422,20250716
+PT,2022,R0040,Other expenses,DC,0.303486,20250716
+PT,2022,R0050,Total expenses,DB,38.354507,20250716
+PT,2022,R0050,Total expenses,DC,6.96134,20250716
+PT,2023,R0010,Administrative expenses,DB,2.275953,20250716
+PT,2023,R0010,Administrative expenses,DC,0.192058,20250716
+PT,2023,R0020,Investment expenses,DB,28.620905,20250716
+PT,2023,R0020,Investment expenses,DC,6.136098,20250716
+PT,2023,R0030,Tax expenses,DB,2.147817,20250716
+PT,2023,R0030,Tax expenses,DC,0.330393,20250716
+PT,2023,R0040,Other expenses,DB,8.42812,20250716
+PT,2023,R0040,Other expenses,DC,0.013772,20250716
+PT,2023,R0050,Total expenses,DB,41.472796,20250716
+PT,2023,R0050,Total expenses,DC,6.672321,20250716
+PT,2024,R0010,Administrative expenses,DB,2.126687,20250716
+PT,2024,R0010,Administrative expenses,DC,0.276643,20250716
+PT,2024,R0020,Investment expenses,DB,28.162381,20250716
+PT,2024,R0020,Investment expenses,DC,6.242432,20250716
+PT,2024,R0030,Tax expenses,DB,2.580069,20250716
+PT,2024,R0030,Tax expenses,DC,0.333037,20250716
+PT,2024,R0040,Other expenses,DB,10.953661,20250716
+PT,2024,R0040,Other expenses,DC,0.213646,20250716
+PT,2024,R0050,Total expenses,DB,43.822798,20250716
+PT,2024,R0050,Total expenses,DC,7.065758,20250716
+SE,2020,R0010,Administrative expenses,DB,58.911987,20250716
+SE,2020,R0010,Administrative expenses,DC,67.758604,20250716
+SE,2020,R0020,Investment expenses,DB,297.178526,20250716
+SE,2020,R0020,Investment expenses,DC,159.322476,20250716
+SE,2020,R0030,Tax expenses,DB,82.723807,20250716
+SE,2020,R0030,Tax expenses,DC,57.488524,20250716
+SE,2020,R0040,Other expenses,DB,4.421366,20250716
+SE,2020,R0040,Other expenses,DC,366.667815,20250716
+SE,2020,R0050,Total expenses,DB,443.235685,20250716
+SE,2020,R0050,Total expenses,DC,651.23742,20250716
+SE,2021,R0010,Administrative expenses,DB,76.939914,20250716
+SE,2021,R0010,Administrative expenses,DC,86.1067,20250716
+SE,2021,R0020,Investment expenses,DB,68.690321,20250716
+SE,2021,R0020,Investment expenses,DC,121.945269,20250716
+SE,2021,R0030,Tax expenses,DB,128.562428,20250716
+SE,2021,R0030,Tax expenses,DC,64.201278,20250716
+SE,2021,R0040,Other expenses,DB,4.4698,20250716
+SE,2021,R0040,Other expenses,DC,180.991082,20250716
+SE,2021,R0050,Total expenses,DB,278.662462,20250716
+SE,2021,R0050,Total expenses,DC,453.24433,20250716
+SE,2022,R0010,Administrative expenses,DB,240.488034,20250716
+SE,2022,R0010,Administrative expenses,DC,104.100376,20250716
+SE,2022,R0020,Investment expenses,DB,515.408937,20250716
+SE,2022,R0020,Investment expenses,DC,263.78259,20250716
+SE,2022,R0030,Tax expenses,DB,-167.590701,20250716
+SE,2022,R0030,Tax expenses,DC,67.146793,20250716
+SE,2022,R0040,Other expenses,DB,41.039597,20250716
+SE,2022,R0040,Other expenses,DC,337.849268,20250716
+SE,2022,R0050,Total expenses,DB,629.345866,20250716
+SE,2022,R0050,Total expenses,DC,772.879027,20250716
+SE,2023,R0010,Administrative expenses,DB,276.1281,20250716
+SE,2023,R0010,Administrative expenses,DC,150.26623,20250716
+SE,2023,R0020,Investment expenses,DB,266.983928,20250716
+SE,2023,R0020,Investment expenses,DC,176.126349,20250716
+SE,2023,R0030,Tax expenses,DB,416.366816,20250716
+SE,2023,R0030,Tax expenses,DC,244.755557,20250716
+SE,2023,R0040,Other expenses,DB,42.042033,20250716
+SE,2023,R0040,Other expenses,DC,557.980751,20250716
+SE,2023,R0050,Total expenses,DB,1001.520877,20250716
+SE,2023,R0050,Total expenses,DC,1129.128887,20250716
+SE,2024,R0010,Administrative expenses,DB,262.591352,20250716
+SE,2024,R0010,Administrative expenses,DC,151.871004,20250716
+SE,2024,R0020,Investment expenses,DB,449.367251,20250716
+SE,2024,R0020,Investment expenses,DC,239.277938,20250716
+SE,2024,R0030,Tax expenses,DB,323.61067,20250716
+SE,2024,R0030,Tax expenses,DC,481.116921,20250716
+SE,2024,R0040,Other expenses,DB,43.382561,20250716
+SE,2024,R0040,Other expenses,DC,394.737023,20250716
+SE,2024,R0050,Total expenses,DB,1078.951834,20250716
+SE,2024,R0050,Total expenses,DC,1267.002887,20250716
+SI,2020,R0010,Administrative expenses,DB,11.140949,20250716
+SI,2020,R0010,Administrative expenses,DC,0.0,20250716
+SI,2020,R0020,Investment expenses,DB,0.287954,20250716
+SI,2020,R0020,Investment expenses,DC,0.0,20250716
+SI,2020,R0030,Tax expenses,DB,0.006319,20250716
+SI,2020,R0030,Tax expenses,DC,0.0,20250716
+SI,2020,R0040,Other expenses,DB,0.468315,20250716
+SI,2020,R0040,Other expenses,DC,0.0,20250716
+SI,2020,R0050,Total expenses,DB,11.903537,20250716
+SI,2020,R0050,Total expenses,DC,0.0,20250716
+SI,2021,R0010,Administrative expenses,DB,13.588331,20250716
+SI,2021,R0010,Administrative expenses,DC,0.0,20250716
+SI,2021,R0020,Investment expenses,DB,0.570131,20250716
+SI,2021,R0020,Investment expenses,DC,0.0,20250716
+SI,2021,R0030,Tax expenses,DB,0.13448,20250716
+SI,2021,R0030,Tax expenses,DC,0.0,20250716
+SI,2021,R0040,Other expenses,DB,1.300859,20250716
+SI,2021,R0040,Other expenses,DC,0.0,20250716
+SI,2021,R0050,Total expenses,DB,15.593801,20250716
+SI,2021,R0050,Total expenses,DC,0.0,20250716
+SI,2022,R0010,Administrative expenses,DB,13.988217,20250716
+SI,2022,R0010,Administrative expenses,DC,0.0,20250716
+SI,2022,R0020,Investment expenses,DB,0.460073,20250716
+SI,2022,R0020,Investment expenses,DC,0.0,20250716
+SI,2022,R0030,Tax expenses,DB,0.108423,20250716
+SI,2022,R0030,Tax expenses,DC,0.0,20250716
+SI,2022,R0040,Other expenses,DB,1.541684,20250716
+SI,2022,R0040,Other expenses,DC,0.0,20250716
+SI,2022,R0050,Total expenses,DB,16.098397,20250716
+SI,2022,R0050,Total expenses,DC,0.0,20250716
+SI,2023,R0010,Administrative expenses,DB,14.93854,20250716
+SI,2023,R0010,Administrative expenses,DC,0.0,20250716
+SI,2023,R0020,Investment expenses,DB,0.139996,20250716
+SI,2023,R0020,Investment expenses,DC,0.0,20250716
+SI,2023,R0030,Tax expenses,DB,0.102568,20250716
+SI,2023,R0030,Tax expenses,DC,0.0,20250716
+SI,2023,R0040,Other expenses,DB,1.140359,20250716
+SI,2023,R0040,Other expenses,DC,0.0,20250716
+SI,2023,R0050,Total expenses,DB,16.321463,20250716
+SI,2023,R0050,Total expenses,DC,0.0,20250716
+SI,2024,R0010,Administrative expenses,DB,16.665802,20250716
+SI,2024,R0010,Administrative expenses,DC,0.0,20250716
+SI,2024,R0020,Investment expenses,DB,0.156929,20250716
+SI,2024,R0020,Investment expenses,DC,0.0,20250716
+SI,2024,R0030,Tax expenses,DB,0.129625,20250716
+SI,2024,R0030,Tax expenses,DC,0.0,20250716
+SI,2024,R0040,Other expenses,DB,1.282188,20250716
+SI,2024,R0040,Other expenses,DC,0.0,20250716
+SI,2024,R0050,Total expenses,DB,18.234544,20250716
+SI,2024,R0050,Total expenses,DC,0.0,20250716
+SK,2020,R0010,Administrative expenses,DB,0.0,20250716
+SK,2020,R0010,Administrative expenses,DC,22.298541,20250716
+SK,2020,R0020,Investment expenses,DB,0.0,20250716
+SK,2020,R0020,Investment expenses,DC,3.932927,20250716
+SK,2020,R0030,Tax expenses,DB,0.0,20250716
+SK,2020,R0030,Tax expenses,DC,0.20661,20250716
+SK,2020,R0040,Other expenses,DB,0.0,20250716
+SK,2020,R0040,Other expenses,DC,1.839091,20250716
+SK,2020,R0050,Total expenses,DB,0.0,20250716
+SK,2020,R0050,Total expenses,DC,28.277168,20250716
+SK,2021,R0010,Administrative expenses,DB,0.0,20250716
+SK,2021,R0010,Administrative expenses,DC,26.459838,20250716
+SK,2021,R0020,Investment expenses,DB,0.0,20250716
+SK,2021,R0020,Investment expenses,DC,11.773376,20250716
+SK,2021,R0030,Tax expenses,DB,0.0,20250716
+SK,2021,R0030,Tax expenses,DC,1.22191,20250716
+SK,2021,R0040,Other expenses,DB,0.0,20250716
+SK,2021,R0040,Other expenses,DC,3.480604,20250716
+SK,2021,R0050,Total expenses,DB,0.0,20250716
+SK,2021,R0050,Total expenses,DC,42.935725,20250716
+SK,2022,R0010,Administrative expenses,DB,0.0,20250716
+SK,2022,R0010,Administrative expenses,DC,26.958557,20250716
+SK,2022,R0020,Investment expenses,DB,0.0,20250716
+SK,2022,R0020,Investment expenses,DC,0.059597,20250716
+SK,2022,R0030,Tax expenses,DB,0.0,20250716
+SK,2022,R0030,Tax expenses,DC,0.392058,20250716
+SK,2022,R0040,Other expenses,DB,0.0,20250716
+SK,2022,R0040,Other expenses,DC,2.333494,20250716
+SK,2022,R0050,Total expenses,DB,0.0,20250716
+SK,2022,R0050,Total expenses,DC,29.743707,20250716
+SK,2023,R0010,Administrative expenses,DB,0.0,20250716
+SK,2023,R0010,Administrative expenses,DC,28.661224,20250716
+SK,2023,R0020,Investment expenses,DB,0.0,20250716
+SK,2023,R0020,Investment expenses,DC,0.002533,20250716
+SK,2023,R0030,Tax expenses,DB,0.0,20250716
+SK,2023,R0030,Tax expenses,DC,0.451591,20250716
+SK,2023,R0040,Other expenses,DB,0.0,20250716
+SK,2023,R0040,Other expenses,DC,2.305254,20250716
+SK,2023,R0050,Total expenses,DB,0.0,20250716
+SK,2023,R0050,Total expenses,DC,31.420603,20250716
+SK,2024,R0010,Administrative expenses,DB,0.0,20250716
+SK,2024,R0010,Administrative expenses,DC,31.735113,20250716
+SK,2024,R0020,Investment expenses,DB,0.0,20250716
+SK,2024,R0020,Investment expenses,DC,21.440014,20250716
+SK,2024,R0030,Tax expenses,DB,0.0,20250716
+SK,2024,R0030,Tax expenses,DC,0.519896,20250716
+SK,2024,R0040,Other expenses,DB,0.0,20250716
+SK,2024,R0040,Other expenses,DC,3.317186,20250716
+SK,2024,R0050,Total expenses,DB,0.0,20250716
+SK,2024,R0050,Total expenses,DC,57.012208,20250716
