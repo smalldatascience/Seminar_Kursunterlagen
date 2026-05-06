@@ -10,7 +10,7 @@ In diesem Repository finden Sie alle Kursunterlagen und Materialien für unsere 
 | **Modul II** | 15.04.2026 | 16:00 – 17:30 | Grundkonzepte der Programmierung I | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smalldatascience/Seminar_2026_tidyverse/HEAD?urlpath=%2Fdoc%2Ftree%2FDatenaufbereitung.ipynb) |
 | **Modul III** | 22.04.2026 | 16:00 – 17:30 | Grundkonzepte der Programmierung II | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smalldatascience/Seminar_2026_data_table/HEAD?urlpath=%2Fdoc%2Ftree%2F2026_data_table.ipynb) |
 | **Modul IV** | 29.04.2026 | 16:00 – 17:30 | Datenvisualisierung in R | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smalldatascience/Seminar_2026_Visualisierungen/HEAD?urlpath=%2Fdoc%2Ftree%2FVisualisierung.ipynb)|
-| **Modul V** | 06.05.2026 | 16:00 – 17:30 | Automatisierung & LLM-Einsatz | [HTML-Bericht](https://smalldatascience.github.io/Seminar_2026_Automatisierung/Bericht.html) |
+| **Modul V** | 06.05.2026 | 16:00 – 17:30 | Automatisierung | [HTML-Bericht](https://smalldatascience.github.io/Seminar_2026_Automatisierung/Bericht.html) |
 
 
 ## Inhalte
